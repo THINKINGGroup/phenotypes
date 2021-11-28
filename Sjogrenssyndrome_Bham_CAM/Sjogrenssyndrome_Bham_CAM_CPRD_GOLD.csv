@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"1928","Keratoconjunctivitis sicca","N002.11",,"2576","CPRD_GOLD"
+"2360","Sicca (Sjogren's) syndrome","N002.00",,"17346","CPRD_GOLD"
+"21022","Myopathy due to Sjogren's disease","F396700",,"136","CPRD_GOLD"
+"47364","Lung disease with Sjogren's disease","H57y300",,"77","CPRD_GOLD"

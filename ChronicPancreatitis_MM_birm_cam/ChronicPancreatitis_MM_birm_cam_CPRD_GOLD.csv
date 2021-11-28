@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"1419","Chronic pancreatitis","J671.00",,"21824","CPRD_GOLD"
+"12124","Atrophy of pancreas","J67y000",,"232","CPRD_GOLD"
+"24984","Alcohol-induced chronic pancreatitis","J671000",,"1025","CPRD_GOLD"
+"42278","Gallstone chronic pancreatitis","J671100",,"209","CPRD_GOLD"
+"49353","[X]Other chronic pancreatitis","Jyu8400",,"25","CPRD_GOLD"
+"70760","Fibrosis of pancreas","J67y200",,"20","CPRD_GOLD"
+"71633","History of chronic pancreatitis","14CH.00",,"393","CPRD_GOLD"

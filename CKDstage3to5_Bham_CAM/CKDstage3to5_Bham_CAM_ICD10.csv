@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"N183","Chronic kidney disease, stage 3","N18.3","","0","ICD10"
+"N184","Chronic kidney disease, stage 4","N18.4","","0","ICD10"
+"N185","Chronic kidney disease, stage 5","N18.5","","0","ICD10"

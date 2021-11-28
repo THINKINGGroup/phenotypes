@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"303404016","Autoimmune chronic active hepatitis","J614111","197284004","6137","CPRD_AURUM"
+"2159899016","Autoimmune hepatitis","J63B.00","408335007","40384","CPRD_AURUM"
+"4787861000006113","PSC - Primary sclerosing cholangitis","","197441003","9","CPRD_AURUM"
+"3010811000006111","Primary biliary cholangitis","","31712002","97","CPRD_AURUM"
+"303614019","Primary sclerosing cholangitis","J661700","197441003","13555","CPRD_AURUM"
+"52980015","Primary biliary cirrhosis","J616000","31712002","48317","CPRD_AURUM"

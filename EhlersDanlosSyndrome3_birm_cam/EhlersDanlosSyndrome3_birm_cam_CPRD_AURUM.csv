@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"628221000006110","Double-jointed (hypermobility)","N235.11","240261009","6854","CPRD_AURUM"
+"2993861000006117","Benign hypermobility syndrome","","30652003","1","CPRD_AURUM"
+"5145191000006114","Generalized benign joint hypermobility","","240261009","0","CPRD_AURUM"
+"2993851000006119","Ehlers-Danlos syndrome, type 3","","30652003","51","CPRD_AURUM"
+"1227289012","Ehlers-Danlos syndrome type III","PGy2200","30652003","7955","CPRD_AURUM"
+"2993871000006112","Ehlers-Danlos syndrome, benign hypermobile form","","30652003","1","CPRD_AURUM"

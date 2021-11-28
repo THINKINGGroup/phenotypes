@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"2377.00","O/E - ankyl.spondyl.chest def.","2377.00",,"20","IMRD"
+"388p.00","BASDAI - Bath ankylosing spondylitis disease activity index","388p.00",,"249","IMRD"
+"388p000","Bath Ankylosing Spondylitis Functional Index","388p000",,"23","IMRD"
+"38QL.00","Bath Ankylosing Spondylitis Metrology Index","38QL.00",,"10","IMRD"
+"N045000","Juvenile ankylosing spondylitis","N045000",,"145","IMRD"
+"N100.00","Ankylosing spondylitis","N100.00",,"42397","IMRD"
+"N100.11","Marie - Strumpell spondylitis","N100.11",,"14","IMRD"

@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"F01","Vascular dementia","F01","","0","ICD10"
+"F010","Vascular dementia of acute onset","F01.0","","0","ICD10"
+"F011","Multi-infarct dementia","F01.1","","0","ICD10"
+"F012","Subcortical vascular dementia","F01.2","","0","ICD10"
+"F013","Mixed cortical and subcortical vascular dementia","F01.3","","0","ICD10"
+"F018","Other vascular dementia","F01.8","","0","ICD10"
+"F019","Vascular dementia, unspecified","F01.9","","0","ICD10"

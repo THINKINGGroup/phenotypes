@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"2195","Bronchiectasis","H34..00",,"124579","CPRD_GOLD"
+"15693","Tuberculous bronchiectasis","A115.00",,"362","CPRD_GOLD"
+"20364","Recurrent bronchiectasis","H340.00",,"647","CPRD_GOLD"
+"32679","Bronchiectasis NOS","H34z.00",,"3084","CPRD_GOLD"
+"41491","Post-infective bronchiectasis","H341.00",,"144","CPRD_GOLD"
+"56427","Congenital bronchiectasis","P861.00",,"32","CPRD_GOLD"
+"109816","H/O: bronchiectasis","14BA.00",,"173","CPRD_GOLD"

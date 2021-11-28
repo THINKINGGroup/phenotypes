@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"1466","Polycystic ovaries","C164.00",,"144631","CPRD_GOLD"
+"11347","Polycystic ovarian syndrome","C165.00",,"51826","CPRD_GOLD"
+"16103","Stein - Leventhal syndrome","C164.12",,"915","CPRD_GOLD"
+"30041","Multicystic ovaries","C164.13",,"281","CPRD_GOLD"
+"38133","Endoscopic drilling of ovary","7E25300",,"420","CPRD_GOLD"

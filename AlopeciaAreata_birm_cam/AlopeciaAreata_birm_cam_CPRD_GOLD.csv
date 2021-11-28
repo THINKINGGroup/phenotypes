@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"685","Alopecia areata","M240100",,"59595","CPRD_GOLD"
+"2154","Alopecia universalis","M240K00",,"595","CPRD_GOLD"
+"2449","Alopecia totalis","M240B00",,"2136","CPRD_GOLD"
+"53782","[X]Other alopecia areata","Myu6200",,"507","CPRD_GOLD"
+"60422","Ophiasis","M240111",,"12","CPRD_GOLD"
+"99217","Ophiasis","M240U00",,"4","CPRD_GOLD"

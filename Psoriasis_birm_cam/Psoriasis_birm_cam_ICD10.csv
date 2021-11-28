@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"L40","Psoriasis","L40","","0","ICD10"
+"L400","Psoriasis vulgaris","L40.0","","0","ICD10"
+"L401","Generalized pustular psoriasis","L40.1","","0","ICD10"
+"L404","Guttate psoriasis","L40.4","","0","ICD10"
+"L405","Arthropathic psoriasis","L40.5","","0","ICD10"
+"L408","Other psoriasis","L40.8","","0","ICD10"
+"L409","Psoriasis, unspecified","L40.9","","0","ICD10"

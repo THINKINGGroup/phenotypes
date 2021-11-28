@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"L63","Alopecia areata","L63","","0","ICD10"
+"L630","Alopecia (capitis) totalis","L63.0","","0","ICD10"
+"L631","Alopecia universalis","L63.1","","0","ICD10"
+"L632","Ophiasis","L63.2","","0","ICD10"
+"L638","Other alopecia areata","L63.8","","0","ICD10"
+"L639","Alopecia areata, unspecified","L63.9","","0","ICD10"

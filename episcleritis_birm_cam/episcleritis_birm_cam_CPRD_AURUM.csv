@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"19639014","Syphilitic episcleritis","A950.00","11338007","7","CPRD_AURUM"
+"399488011","Scleritis and episcleritis","F4K0.00","267659002","24036","CPRD_AURUM"
+"425741000006117","[X]Scleritis+episcleritis in diseases CE","FyuD800","231872000","12","CPRD_AURUM"
+"2432010","Episcleritis","F4K0.11","815008","113051","CPRD_AURUM"
+"52155016","Episcleritis periodica fugax","F4K0100","31166000","164","CPRD_AURUM"
+"117201018","Nodular episcleritis","F4K0200","70558001","3958","CPRD_AURUM"
+"139795018","Tuberculous episcleritis","A173100","84288007","77","CPRD_AURUM"

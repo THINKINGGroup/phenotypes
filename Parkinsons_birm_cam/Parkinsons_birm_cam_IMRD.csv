@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"147F.00","History of Parkinson's disease","147F.00",,"1687","IMRD"
+"Eu02300","[X]Dementia in Parkinson's disease","Eu02300",,"2918","IMRD"
+"F11x900","Cerebral degeneration in Parkinson's disease","F11x900",,"57","IMRD"
+"F12..00","Parkinson's disease","F12..00",,"121410","IMRD"
+"F120.00","Paralysis agitans","F120.00",,"34196","IMRD"
+"F12z.00","Parkinson's disease NOS","F12z.00",,"8924","IMRD"

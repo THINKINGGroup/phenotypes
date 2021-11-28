@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"136","Episcleritis","F4K0.11",,"51617","CPRD_GOLD"
+"6783","Nodular episcleritis","F4K0200",,"1205","CPRD_GOLD"
+"15996","Scleritis and episcleritis","F4K0.00",,"5106","CPRD_GOLD"
+"19652","Tuberculous episcleritis","A173100",,"108","CPRD_GOLD"
+"47820","Episcleritis periodica fugax","F4K0100",,"50","CPRD_GOLD"
+"92243","Syphilitic episcleritis","A950.00",,"9","CPRD_GOLD"
+"101293","[X]Scleritis+episcleritis in diseases CE","FyuD800",,"5","CPRD_GOLD"

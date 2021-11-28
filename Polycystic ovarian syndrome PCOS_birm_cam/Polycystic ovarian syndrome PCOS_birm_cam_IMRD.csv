@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"7E25300","Endoscopic drilling of ovary","7E25300",,"370","IMRD"
+"C164.00","Polycystic ovaries","C164.00",,"131720","IMRD"
+"C164.12","Stein - Leventhal syndrome","C164.12",,"812","IMRD"
+"C164.13","Multicystic ovaries","C164.13",,"260","IMRD"
+"C165.00","Polycystic ovarian syndrome","C165.00",,"49164","IMRD"

@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"14BA.00","H/O: bronchiectasis","14BA.00",,"183","IMRD"
+"A115.00","Tuberculous bronchiectasis","A115.00",,"317","IMRD"
+"H34..00","Bronchiectasis","H34..00",,"114021","IMRD"
+"H340.00","Recurrent bronchiectasis","H340.00",,"574","IMRD"
+"H341.00","Post-infective bronchiectasis","H341.00",,"336","IMRD"
+"H34z.00","Bronchiectasis NOS","H34z.00",,"2613","IMRD"
+"P861.00","Congenital bronchiectasis","P861.00",,"31","IMRD"

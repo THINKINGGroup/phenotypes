@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"J614111","Autoimmune chronic active hepatitis","J614111",,"1241","IMRD"
+"J616000","Primary biliary cirrhosis","J616000",,"7982","IMRD"
+"J63B.00","Autoimmune hepatitis","J63B.00",,"3595","IMRD"
+"J661700","Primary sclerosing cholangitis","J661700",,"2185","IMRD"

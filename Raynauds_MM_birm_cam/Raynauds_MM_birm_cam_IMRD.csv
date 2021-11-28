@@ -1,0 +1,8 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"G730.00","Raynaud's syndrome","G730.00",,"115243","IMRD"
+"G730000","Raynaud's disease","G730000",,"15678","IMRD"
+"G730100","Raynaud's phenomenon","G730100",,"14007","IMRD"
+"G730111","Vibratory white finger","G730111",,"1817","IMRD"
+"G730z00","Raynaud's syndrome NOS","G730z00",,"931","IMRD"
+"G735.11","Vibration white finger","G735.11",,"288","IMRD"
+"N001100","CREST syndrome","N001100",,"1450","IMRD"

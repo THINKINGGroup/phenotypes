@@ -1,0 +1,5 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"108529013","Polymyalgia rheumatica","N20..00","65323003","1703286","CPRD_AURUM"
+"359513016","Giant cell arteritis with polymyalgia rheumatica","N200.00","239938009","8387","CPRD_AURUM"
+"158050019","Polymyalgia","N20..11","65323003","32459","CPRD_AURUM"
+"3562021000006111","PMR - Polymyalgia rheumatica","","65323003","5","CPRD_AURUM"

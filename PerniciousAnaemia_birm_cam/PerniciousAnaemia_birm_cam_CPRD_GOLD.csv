@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"2464","Pernicious anaemia","D010.00",,"92357","CPRD_GOLD"
+"2813","Addison's anaemia","D010.11",,"75","CPRD_GOLD"
+"46289","Congenital deficiency of intrinsic factor","D010.13",,"13","CPRD_GOLD"
+"55370","Biermer's congenital pernicious anaemia","D010.12",,"6","CPRD_GOLD"
+"56973","Myasthenic syndrome due to pernicious anaemia","F381500",,"7","CPRD_GOLD"

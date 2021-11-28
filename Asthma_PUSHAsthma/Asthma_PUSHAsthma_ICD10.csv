@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"J45","Asthma","J45","","0","ICD10"
+"J450","Predominantly allergic asthma","J45.0","","0","ICD10"
+"J451","Nonallergic asthma","J45.1","","0","ICD10"
+"J458","Mixed asthma","J45.8","","0","ICD10"
+"J459","Asthma, unspecified","J45.9","","0","ICD10"
+"J46X","Status asthmaticus","J46","","0","ICD10"

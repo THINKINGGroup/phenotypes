@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"M240100","Alopecia areata","M240100",,"50517","IMRD"
+"M240111","Ophiasis","M240111",,"14","IMRD"
+"M240B00","Alopecia totalis","M240B00",,"1759","IMRD"
+"M240K00","Alopecia universalis","M240K00",,"526","IMRD"
+"M240U00","Ophiasis","M240U00",,"6","IMRD"
+"Myu6200","[X]Other alopecia areata","Myu6200",,"449","IMRD"
