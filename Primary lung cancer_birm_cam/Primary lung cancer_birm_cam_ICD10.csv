@@ -1,0 +1,4 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"C33X","Malignant neoplasm of trachea","C33","","0","ICD10"
+"C34","Malignant neoplasm of bronchus and lung","C34","","0","ICD10"
+"C39","Malignant neoplasm of other and ill-defined sites in the respiratory system and intrathoracic organs","C39","","0","ICD10"
