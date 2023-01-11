@@ -1,0 +1,6 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"C350000","Haemochromatosis","C350000",,"16202","IMRD"
+"C350011","Bronzed diabetes","C350011",,"10","IMRD"
+"C350012","Pigmentary cirrhosis of liver","C350012",,"54","IMRD"
+"C350013","Von Recklinghausen - Applebaum disease","C350013",,"2","IMRD"
+"J615900","Pigmentary portal cirrhosis","J615900",,"0","IMRD"

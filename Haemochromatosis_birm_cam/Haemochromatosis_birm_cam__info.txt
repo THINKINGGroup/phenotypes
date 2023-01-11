@@ -1,0 +1,5 @@
+Name: Haemochromatosis_birm_cam
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2022-03-04
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) IMRD (version: 2021-06-29) 
+Keywords: [applebaum, bronze, bronzed, cirrhosis, diabetes, disease, familial, haemochromatosis, hanot, hemochromatosis, hereditary, iron, liver, neonatal, pigmentary, portal, primary, recklinghausen, storage, von]

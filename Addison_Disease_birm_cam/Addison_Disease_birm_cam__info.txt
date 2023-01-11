@@ -1,0 +1,7 @@
+Name: Addison_Disease_birm_cam
+Created By: m.singh.6@bham.ac.uk
+Created On: 2021-10-17
+Last Modified By: m.singh.6@bham.ac.uk
+Last Modified On: 2021-11-05T13:23:12.754862
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) IMRD (version: 2021-06-29) 
+Keywords: [acute, addison, addisonian, adrenal, adrenocortical, adrenomedullary, anemia, cah, classified, complex, congenital, cortical, corticoadrenal, crisis, diabetes, disease, diseases, disorder, disorders, due, elsewhere, endocrine, following, gland, glands, hypoadrenalism, hypoadrenocorticism, hypofunction, hypoplasia, hypothyroidism, insufficiency, lymphomatosa, medullary, mellitus, meningococcal, myopathy, myxedema, myxoedema, nec, nos, overactivity, pernicious, postprocedural, primary, procedure, schilder, schilder-addison, secondary, septicaemia, septicemia, severe, struma, tuberculosis, tuberculous]

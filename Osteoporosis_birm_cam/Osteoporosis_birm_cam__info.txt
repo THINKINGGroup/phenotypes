@@ -1,0 +1,7 @@
+Name: Osteoporosis_birm_cam
+Created By: e.hathaway@bham.ac.uk
+Created On: 2021-11-01
+Last Modified By: e.hathaway@bham.ac.uk
+Last Modified On: 2022-01-10T14:26:13.311168
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) IMRD (version: 2021-06-29) 
+Keywords: [3d, absorptiometry, administration, age, age-related, atrophy, bone, caused, cervical, changed, classified, co, co-occurrent, collapse, compliance, confirmed, corticosteroid, corticosteroids, date, dexa, diseases, disorders, dissuse, disuse, drug, drug-induced, dual, due, dxa, elsewhere, endocrine, energy, enhanced, esa, femoral, forearm, fracture, fragility, generalised, generalized, h/o, heel, hip, history, idiopathic, ii, induced, involutional, juvenile, kyphosis, lequesne, localized, lumbar, malabsorption, management, medication, minimal, multiple, myeloma, myelomatosis, neck, nos, occurrent, offered, op, osteoporosis, osteoporotic, path, pathological, photon, post, post-surgical, postmenopausal, postoophorectomy, postsurgical, posttraumatic, primary, problems, quantitative, ray, related, response, restart, result, review, scan, secondary, senile, services, sparing, spine, started, stopped, study, surgical, thoracic, transient, trauma, treatment, type, ultrasound, unspecified, vertebra, vertebrae, vertebral, without, x, x-ray]

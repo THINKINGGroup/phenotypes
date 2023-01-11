@@ -1,0 +1,5 @@
+Name: ChronicFatigueSyndromeMM_birm_cam
+Created By: j.s.chandan.1@bham.ac.uk
+Created On: 2020-09-21
+Contains codes for: CPRD_AURUM (version: 2020-08-01) CPRD_GOLD (version: 2020-07-16) IMRD (version: 2020-06-16) 
+Keywords: [benign, cfs, chronic, encephalitis, encephalomyelitis, encephalopathy, fatigue, mild, moderate, myalgic, rfc, severe, synd, syndrome]

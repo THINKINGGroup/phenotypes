@@ -1,0 +1,5 @@
+Name: PTSD_TLC_V2
+Created By: m.singh.6@bham.ac.uk
+Created On: 2022-04-12
+Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
+Keywords: [1, 2, 3, acting, activities, acute, avoidance, avoiding, behaviour, bit, c, chronic, complex, disorder, disturbing, dreams, duplicative, duration, episodic, events, experience, extremely, feeling, feelings, flashbacks, happening, images, impact, important, intervention, little, long, memories, moderately, neurosis, parts, past, pcl, pcl-c, phase, phased, physical, post, post-traumatic, posttrauma, posttraumatic, programme, ptsd, quite, reaction, related, reliving, remembering, reminded, repeated, rfc, scale, score, short, situation, situations, something, state, stress, stressful, suddenly, syndrome, talking, thinking, thoughts, traumatic, trouble, upset, x]

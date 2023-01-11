@@ -1,0 +1,7 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
+"A187","Tuberculosis of adrenal glands","A18.7","","0","ICD10"
+"E271","Primary adrenocortical insufficiency","E27.1","","0","ICD10"
+"E272","Addisonian crisis","E27.2","","0","ICD10"
+"E351","Disorders of adrenal glands in diseases classified elsewhere","E35.1","","0","ICD10"
+"E896","Postprocedural adrenocortical(-medullary) hypofunction","E89.6","","0","ICD10"
+"G735","Myopathy in endocrine diseases","G73.5","","0","ICD10"

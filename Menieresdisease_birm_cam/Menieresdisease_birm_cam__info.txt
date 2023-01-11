@@ -1,0 +1,7 @@
+Name: Menieresdisease_birm_cam
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2021-12-13
+Last Modified By: cooperjx@adf.bham.ac.uk
+Last Modified On: 2021-12-13T17:32:56.667511
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) IMRD (version: 2021-06-29) 
+Keywords: [active, cochlear, cochleovestibular, disease, disorder, endolymphatic, h/o, history, hydrops, lermoyez, meniere, menieres, mã, ménière, niã, nos, re, rfc, syndrome, unspecified, vertigo, vertigo/meniere, vestibular]

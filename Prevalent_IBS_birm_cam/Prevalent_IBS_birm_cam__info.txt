@@ -1,0 +1,5 @@
+Name: Prevalent_IBS_birm_cam
+Created By: dsk523@student.bham.ac.uk
+Created On: 2021-05-18
+Contains codes for: CPRD_AURUM (version: 2020-08-01) CPRD_GOLD (version: 2021-02-08) 
+Keywords: [alternating, bowel, characterised, characterized, colon, constipation, diarrhea, diarrhoea, habit, history, ibs, ic, irritable, management, predominant, psychogenic, syndrome, x]

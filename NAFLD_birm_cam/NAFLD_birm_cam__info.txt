@@ -1,0 +1,5 @@
+Name: NAFLD_birm_cam
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2022-08-15
+Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) 
+Keywords: [alcoholic, chronic, disease, fatty, liver, nafld, nash, non, non-alcoholic, nonalcoholic, steatohepatitis, without]

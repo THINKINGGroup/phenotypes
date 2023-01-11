@@ -1,0 +1,5 @@
+Name: Sickle_Cell_Disease_birm_cam
+Created By: s.i.lee@bham.ac.uk
+Created On: 2020-08-27
+Contains codes for: CPRD_AURUM (version: 2020-08-01) CPRD_GOLD (version: 2020-07-16) IMRD (version: 2020-06-16) 
+Keywords: [anaemia, anemia, annual, beta, c, cell, cell-beta-thalassaemia, cell-beta-thalassemia, cell-haemoglobin, cell-hemoglobin, crisis, d, decompression, disease, disorders, due, e, h/o, haemoglobin, hemoglobin, history, nephropathy, nos, proliferative, retinopathy, review, sickle, sickle-cell, ss, syndrome, thalassaemia, thalassemia, type, unfit, unspecified, without, x]

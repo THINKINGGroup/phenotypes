@@ -1,0 +1,5 @@
+Name: PMRandGCA_MM_Birm_cam
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2022-03-04
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) IMRD (version: 2021-06-29) 
+Keywords: [access, arteritis, artery, cell, certonciny, clinic, cranial, disease, forestier, forestier-certonciny, giant, h/o, horton, nos, pmr, polymyalgia, pseudopolyarthritis, rapid, referral, rheumatica, rhizomelic, structure, superficial, syndrome, ta, temporal, without, x]

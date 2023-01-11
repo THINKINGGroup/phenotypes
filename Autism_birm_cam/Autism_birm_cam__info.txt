@@ -1,0 +1,5 @@
+Name: Autism_birm_cam
+Created By: k.phillips.1@bham.ac.uk
+Created On: 2021-10-20
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) IMRD (version: 2021-06-29) 
+Keywords: [active, asperger, aspergers, atypical, autism, autistic, childhood, clinic, disorder, features, functioning, high, high-functioning, infantile, isolated, kanner, mental, nos, onset, psychopathy, residual, retardation, skills, spectrum, syndrome, thinking, x]
