@@ -1,4 +1,4 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"F840","Childhood autism","F84.0","","0","ICD10"
-"F841","Atypical autism","F84.1","","0","ICD10"
-"F845","Asperger syndrome","F84.5","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"F840","Childhood autism","F84.0","","ICD10"
+"F841","Atypical autism","F84.1","","ICD10"
+"F845","Asperger syndrome","F84.5","","ICD10"

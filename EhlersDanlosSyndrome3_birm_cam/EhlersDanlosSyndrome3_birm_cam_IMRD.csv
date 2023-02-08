@@ -1,4 +1,4 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"N235.00","Hypermobility syndrome","N235.00",,"27559","IMRD"
-"N235.11","Double-jointed (hypermobility)","N235.11",,"380","IMRD"
-"PGy2200","Ehlers-Danlos syndrome type III","PGy2200",,"176","IMRD"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"N235.00","Hypermobility syndrome","N235.00","","IMRD"
+"N235.11","Double-jointed (hypermobility)","N235.11","","IMRD"
+"PGy2200","Ehlers-Danlos syndrome type III","PGy2200","","IMRD"

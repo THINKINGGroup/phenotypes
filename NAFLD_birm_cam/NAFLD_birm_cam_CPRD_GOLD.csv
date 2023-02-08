@@ -1,3 +1,3 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"10234","Non-alcoholic fatty liver","J61y100",,"54152","CPRD_GOLD"
-"98148","Nonalcoholic steatohepatitis","J61y800",,"1431","CPRD_GOLD"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"10234","Non-alcoholic fatty liver","J61y100","","CPRD_GOLD"
+"98148","Nonalcoholic steatohepatitis","J61y800","","CPRD_GOLD"

@@ -1,3 +1,3 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"F262000","Cluster headache","F262000",,"56024","IMRD"
-"F262100","Horton's (histamine) neuralgia","F262100",,"26","IMRD"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"F262000","Cluster headache","F262000","","IMRD"
+"F262100","Horton's (histamine) neuralgia","F262100","","IMRD"

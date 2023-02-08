@@ -1,2 +1,2 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"D510","Vitamin B?? deficiency anaemia due to intrinsic factor deficiency","D51.0","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"D510","Vitamin B?? deficiency anaemia due to intrinsic factor deficiency","D51.0","","ICD10"

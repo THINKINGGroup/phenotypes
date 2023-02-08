@@ -1,2 +1,2 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"F431","Post-traumatic stress disorder","F43.1","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"F431","Post-traumatic stress disorder","F43.1","","ICD10"

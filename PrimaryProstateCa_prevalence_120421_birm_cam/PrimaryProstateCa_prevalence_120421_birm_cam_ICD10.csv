@@ -1,2 +1,2 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"C61X","Malignant neoplasm of prostate","C61","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"C61X","Malignant neoplasm of prostate","C61","","ICD10"

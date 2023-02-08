@@ -1,3 +1,3 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"B171","Acute hepatitis C","B17.1","","0","ICD10"
-"B182","Chronic viral hepatitis C","B18.2","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"B171","Acute hepatitis C","B17.1","","ICD10"
+"B182","Chronic viral hepatitis C","B18.2","","ICD10"

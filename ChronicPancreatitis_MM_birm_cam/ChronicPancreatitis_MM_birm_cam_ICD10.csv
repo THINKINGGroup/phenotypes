@@ -1,3 +1,3 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"K860","Alcohol-induced chronic pancreatitis","K86.0","","0","ICD10"
-"K861","Other chronic pancreatitis","K86.1","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"K860","Alcohol-induced chronic pancreatitis","K86.0","","ICD10"
+"K861","Other chronic pancreatitis","K86.1","","ICD10"

@@ -1,4 +1,4 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"1408","Polymyalgia rheumatica","N20..00",,"377149","CPRD_GOLD"
-"3042","Polymyalgia","N20..11",,"16482","CPRD_GOLD"
-"29472","Giant cell arteritis with polymyalgia rheumatica","N200.00",,"818","CPRD_GOLD"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"1408","Polymyalgia rheumatica","N20..00","","CPRD_GOLD"
+"3042","Polymyalgia","N20..11","","CPRD_GOLD"
+"29472","Giant cell arteritis with polymyalgia rheumatica","N200.00","","CPRD_GOLD"

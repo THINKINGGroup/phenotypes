@@ -1,3 +1,3 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"R521","Chronic intractable pain","R52.1","","0","ICD10"
-"R522","Other chronic pain","R52.2","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"R521","Chronic intractable pain","R52.1","","ICD10"
+"R522","Other chronic pain","R52.2","","ICD10"

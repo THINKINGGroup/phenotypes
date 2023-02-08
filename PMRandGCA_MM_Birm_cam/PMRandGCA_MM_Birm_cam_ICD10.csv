@@ -1,4 +1,4 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","FREQUENCY","DATABASE"
-"M315","Giant cell arteritis with polymyalgia rheumatica","M31.5","","0","ICD10"
-"M316","Other giant cell arteritis","M31.6","","0","ICD10"
-"M353","Polymyalgia rheumatica","M35.3","","0","ICD10"
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"M315","Giant cell arteritis with polymyalgia rheumatica","M31.5","","ICD10"
+"M316","Other giant cell arteritis","M31.6","","ICD10"
+"M353","Polymyalgia rheumatica","M35.3","","ICD10"
