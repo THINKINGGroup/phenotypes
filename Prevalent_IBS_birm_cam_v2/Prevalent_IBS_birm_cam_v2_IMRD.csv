@@ -1,0 +1,9 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+14CF.00,History of irritable bowel syndrome,14CF.00,,IMRD
+8Cm..00,Management of irritable bowel syndrome,8Cm..00,,IMRD
+Eu45324,[X]Psychogenic IBS,Eu45324,,IMRD
+J521.00,Irritable colon - Irritable bowel syndrome,J521.00,,IMRD
+J521.11,Irritable bowel syndrome,J521.11,,IMRD
+J521000,Irritable bowel syndrome with diarrhoea,J521000,,IMRD
+J521100,Irritable bowel syndrome characterised by constipation,J521100,,IMRD
+J521200,IBS characterised by alternating bowel habit,J521200,,IMRD

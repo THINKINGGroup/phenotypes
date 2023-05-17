@@ -1,0 +1,6 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+Q90,Down syndrome,Q90,,ICD10
+Q900,"Trisomy 21, meiotic nondisjunction",Q90.0,,ICD10
+Q901,"Trisomy 21, mosaicism (mitotic nondisjunction)",Q90.1,,ICD10
+Q902,"Trisomy 21, translocation",Q90.2,,ICD10
+Q909,"Down syndrome, unspecified",Q90.9,,ICD10

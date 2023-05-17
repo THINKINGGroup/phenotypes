@@ -1,0 +1,94 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+302,"Moderate mental retardation, IQ in range 35-49",E310.00,,CPRD_GOLD
+1278,Imbecile,E310.11,,CPRD_GOLD
+1362,Mental retardation,E3...00,,CPRD_GOLD
+1680,Educationally subnormal,E30..11,,CPRD_GOLD
+1787,"Mild mental retardation, IQ in range 50-70",E30..00,,CPRD_GOLD
+4477,[X]Learning disability NOS,Eu81z11,,CPRD_GOLD
+4825,"Severe mental retardation, IQ in range 20-34",E311.00,,CPRD_GOLD
+6123,[X]Moderate mental retardation,Eu71.00,,CPRD_GOLD
+11866,Intellectual functioning disability,Z7CBE00,,CPRD_GOLD
+16855,[X]Learning disorder NOS,Eu81z12,,CPRD_GOLD
+19436,Learning disability,ZS34.11,,CPRD_GOLD
+19445,Learning disabilities administration status,9HB..00,,CPRD_GOLD
+22645,Thought retardation,1Ba2.00,,CPRD_GOLD
+22760,On learning disability register,918e.00,,CPRD_GOLD
+27533,Cretinism,C03z.12,,CPRD_GOLD
+27691,[X]Severe mental subnormality,Eu72.11,,CPRD_GOLD
+28740,[X]Mild mental retardation,Eu70.00,,CPRD_GOLD
+28962,[X]Mental retardation,Eu7..00,,CPRD_GOLD
+30362,[D]Global retardation,R034y11,,CPRD_GOLD
+32511,Learning disabilities health assessment,9HB3.00,,CPRD_GOLD
+32820,[X]Unsp mental retardation without mention impairment behav,Eu7zz00,,CPRD_GOLD
+32952,Learning disabilities annual health assessment,9HB5.00,,CPRD_GOLD
+33949,[X]Mild mental subnormality,Eu70.12,,CPRD_GOLD
+34174,[X]Mental retardation with autistic features,Eu84112,,CPRD_GOLD
+34734,[X]Moderate mental subnormality,Eu71.11,,CPRD_GOLD
+36045,[X]Learn acquisition disab NOS,Eu81z13,,CPRD_GOLD
+36143,[X]Severe mental retardation,Eu72.00,,CPRD_GOLD
+37867,Mental retardation NOS,E3z..00,,CPRD_GOLD
+37887,[X]Mental deficiency NOS,Eu7z.11,,CPRD_GOLD
+37911,[X]Mental subnormality NOS,Eu7z.12,,CPRD_GOLD
+39016,"[X]Mild mental retardation, other impairments of behaviour",Eu70y00,,CPRD_GOLD
+39412,[X]Mld mental retard sig impairment behav req attent/treatmt,Eu70100,,CPRD_GOLD
+41391,Learning disabilities health action plan offered,9HB1.00,,CPRD_GOLD
+42520,"[X]Other mental retardation, other impairments of behaviour",Eu7yy00,,CPRD_GOLD
+42589,[X]Unspecified mental retardation,Eu7z.00,,CPRD_GOLD
+42886,[X]Unsp mental retard with statement no or min impairm behav,Eu7z000,,CPRD_GOLD
+43436,Learning disabilities health action plan completed,9HB4.00,,CPRD_GOLD
+43445,Learning disabilities health action plan reviewed,9HB2.00,,CPRD_GOLD
+43447,Learning disabilities health action plan declined,9HB0.00,,CPRD_GOLD
+45133,Profound mental retardation with IQ less than 20,E312.00,,CPRD_GOLD
+46504,[X]Mld mental retard with statement no or min impairm behav,Eu70000,,CPRD_GOLD
+47449,Goitrous cretin,C031.00,,CPRD_GOLD
+50606,[X]Mild mental retardation without mention impairment behav,Eu70z00,,CPRD_GOLD
+50751,[X]Sev mental retard sig impairment behav req attent/treatmt,Eu72100,,CPRD_GOLD
+50947,[X]Sev mental retard with statement no or min impairm behav,Eu72000,,CPRD_GOLD
+51268,[X]Profound mental retardation,Eu73.00,,CPRD_GOLD
+51622,Idiocy,E312.11,,CPRD_GOLD
+51954,Feeble-minded,E30..12,,CPRD_GOLD
+52602,[X]Overactive disorder assoc mental retard/stereotype movts,Eu84400,,CPRD_GOLD
+54179,Other specified mental retardation NOS,E31z.00,,CPRD_GOLD
+54881,[X]Mod mental retard sig impairment behav req attent/treatmt,Eu71100,,CPRD_GOLD
+55560,[X]Sev mental retardation without mention impairment behav,Eu72z00,,CPRD_GOLD
+55848,"[X]Severe mental retardation, other impairments of behaviour",Eu72y00,,CPRD_GOLD
+56547,[X]Oth mental retard sig impairment behav req attent/treatmt,Eu7y100,,CPRD_GOLD
+56577,Other specified mental retardation,E31..00,,CPRD_GOLD
+57162,[X]Developmental Gerstmann's syndrome,Eu81213,,CPRD_GOLD
+57199,Other specified mental retardation,E3y..00,,CPRD_GOLD
+59407,[X]Mod retard oth behav impair,Eu71y00,,CPRD_GOLD
+60062,[X]Prfnd mental retardation without mention impairment behav,Eu73z00,,CPRD_GOLD
+60473,[X]Mod mental retardation without mention impairment behav,Eu71z00,,CPRD_GOLD
+60913,[X]Mod mental retard with statement no or min impairm behav,Eu71000,,CPRD_GOLD
+63273,[X]Other mental retardation without mention impairment behav,Eu7yz00,,CPRD_GOLD
+65468,[X]Profound mental subnormality,Eu73.11,,CPRD_GOLD
+66383,"[X]Unspecified mental retardatn, other impairments of behav",Eu7zy00,,CPRD_GOLD
+66783,[X]Unsp mentl retard sig impairment behav req attent/treatmt,Eu7z100,,CPRD_GOLD
+67513,Cretinism,C03..11,,CPRD_GOLD
+70008,[X]Oth mental retard with statement no or min impairm behav,Eu7y000,,CPRD_GOLD
+70102,[X]Profound ment retrd wth statement no or min impairm behav,Eu73000,,CPRD_GOLD
+71196,[X]Other mental retardation,Eu7y.00,,CPRD_GOLD
+71632,Moron,E30..13,,CPRD_GOLD
+84154,[X]Feeble-mindedness,Eu70.11,,CPRD_GOLD
+90276,"[X]Profound mental retardation, other impairments of behavr",Eu73y00,,CPRD_GOLD
+98100,[X]Profound ment retard sig impairmnt behav req attent/treat,Eu73100,,CPRD_GOLD
+98293,[X]Severe learning disability,Eu81500,,CPRD_GOLD
+98342,[X]Moderate learning disability,Eu81400,,CPRD_GOLD
+99774,[X]Mild learning disability,Eu81600,,CPRD_GOLD
+100648,[X]Profound learning disability,Eu81700,,CPRD_GOLD
+100729,Did not attend learning disabilities annual health assessmnt,9HB7.00,,CPRD_GOLD
+100730,Learning disabilities annual health assessment declined,9HB6.00,,CPRD_GOLD
+100899,[X]Global developmental delay,Eu85.00,,CPRD_GOLD
+100965,Learning disabilities annual health check declined,9HB6.11,,CPRD_GOLD
+100980,Exception reporting: learning disability quality indicators,9hL..00,,CPRD_GOLD
+102234,Did not attend learning disabilities annual health check,9HB7.11,,CPRD_GOLD
+106219,Learning disability annual health check invitation,9mA..00,,CPRD_GOLD
+106247,Learning disability annual health check letter invitation,9mA2.00,,CPRD_GOLD
+106248,Learning disability annual health check telephone invitation,9mA1.00,,CPRD_GOLD
+106249,Learning disability annual health check verbal invitation,9mA0.00,,CPRD_GOLD
+106272,Learning disability annual health check invtation 1st letter,9mA2000,,CPRD_GOLD
+106274,Learning disability annual health check invtation 2nd letter,9mA2100,,CPRD_GOLD
+106276,Learning disability annual health check invtation 3rd letter,9mA2200,,CPRD_GOLD
+110427,Intellectual development disorder of unknown aetiology,13VC900,,CPRD_GOLD
+110676,Learning disability excluded,1IN..00,,CPRD_GOLD
+110792,Under care of community learning disability team,9Nh4.00,,CPRD_GOLD

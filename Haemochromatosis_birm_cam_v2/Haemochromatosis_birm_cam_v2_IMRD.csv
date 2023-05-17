@@ -1,0 +1,11 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+C350000,Haemochromatosis,C350000,,IMRD
+C350011,Bronzed diabetes,C350011,,IMRD
+C350012,Pigmentary cirrhosis of liver,C350012,,IMRD
+C350013,Von Recklinghausen - Applebaum disease,C350013,,IMRD
+C350100,"Haemosiderosis, primary",C350100,,IMRD
+C350200,"Haemosiderosis, acquired",C350200,,IMRD
+C350300,Idiopathic pulmonary haemosiderosis,C350300,,IMRD
+C350400,Haemosiderosis NOS,C350400,,IMRD
+C350z00,Disorder of iron metabolism NOS,C350z00,,IMRD
+J615900,Pigmentary portal cirrhosis,J615900,,IMRD

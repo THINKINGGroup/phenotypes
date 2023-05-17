@@ -1,0 +1,11 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+1543,Down's syndrome - trisomy 21,PJ0..00,,CPRD_GOLD
+10759,Down's syndrome NOS,PJ0z.00,,CPRD_GOLD
+18415,Trisomy 21,PJ0..12,,CPRD_GOLD
+23489,Mongolism,PJ0..11,,CPRD_GOLD
+32010,"Trisomy 21, mosaicism",PJ01.00,,CPRD_GOLD
+42701,"Trisomy 21, meiotic nondisjunction",PJ00.00,,CPRD_GOLD
+61499,"Trisomy 21, translocation",PJ02.00,,CPRD_GOLD
+61627,Trisomy 21 NOS,PJ0z.11,,CPRD_GOLD
+101309,Partial trisomy 21 in Down's syndrome,PJ02.11,,CPRD_GOLD
+107919,"Trisomy 21, mitotic nondisjunction",PJ01.11,,CPRD_GOLD

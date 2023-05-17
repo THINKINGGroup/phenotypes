@@ -1,0 +1,4 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+K58,Irritable bowel syndrome,K58,,ICD10
+K580,Irritable bowel syndrome with diarrhoea,K58.0,,ICD10
+K589,Irritable bowel syndrome without diarrhoea,K58.9,,ICD10

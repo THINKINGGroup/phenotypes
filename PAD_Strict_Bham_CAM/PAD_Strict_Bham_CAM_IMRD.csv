@@ -1,0 +1,70 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+14NB.00,H/O: Peripheral vascular disease procedure,14NB.00,,IMRD
+1M11000,Ischaemic foot pain at rest,1M11000,,IMRD
+1M11100,Ischaemic foot pain when walking,1M11100,,IMRD
+2I16.00,O/E - gangrene,2I16.00,,IMRD
+8HlP.00,Referred for peripheral artery disease assessment,8HlP.00,,IMRD
+G700.11,Aorto-iliac disease,G700.11,,IMRD
+G702.00,Extremity artery atheroma,G702.00,,IMRD
+G702z00,Extremity artery atheroma NOS,G702z00,,IMRD
+G73..00,Other peripheral vascular disease,G73..00,,IMRD
+G73..11,Peripheral ischaemic vascular disease,G73..11,,IMRD
+G73..12,Ischaemia of legs,G73..12,,IMRD
+G73..13,Peripheral ischaemia,G73..13,,IMRD
+G731000,Buerger's disease,G731000,,IMRD
+G731100,Presenile gangrene,G731100,,IMRD
+G732.00,Peripheral gangrene,G732.00,,IMRD
+G732000,Gangrene of toe,G732000,,IMRD
+G732100,Gangrene of foot,G732100,,IMRD
+G733.00,Ischaemic foot,G733.00,,IMRD
+G734.00,Peripheral arterial disease,G734.00,,IMRD
+G73y.00,Other specified peripheral vascular disease,G73y.00,,IMRD
+G73y000,Diabetic peripheral angiopathy,G73y000,,IMRD
+G73y100,Peripheral angiopathic disease EC NOS,G73y100,,IMRD
+G73yz00,Other specified peripheral vascular disease NOS,G73yz00,,IMRD
+G73z.00,Peripheral vascular disease NOS,G73z.00,,IMRD
+G73z000,Intermittent claudication,G73z000,,IMRD
+G73z011,Claudication,G73z011,,IMRD
+G73z012,Vascular claudication,G73z012,,IMRD
+G73z100,Spasm of peripheral artery,G73z100,,IMRD
+G73zz00,Peripheral vascular disease NOS,G73zz00,,IMRD
+G74..00,Arterial embolism and thrombosis,G74..00,,IMRD
+G74..11,Arterial embolus and thrombosis,G74..11,,IMRD
+G74..12,Thrombosis - arterial,G74..12,,IMRD
+G74..13,Arterial embolic and thrombotic occlusion,G74..13,,IMRD
+G740.12,Aortoiliac obstruction,G740.12,,IMRD
+G740.13,Leriche's syndrome,G740.13,,IMRD
+G742.00,Embolism and thrombosis of an arm or leg artery,G742.00,,IMRD
+G742000,Embolism and thrombosis of the brachial artery,G742000,,IMRD
+G742100,Embolism and thrombosis of the radial artery,G742100,,IMRD
+G742200,Embolism and thrombosis of the ulnar artery,G742200,,IMRD
+G742300,Embolism and thrombosis of an arm artery NOS,G742300,,IMRD
+G742400,Embolism and thrombosis of the femoral artery,G742400,,IMRD
+G742500,Embolism and thrombosis of the popliteal artery,G742500,,IMRD
+G742600,Embolism and thrombosis of the anterior tibial artery,G742600,,IMRD
+G742700,Embolism and thrombosis of the dorsalis pedis artery,G742700,,IMRD
+G742800,Embolism and thrombosis of the posterior tibial artery,G742800,,IMRD
+G742900,Embolism and thrombosis of a leg artery NOS,G742900,,IMRD
+G742B00,Post radiological embolism of lower limb artery,G742B00,,IMRD
+G742z00,Peripheral arterial embolism and thrombosis NOS,G742z00,,IMRD
+G74y000,Embolism and/or thrombosis of the common iliac artery,G74y000,,IMRD
+G74y100,Embolism and/or thrombosis of the internal iliac artery,G74y100,,IMRD
+G74y200,Embolism and/or thrombosis of the external iliac artery,G74y200,,IMRD
+G74y300,Embolism and thrombosis of the iliac artery unspecified,G74y300,,IMRD
+G74z.00,Arterial embolism and thrombosis NOS,G74z.00,,IMRD
+G761.00,Stricture of artery,G761.00,,IMRD
+G765.00,Necrosis of artery,G765.00,,IMRD
+G768z00,Other disorders of arteries and arterioles NOS,G768z00,,IMRD
+G76A.00,Arterial insufficiency,G76A.00,,IMRD
+G76z.00,Disorders of arteries and arterioles NOS,G76z.00,,IMRD
+G76z000,Iliac artery occlusion,G76z000,,IMRD
+G76z100,Femoral artery occlusion,G76z100,,IMRD
+G76z200,Popliteal artery occlusion,G76z200,,IMRD
+G7y..00,"Other specified arterial, arteriole or capillary disease",G7y..00,,IMRD
+G7z..00,"Arterial, arteriole and capillary diseases NOS",G7z..00,,IMRD
+Gyu7400,[X]Other specified peripheral vascular diseases,Gyu7400,,IMRD
+R054.00,[D]Gangrene,R054.00,,IMRD
+R054000,"[D]Gangrene, spreading cutaneous",R054000,,IMRD
+R054200,[D]Gangrene of toe in diabetic,R054200,,IMRD
+R054300,[D]Widespread diabetic foot gangrene,R054300,,IMRD
+R054z00,[D]Gangrene NOS,R054z00,,IMRD

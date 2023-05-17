@@ -1,0 +1,4 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+D57,Sickle-cell disorders,D57,,ICD10
+D570,Sickle-cell anaemia with crisis,D57.0,,ICD10
+D571,Sickle-cell anaemia without crisis,D57.1,,ICD10

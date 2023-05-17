@@ -1,0 +1,11 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+PJ0..00,Down's syndrome - trisomy 21,PJ0..00,,IMRD
+PJ0..11,Mongolism,PJ0..11,,IMRD
+PJ0..12,Trisomy 21,PJ0..12,,IMRD
+PJ00.00,"Trisomy 21, meiotic nondisjunction",PJ00.00,,IMRD
+PJ01.00,"Trisomy 21, mosaicism",PJ01.00,,IMRD
+PJ01.11,"Trisomy 21, mitotic nondisjunction",PJ01.11,,IMRD
+PJ02.00,"Trisomy 21, translocation",PJ02.00,,IMRD
+PJ02.11,Partial trisomy 21 in Down's syndrome,PJ02.11,,IMRD
+PJ0z.00,Down's syndrome NOS,PJ0z.00,,IMRD
+PJ0z.11,Trisomy 21 NOS,PJ0z.11,,IMRD

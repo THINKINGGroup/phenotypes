@@ -1,0 +1,23 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+H90,Conductive and sensorineural hearing loss,H90,,ICD10
+H900,"Conductive hearing loss, bilateral",H90.0,,ICD10
+H901,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",H90.1,,ICD10
+H902,"Conductive hearing loss, unspecified",H90.2,,ICD10
+H903,"Sensorineural hearing loss, bilateral",H90.3,,ICD10
+H904,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",H90.4,,ICD10
+H905,"Sensorineural hearing loss, unspecified",H90.5,,ICD10
+H906,"Mixed conductive and sensorineural hearing loss, bilateral",H90.6,,ICD10
+H907,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",H90.7,,ICD10
+H908,"Mixed conductive and sensorineural hearing loss, unspecified",H90.8,,ICD10
+H91,Other hearing loss,H91,,ICD10
+H910,Ototoxic hearing loss,H91.0,,ICD10
+H911,Presbycusis,H91.1,,ICD10
+H912,Sudden idiopathic hearing loss,H91.2,,ICD10
+H913,"Deaf mutism, not elsewhere classified",H91.3,,ICD10
+H918,Other specified hearing loss,H91.8,,ICD10
+H919,"Hearing loss, unspecified",H91.9,,ICD10
+Q16,Congenital malformations of ear causing impairment of hearing,Q16,,ICD10
+Q169,"Congenital malformation of ear causing impairment of hearing, unspecified",Q16.9,,ICD10
+Z453,Adjustment and management of implanted hearing device,Z45.3,,ICD10
+Z461,Fitting and adjustment of hearing aid,Z46.1,,ICD10
+Z974,Presence of external hearing-aid,Z97.4,,ICD10

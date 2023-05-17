@@ -1,0 +1,19 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+909701000006113,[RFC] Post traumatic stress disorder,,909701000006109,CPRD_AURUM
+1949511000006113,Phased intervention programme for complex PTSD,,1949511000006109,CPRD_AURUM
+1949521000006117,Phased intervention programme for complex PTSD - phase 1,,1949521000006101,CPRD_AURUM
+1949541000006112,Phased intervention programme for complex PTSD - phase 3,,1949541000006108,CPRD_AURUM
+1755921000006119,[X]Acute post-traumatic stress disorder follow military comb,Eu43300,446175003,CPRD_AURUM
+1755931000006116,[X]Chron post-traumatic stress disorder follow military comb,Eu43400,699241002,CPRD_AURUM
+3268081000006115,PTSD - Post-traumatic stress disorder,,47505003,CPRD_AURUM
+3268061000006113,Posttraumatic stress disorder,,47505003,CPRD_AURUM
+3268071000006118,Traumatic neurosis,,47505003,CPRD_AURUM
+423021000006114,[X]Post - traumatic stress disorder,Eu43100,47505003,CPRD_AURUM
+429421000006116,[X]Traumatic neurosis,Eu43111,47505003,CPRD_AURUM
+12730101000006118,Other post-traumatic stress disorder,,620181000000106,CPRD_AURUM
+295512014,Other post-traumatic stress disorder,E29y100,47505003,CPRD_AURUM
+1755941000006114,[X]Delayed post-traumat stress disorder follow military comb,Eu43500,446180007,CPRD_AURUM
+1949531000006119,Phased intervention programme for complex PTSD - phase 2,,1949531000006103,CPRD_AURUM
+3268091000006117,Post-traumatic stress syndrome,,47505003,CPRD_AURUM
+7285321000006119,Complex posttraumatic stress disorder,,443919007,CPRD_AURUM
+6027091000006114,Chronic post-traumatic stress disorder,,313182004,CPRD_AURUM

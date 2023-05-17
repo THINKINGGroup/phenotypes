@@ -1,0 +1,97 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+302011,Diabetic peripheral angiopathy,G73y000,127014009,CPRD_AURUM
+14121019,Necrosis of artery,G765.00,7930004,CPRD_AURUM
+105536013,Intermittent claudication,G73z000,63491006,CPRD_AURUM
+113137016,Stricture of artery,G761.00,68109007,CPRD_AURUM
+256133012,O/E - gangrene,2I16.00,164625009,CPRD_AURUM
+300502019,Presenile gangrene,G731100,195299000,CPRD_AURUM
+300504018,Peripheral gangrene,G732.00,195301007,CPRD_AURUM
+300505017,Gangrene of toe,G732000,195302000,CPRD_AURUM
+300506016,Gangrene of foot,G732100,195303005,CPRD_AURUM
+300534011,Embolism and thrombosis of an arm or leg artery,G742.00,195318006,CPRD_AURUM
+300535012,Embolism and thrombosis of the brachial artery,G742000,195319003,CPRD_AURUM
+300536013,Embolism and thrombosis of the radial artery,G742100,195320009,CPRD_AURUM
+300541017,Embolism and thrombosis of the anterior tibial artery,G742600,195325004,CPRD_AURUM
+300543019,Embolism and thrombosis of the posterior tibial artery,G742800,195327007,CPRD_AURUM
+300553018,Embolism and/or thrombosis of the common iliac artery,G74y000,195335005,CPRD_AURUM
+300607015,Arterial insufficiency,G76A.00,195374003,CPRD_AURUM
+350533013,Peripheral ischaemia,G73..13,233958001,CPRD_AURUM
+350535018,Peripheral ischaemic vascular disease,G73..11,233958001,CPRD_AURUM
+395794011,Arterial embolic and thrombotic occlusion,G74..13,266262004,CPRD_AURUM
+443199013,Ischaemic foot,G733.00,301755001,CPRD_AURUM
+451198016,Leriche's syndrome,G740.13,307816004,CPRD_AURUM
+458506014,Femoral artery occlusion,G76z100,314188009,CPRD_AURUM
+458507017,Popliteal artery occlusion,G76z200,314189001,CPRD_AURUM
+1176621000000116,Referred for peripheral artery disease assessment,8HlP.00,527251000000101,CPRD_AURUM
+1699111000006110,Ischaemic foot,,1699111000006106,CPRD_AURUM
+1823971000006118,Peripheral arterial disease confirmed,,1823971000006102,CPRD_AURUM
+2377871000000112,Ischaemic foot pain at rest,1M11000,713412006,CPRD_AURUM
+300434013,Extremity artery atheroma NOS,G702z00,195254008,CPRD_AURUM
+300510018,Other specified peripheral vascular disease,G73y.00,400047006,CPRD_AURUM
+300511019,Peripheral angiopathic disease EC NOS,G73y100,400047006,CPRD_AURUM
+300514010,Other specified peripheral vascular disease NOS,G73yz00,400047006,CPRD_AURUM
+300538014,Embolism and thrombosis of an arm artery NOS,G742300,195318006,CPRD_AURUM
+300547018,Embolism and thrombosis of a leg artery NOS,G742900,195318006,CPRD_AURUM
+300550015,Peripheral arterial embolism and thrombosis NOS,G742z00,195318006,CPRD_AURUM
+300646018,"Other specified arterial, arteriole or capillary disease",G7y..00,266259002,CPRD_AURUM
+300963017,[X]Other specified peripheral vascular diseases,Gyu7400,400047006,CPRD_AURUM
+317343014,[D]Gangrene,R054.00,372070002,CPRD_AURUM
+317344015,"[D]Gangrene, spreading cutaneous",R054000,372070002,CPRD_AURUM
+317347010,[D]Gangrene of toe in diabetic,R054200,195302000,CPRD_AURUM
+317348017,[D]Widespread diabetic foot gangrene,R054300,195303005,CPRD_AURUM
+317349013,[D]Gangrene NOS,R054z00,372070002,CPRD_AURUM
+218541000000116,Thrombosis - arterial,G74..12,65198009,CPRD_AURUM
+235911000006116,Peripheral vascular disease NOS,G73z.00,400047006,CPRD_AURUM
+300555013,Embolism and/or thrombosis of the external iliac artery,G74y200,734299002,CPRD_AURUM
+3532661000006118,IC - Intermittent claudication,,63491006,CPRD_AURUM
+8014491000006111,Peripheral vascular disease due to type I diabetes,,31211000119101,CPRD_AURUM
+12224291000006118,Intermittent spinal claudication,,303081002,CPRD_AURUM
+4741891000006116,Gas gangrene of foot,,186423003,CPRD_AURUM
+4392201000006111,Diabetic peripheral vascular disease,,127014009,CPRD_AURUM
+12733151000006114,Peripheral arterial embolism and thrombosis NOS,,583731000000103,CPRD_AURUM
+300564015,Arterial embolism and thrombosis NOS,G74z.00,266262004,CPRD_AURUM
+300605011,Other disorders of arteries and arterioles NOS,G768z00,359557001,CPRD_AURUM
+300609017,Disorders of arteries and arterioles NOS,G76z.00,359557001,CPRD_AURUM
+12729241000006119,Peripheral vascular disease NOS,,646351000000103,CPRD_AURUM
+1847121000006114,Peripheral arterial disease,G734.00,399957001,CPRD_AURUM
+905541000006119,[RFC] Arterial embolism of limbs,,905541000006103,CPRD_AURUM
+395795012,Arterial embolus and thrombosis,G74..11,266262004,CPRD_AURUM
+300539018,Embolism and thrombosis of the femoral artery,G742400,195323006,CPRD_AURUM
+300542012,Embolism and thrombosis of the dorsalis pedis artery,G742700,195326003,CPRD_AURUM
+216701000006116,Post radiological embolism of lower limb artery,G742B00,312380005,CPRD_AURUM
+491241000006118,Arterial embolism and thrombosis,G74..00,266262004,CPRD_AURUM
+6632261000006118,PVD - Peripheral vascular disease,,399957001,CPRD_AURUM
+12733161000006111,Arterial embolism and thrombosis NOS,,583761000000108,CPRD_AURUM
+12733201000006117,"Arterial, arteriole and capillary diseases NOS",,584131000000104,CPRD_AURUM
+300515011,Peripheral vascular disease NOS,G73zz00,400047006,CPRD_AURUM
+300647010,"Arterial, arteriole and capillary diseases NOS",G7z..00,266259002,CPRD_AURUM
+458505013,Iliac artery occlusion,G76z000,314187004,CPRD_AURUM
+350564010,Aortoiliac obstruction,G740.12,233972005,CPRD_AURUM
+300433019,Extremity artery atheroma,G702.00,195254008,CPRD_AURUM
+884661000006110,Peripheral arterial embolism,G742z99,583731000000103,CPRD_AURUM
+223991000000116,Aorto-iliac disease,G700.11,233956002,CPRD_AURUM
+1715241000006112,Vascular claudication,G73z012,63491006,CPRD_AURUM
+300554012,Embolism and/or thrombosis of the internal iliac artery,G74y100,734298005,CPRD_AURUM
+411512011,Claudication,G73z011,63491006,CPRD_AURUM
+6633851000006110,PVD-peripheral vascular disease,,400047006,CPRD_AURUM
+5974641000006112,History of peripheral vascular disease procedure,,308071004,CPRD_AURUM
+2377911000000114,Ischaemic foot pain when walking,1M11100,713674006,CPRD_AURUM
+1696201000006114,Peripheral vascular disease annual review,,1696201000006105,CPRD_AURUM
+906771000006113,[RFC] Peripheral vascular disease,,906771000006109,CPRD_AURUM
+451376017,H/O: Peripheral vascular disease procedure,14NB.00,308071004,CPRD_AURUM
+300537016,Embolism and thrombosis of the ulnar artery,G742200,195321008,CPRD_AURUM
+300540016,Embolism and thrombosis of the popliteal artery,G742500,195324000,CPRD_AURUM
+87210015,Buerger's disease,G731000,52403007,CPRD_AURUM
+395791015,Other peripheral vascular disease,G73..00,400047006,CPRD_AURUM
+132581000006113,Spasm of peripheral artery,G73z100,195313002,CPRD_AURUM
+884631000006118,Arterial embolism/thrombosis,G74..99,266262004,CPRD_AURUM
+742481000006118,Ischaemia of legs,G73..12,233961000,CPRD_AURUM
+300556014,Embolism and thrombosis of the iliac artery unspecified,G74y300,266262004,CPRD_AURUM
+12126541000006118,Bilateral gangrene of toe,,16010831000119108,CPRD_AURUM
+8044221000006116,Ischaemic foot ulcer due to type 2 diabetes mellitus,,140521000119107,CPRD_AURUM
+5126451000006116,Ischaemic foot ulcer,,238794007,CPRD_AURUM
+3387371000006112,Arterial embolism,,54687002,CPRD_AURUM
+8279141000006112,H/O intermittent claudication,,837591000000108,CPRD_AURUM
+9874011000006115,Gangrene of toe of right foot,,16010871000119106,CPRD_AURUM
+7482951000006115,History of peripheral vascular disease,,473109007,CPRD_AURUM
+5126491000006110,Neuroischaemic foot ulcer,,238796009,CPRD_AURUM

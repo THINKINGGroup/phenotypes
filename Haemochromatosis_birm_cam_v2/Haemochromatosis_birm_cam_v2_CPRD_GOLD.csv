@@ -1,0 +1,9 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+2983,Haemochromatosis,C350000,,CPRD_GOLD
+8206,Pigmentary cirrhosis of liver,C350012,,CPRD_GOLD
+23479,Bronzed diabetes,C350011,,CPRD_GOLD
+24532,Haemosiderosis NOS,C350400,,CPRD_GOLD
+27608,"Haemosiderosis, acquired",C350200,,CPRD_GOLD
+29966,Idiopathic pulmonary haemosiderosis,C350300,,CPRD_GOLD
+48657,"Haemosiderosis, primary",C350100,,CPRD_GOLD
+114492,Von Recklinghausen - Applebaum disease,C350013,,CPRD_GOLD

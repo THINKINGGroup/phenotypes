@@ -1,0 +1,29 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+A810,Creutzfeldt-Jakob disease,A81.0,,ICD10
+F00,Dementia in Alzheimer disease,F00,,ICD10
+F000,Dementia in Alzheimer disease with early onset,F00.0,,ICD10
+F001,Dementia in Alzheimer disease with late onset,F00.1,,ICD10
+F002,"Dementia in Alzheimer disease, atypical or mixed type",F00.2,,ICD10
+F009,"Dementia in Alzheimer disease, unspecified",F00.9,,ICD10
+F01,Vascular dementia,F01,,ICD10
+F010,Vascular dementia of acute onset,F01.0,,ICD10
+F011,Multi-infarct dementia,F01.1,,ICD10
+F012,Subcortical vascular dementia,F01.2,,ICD10
+F013,Mixed cortical and subcortical vascular dementia,F01.3,,ICD10
+F018,Other vascular dementia,F01.8,,ICD10
+F019,"Vascular dementia, unspecified",F01.9,,ICD10
+F02,Dementia in other diseases classified elsewhere,F02,,ICD10
+F020,Dementia in Pick disease,F02.0,,ICD10
+F021,Dementia in Creutzfeldt-Jakob disease,F02.1,,ICD10
+F022,Dementia in Huntington disease,F02.2,,ICD10
+F023,Dementia in Parkinson disease,F02.3,,ICD10
+F024,Dementia in human immunodeficiency virus [HIV] disease,F02.4,,ICD10
+F028,Dementia in other specified diseases classified elsewhere,F02.8,,ICD10
+F03X,Unspecified dementia,F03,,ICD10
+F051,Delirium superimposed on dementia,F05.1,,ICD10
+G30,Alzheimer disease,G30,,ICD10
+G300,Alzheimer disease with early onset,G30.0,,ICD10
+G301,Alzheimer disease with late onset,G30.1,,ICD10
+G308,Other Alzheimer disease,G30.8,,ICD10
+G309,"Alzheimer disease, unspecified",G30.9,,ICD10
+G912,Normal-pressure hydrocephalus,G91.2,,ICD10

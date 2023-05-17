@@ -1,0 +1,4 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+A187,Tuberculosis of adrenal glands,A18.7,,ICD10
+E271,Primary adrenocortical insufficiency,E27.1,,ICD10
+E272,Addisonian crisis,E27.2,,ICD10

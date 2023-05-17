@@ -1,0 +1,11 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+N80,Endometriosis,N80,,ICD10
+N800,Endometriosis of uterus,N80.0,,ICD10
+N801,Endometriosis of ovary,N80.1,,ICD10
+N802,Endometriosis of fallopian tube,N80.2,,ICD10
+N803,Endometriosis of pelvic peritoneum,N80.3,,ICD10
+N804,Endometriosis of rectovaginal septum and vagina,N80.4,,ICD10
+N805,Endometriosis of intestine,N80.5,,ICD10
+N806,Endometriosis in cutaneous scar,N80.6,,ICD10
+N808,Other endometriosis,N80.8,,ICD10
+N809,"Endometriosis, unspecified",N80.9,,ICD10

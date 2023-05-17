@@ -1,0 +1,38 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+7E0D800,Laparoscopic laser destruction of endometriosis,7E0D800,,IMRD
+BBL1.11,[M]Stromal endometriosis,BBL1.11,,IMRD
+K50..00,Endometriosis,K50..00,,IMRD
+K50..11,Adenomyosis,K50..11,,IMRD
+K500.00,Endometriosis of uterus,K500.00,,IMRD
+K500000,Internal endometriosis,K500000,,IMRD
+K500100,Endometriosis of myometrium,K500100,,IMRD
+K500111,Adenomyosis of endometrium,K500111,,IMRD
+K500200,Endometriosis of cervix,K500200,,IMRD
+K500z00,Endometriosis of uterus NOS,K500z00,,IMRD
+K501.00,Endometriosis of ovary,K501.00,,IMRD
+K501.11,Chocolate cyst of ovary,K501.11,,IMRD
+K502.00,Endometriosis of the fallopian tube,K502.00,,IMRD
+K503.00,Endometriosis of the pelvic peritoneum,K503.00,,IMRD
+K503000,Endometriosis of the broad ligament,K503000,,IMRD
+K503100,Endometriosis of the pouch of Douglas,K503100,,IMRD
+K503200,Endometriosis of the parametrium,K503200,,IMRD
+K503300,Endometriosis of the round ligament,K503300,,IMRD
+K503z00,Endometriosis of the pelvic peritoneum NOS,K503z00,,IMRD
+K504.00,Endometriosis of the rectovaginal septum and vagina,K504.00,,IMRD
+K504000,Endometriosis of the rectovaginal septum,K504000,,IMRD
+K504100,Endometriosis of the vagina,K504100,,IMRD
+K504z00,Endometriosis of the rectovaginal septum and vagina NOS,K504z00,,IMRD
+K505.00,Endometriosis of the intestine,K505.00,,IMRD
+K505000,Endometriosis of the appendix,K505000,,IMRD
+K505100,Endometriosis of the colon,K505100,,IMRD
+K505200,Endometriosis of the rectum,K505200,,IMRD
+K505z00,Endometriosis of the intestine NOS,K505z00,,IMRD
+K506.00,Endometriosis in scar of skin,K506.00,,IMRD
+K50y.00,Other endometriosis,K50y.00,,IMRD
+K50y000,Endometriosis of the bladder,K50y000,,IMRD
+K50y100,Endometriosis of the lung,K50y100,,IMRD
+K50y200,Endometriosis of the umbilicus,K50y200,,IMRD
+K50y300,Endometriosis of the vulva,K50y300,,IMRD
+K50yz00,Other endometriosis NOS,K50yz00,,IMRD
+K50z.00,Endometriosis NOS,K50z.00,,IMRD
+Kyu9000,[X]Other endometriosis,Kyu9000,,IMRD

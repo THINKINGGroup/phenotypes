@@ -1,0 +1,103 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+1461.00,H/O: dementia,1461.00,,IMRD
+66h..00,Dementia monitoring,66h..00,,IMRD
+6AB..00,Dementia annual review,6AB..00,,IMRD
+8BM0200,Dementia medication review,8BM0200,,IMRD
+8BPa.00,Antipsychotic drug therapy for dementia,8BPa.00,,IMRD
+8CMe000,Dementia advance care plan,8CMe000,,IMRD
+8CMG200,Review of dementia advance care plan,8CMG200,,IMRD
+8CMZ.00,Dementia care plan,8CMZ.00,,IMRD
+8CMZ000,Dementia care plan agreed,8CMZ000,,IMRD
+8CMZ100,Dementia care plan reviewed,8CMZ100,,IMRD
+8CMZ200,Dementia care plan declined,8CMZ200,,IMRD
+8CMZ300,Dementia care plan review declined,8CMZ300,,IMRD
+8CSA.00,Dementia advance care plan agreed,8CSA.00,,IMRD
+8IAe000,Dementia advance care plan declined,8IAe000,,IMRD
+8IAe200,Dementia advance care plan review declined,8IAe200,,IMRD
+9hD..00,Exception reporting: dementia quality indicators,9hD..00,,IMRD
+9hD0.00,Excepted from dementia quality indicators: Patient unsuitabl,9hD0.00,,IMRD
+9hD1.00,Excepted from dementia quality indicators: Informed dissent,9hD1.00,,IMRD
+9Ou..00,Dementia monitoring administration,9Ou..00,,IMRD
+9Ou1.00,Dementia monitoring first letter,9Ou1.00,,IMRD
+9Ou2.00,Dementia monitoring second letter,9Ou2.00,,IMRD
+9Ou3.00,Dementia monitoring third letter,9Ou3.00,,IMRD
+9Ou4.00,Dementia monitoring verbal invite,9Ou4.00,,IMRD
+9Ou5.00,Dementia monitoring telephone invite,9Ou5.00,,IMRD
+A411.00,Jakob-Creutzfeldt disease,A411.00,,IMRD
+A411000,Sporadic Creutzfeldt-Jakob disease,A411000,,IMRD
+A411011,Sporadic CJD (Creutzfeldt-Jakob disease),A411011,,IMRD
+E00..11,Senile dementia,E00..11,,IMRD
+E00..12,Senile/presenile dementia,E00..12,,IMRD
+E000.00,Uncomplicated senile dementia,E000.00,,IMRD
+E001.00,Presenile dementia,E001.00,,IMRD
+E001000,Uncomplicated presenile dementia,E001000,,IMRD
+E001100,Presenile dementia with delirium,E001100,,IMRD
+E001200,Presenile dementia with paranoia,E001200,,IMRD
+E001300,Presenile dementia with depression,E001300,,IMRD
+E001z00,Presenile dementia NOS,E001z00,,IMRD
+E002.00,Senile dementia with depressive or paranoid features,E002.00,,IMRD
+E002000,Senile dementia with paranoia,E002000,,IMRD
+E002100,Senile dementia with depression,E002100,,IMRD
+E002z00,Senile dementia with depressive or paranoid features NOS,E002z00,,IMRD
+E003.00,Senile dementia with delirium,E003.00,,IMRD
+E004.00,Arteriosclerotic dementia,E004.00,,IMRD
+E004.11,Multi infarct dementia,E004.11,,IMRD
+E004000,Uncomplicated arteriosclerotic dementia,E004000,,IMRD
+E004100,Arteriosclerotic dementia with delirium,E004100,,IMRD
+E004200,Arteriosclerotic dementia with paranoia,E004200,,IMRD
+E004300,Arteriosclerotic dementia with depression,E004300,,IMRD
+E004z00,Arteriosclerotic dementia NOS,E004z00,,IMRD
+E012.00,Other alcoholic dementia,E012.00,,IMRD
+E012.11,Alcoholic dementia NOS,E012.11,,IMRD
+E02y100,Drug-induced dementia,E02y100,,IMRD
+E040.11,Korsakoff's non-alcoholic psychosis,E040.11,,IMRD
+E041.00,Dementia in conditions EC,E041.00,,IMRD
+Eu00.00,[X]Dementia in Alzheimer's disease,Eu00.00,,IMRD
+Eu00000,[X]Dementia in Alzheimer's disease with early onset,Eu00000,,IMRD
+Eu00011,"[X]Presenile dementia,Alzheimer's type",Eu00011,,IMRD
+Eu00012,"[X]Primary degen dementia, Alzheimer's type, presenile onset",Eu00012,,IMRD
+Eu00013,[X]Alzheimer's disease type 2,Eu00013,,IMRD
+Eu00100,[X]Dementia in Alzheimer's disease with late onset,Eu00100,,IMRD
+Eu00111,[X]Alzheimer's disease type 1,Eu00111,,IMRD
+Eu00112,"[X]Senile dementia,Alzheimer's type",Eu00112,,IMRD
+Eu00113,"[X]Primary degen dementia of Alzheimer's type, senile onset",Eu00113,,IMRD
+Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type",Eu00200,,IMRD
+Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified",Eu00z00,,IMRD
+Eu00z11,[X]Alzheimer's dementia unspec,Eu00z11,,IMRD
+Eu01.00,[X]Vascular dementia,Eu01.00,,IMRD
+Eu01.11,[X]Arteriosclerotic dementia,Eu01.11,,IMRD
+Eu01000,[X]Vascular dementia of acute onset,Eu01000,,IMRD
+Eu01100,[X]Multi-infarct dementia,Eu01100,,IMRD
+Eu01111,[X]Predominantly cortical dementia,Eu01111,,IMRD
+Eu01200,[X]Subcortical vascular dementia,Eu01200,,IMRD
+Eu01300,[X]Mixed cortical and subcortical vascular dementia,Eu01300,,IMRD
+Eu01y00,[X]Other vascular dementia,Eu01y00,,IMRD
+Eu01z00,"[X]Vascular dementia, unspecified",Eu01z00,,IMRD
+Eu02.00,[X]Dementia in other diseases classified elsewhere,Eu02.00,,IMRD
+Eu02000,[X]Dementia in Pick's disease,Eu02000,,IMRD
+Eu02100,[X]Dementia in Creutzfeldt-Jakob disease,Eu02100,,IMRD
+Eu02200,[X]Dementia in Huntington's disease,Eu02200,,IMRD
+Eu02300,[X]Dementia in Parkinson's disease,Eu02300,,IMRD
+Eu02400,[X]Dementia in human immunodef virus [HIV] disease,Eu02400,,IMRD
+Eu02500,[X]Lewy body dementia,Eu02500,,IMRD
+Eu02y00,[X]Dementia in other specified diseases classif elsewhere,Eu02y00,,IMRD
+Eu02z00,[X] Unspecified dementia,Eu02z00,,IMRD
+Eu02z11,[X] Presenile dementia NOS,Eu02z11,,IMRD
+Eu02z13,[X] Primary degenerative dementia NOS,Eu02z13,,IMRD
+Eu02z14,[X] Senile dementia NOS,Eu02z14,,IMRD
+Eu02z16,"[X] Senile dementia, depressed or paranoid type",Eu02z16,,IMRD
+Eu04100,[X]Delirium superimposed on dementia,Eu04100,,IMRD
+Eu10711,[X]Alcoholic dementia NOS,Eu10711,,IMRD
+F110.00,Alzheimer's disease,F110.00,,IMRD
+F110000,Alzheimer's disease with early onset,F110000,,IMRD
+F110100,Alzheimer's disease with late onset,F110100,,IMRD
+F111.00,Pick's disease,F111.00,,IMRD
+F113000,Normal pressure hydrocephalus,F113000,,IMRD
+F116.00,Lewy body disease,F116.00,,IMRD
+F118.00,Frontotemporal degeneration,F118.00,,IMRD
+F11x700,Cerebral degeneration due to Jakob - Creutzfeldt disease,F11x700,,IMRD
+F21y200,Binswanger's disease,F21y200,,IMRD
+F21y211,Binswanger's encephalopathy,F21y211,,IMRD
+Fyu3000,[X]Other Alzheimer's disease,Fyu3000,,IMRD
+ZS7C500,Language disorder of dementia,ZS7C500,,IMRD
+F118100,Frontotemporal dementia,F118100,,IMRD

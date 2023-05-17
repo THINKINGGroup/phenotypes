@@ -1,0 +1,208 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+412,Hearing loss,F59..00,,CPRD_GOLD
+467,Deafness,F59..11,,CPRD_GOLD
+536,Sensorineural hearing loss,F591.00,,CPRD_GOLD
+626,Ear fitting hearing aid,8D23.00,,CPRD_GOLD
+686,Deafness NOS,F59z.00,,CPRD_GOLD
+1151,Unspecified conductive hearing loss,F590000,,CPRD_GOLD
+1681,Unilateral deafness,1C13100,,CPRD_GOLD
+1752,Presbyacusis,F580100,,CPRD_GOLD
+1774,Partial deafness,1C13200,,CPRD_GOLD
+2061,Unspecified perceptive hearing loss,F591000,,CPRD_GOLD
+2348,Perceptive deafness,F591.13,,CPRD_GOLD
+2552,Noise induced deafness,F581211,,CPRD_GOLD
+2625,High frequency deafness,F591.11,,CPRD_GOLD
+2876,[V]Fitting or adjustment of hearing aid,ZV53200,,CPRD_GOLD
+3171,Nerve deafness,F591211,,CPRD_GOLD
+3747,"Deaf mutism, NEC",F593.00,,CPRD_GOLD
+3912,Hearing aid provision,8D2..12,,CPRD_GOLD
+4035,Bilateral deafness,1C13300,,CPRD_GOLD
+4957,H/O: hearing problem,1493.00,,CPRD_GOLD
+5016,Ear anomalies with hearing impairment,P40..00,,CPRD_GOLD
+5149,O/E - very deaf,2BL4.00,,CPRD_GOLD
+5967,Hearing difficulty,1C12.00,,CPRD_GOLD
+6082,Unspecified sudden hearing loss,F582.00,,CPRD_GOLD
+6641,Deafness symptom,1C13.11,,CPRD_GOLD
+6846,Neural hearing loss,F591200,,CPRD_GOLD
+7085,O/E - conductive deafness,2BM2.11,,CPRD_GOLD
+7301,"Mixed conductive and sensorineural hearing loss, bilateral",F592100,,CPRD_GOLD
+7344,Fit hearing aid,Z911100,,CPRD_GOLD
+7825,O/E - perceptive deafness,2BM3.11,,CPRD_GOLD
+7891,HOH - Hard of hearing,ZE87.17,,CPRD_GOLD
+8033,Low frequency deafness,F591.12,,CPRD_GOLD
+8941,Conductive hearing loss,F590.00,,CPRD_GOLD
+9830,Hearing loss,ZE87.00,,CPRD_GOLD
+9882,Mixed hearing loss,F592.11,,CPRD_GOLD
+10112,"Sensorineural hearing loss, bilateral",F591600,,CPRD_GOLD
+10170,Hearing aid worn,2DG..00,,CPRD_GOLD
+10367,Deafness,ZE87.11,,CPRD_GOLD
+10665,Congenital sensorineural deafness,F591400,,CPRD_GOLD
+10975,Hearing aid requested,8M41.00,,CPRD_GOLD
+11184,Hearing worse,ZE63.00,,CPRD_GOLD
+11619,Hearing aid provision,Z9E8100,,CPRD_GOLD
+11704,Hearing problem,ZE7..00,,CPRD_GOLD
+12324,HL - Hearing loss,ZE87.16,,CPRD_GOLD
+12339,Deafness - traumatic - NOS,SJ15.12,,CPRD_GOLD
+12692,HI - Hearing impairment,ZE87.15,,CPRD_GOLD
+12829,Perceptive hearing loss,F591.14,,CPRD_GOLD
+13113,O/E - significantly deaf,2BL3.00,,CPRD_GOLD
+13114,O/E - deaf,2BL..11,,CPRD_GOLD
+13115,O/E - slightly deaf,2BL2.00,,CPRD_GOLD
+13117,O/E - patient noted to be lip reading,2BL6.00,,CPRD_GOLD
+14805,Deafness,1C13.00,,CPRD_GOLD
+14893,Rubella deafness,A560200,,CPRD_GOLD
+14983,Mixed conductive and sensorineural deafness,F592.00,,CPRD_GOLD
+15723,[V]Problems with hearing,ZV41200,,CPRD_GOLD
+15940,Noise-induced hearing loss,F581200,,CPRD_GOLD
+16393,Perceptive hearing loss NOS,F591z00,,CPRD_GOLD
+16648,Chronic deafness,F59z.11,,CPRD_GOLD
+17407,Difficulty using hearing aid,Z8B5500,,CPRD_GOLD
+17699,Deteriorating hearing,1C16.00,,CPRD_GOLD
+18008,Hearing impairment,ZE87.18,,CPRD_GOLD
+18148,[V]Presence of external hearing-aid,ZV45G00,,CPRD_GOLD
+18375,Uses hearing aid,Z8B5311,,CPRD_GOLD
+18520,Sensory hearing loss,F591100,,CPRD_GOLD
+18945,"Conductive hearing loss, bilateral",F590500,,CPRD_GOLD
+19068,Hearing impaired,ZE87.19,,CPRD_GOLD
+19084,High frequency deafness,F594.00,,CPRD_GOLD
+19417,Does use hearing aid,Z8B5300,,CPRD_GOLD
+19666,Difficulty hearing,ZE87.12,,CPRD_GOLD
+19694,Insertn bone anchors subcutaneous bone anchored hearing aid,7311A00,,CPRD_GOLD
+20715,O/E - High tone deafness,2BM4.00,,CPRD_GOLD
+22102,Hard of hearing,ZE87.13,,CPRD_GOLD
+26043,Using British sign language,13ZM.00,,CPRD_GOLD
+26058,Distorted hearing,ZE3..00,,CPRD_GOLD
+26539,O/E - completely deaf,2BL5.00,,CPRD_GOLD
+27313,Other and unspecified ear anomaly with hearing impaired,P40z.00,,CPRD_GOLD
+27901,"Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd",F592000,,CPRD_GOLD
+29191,"Sensorineurl hear loss,unilat unrestrict hear/contralat side",F591700,,CPRD_GOLD
+30033,Hearing impaired,ZE87.20,,CPRD_GOLD
+30206,Hearing aid procedure,Z911.00,,CPRD_GOLD
+30208,Senile presbyacusis,F580111,,CPRD_GOLD
+30334,Difficulty hearing in noise,ZE86.00,,CPRD_GOLD
+30355,O/E tune fork=perceptive deaf,2BM3.00,,CPRD_GOLD
+30394,Checking hearing aid,Z911500,,CPRD_GOLD
+30525,Implantation of intracochlear prosthesis,7321000,,CPRD_GOLD
+30734,Hearing for whisper impaired,ZE81200,,CPRD_GOLD
+31374,Deafness due to congenital anomaly NEC,P40z.11,,CPRD_GOLD
+31748,Conductive hearing loss due to disorder of middle ear,F590300,,CPRD_GOLD
+31962,Changing hearing aid battery,Z911400,,CPRD_GOLD
+32905,Provision for visual and hearing impairment,Z96..00,,CPRD_GOLD
+33583,Conductive hearing loss NOS,F590z00,,CPRD_GOLD
+35178,Unable to use hearing aid,Z8B5200,,CPRD_GOLD
+36660,Conductive hearing loss due to disorder of external ear,F590100,,CPRD_GOLD
+36766,Provide body worn hearing aid,8D22.00,,CPRD_GOLD
+37383,Physiolog. hearing assistance,8D25.00,,CPRD_GOLD
+38563,Other specified forms of hearing loss,F59y.00,,CPRD_GOLD
+38717,Provision of guide help for visual and hearing impairment,Z961.00,,CPRD_GOLD
+39022,Difficulty hearing with background noise,1C18.00,,CPRD_GOLD
+40274,Lip reading training,8E31.00,,CPRD_GOLD
+42441,Attention to cochlear prosthesis,7321200,,CPRD_GOLD
+42879,Attention to hearing aid,Z911B00,,CPRD_GOLD
+42893,O/E -tune fork=conductive deaf,2BM2.00,,CPRD_GOLD
+43581,"Conduct hear loss,unilat+unrestric hearing on contralat side",F590600,,CPRD_GOLD
+43643,Implantation of extracochlear prosthesis,7321100,,CPRD_GOLD
+44282,Low frequency deafness,F595.00,,CPRD_GOLD
+44297,Using Makaton sign language,13ZP.00,,CPRD_GOLD
+44739,Hysterical deafness,E201200,,CPRD_GOLD
+45604,[V]Adjustment and management of implanted hearing device,ZV53D00,,CPRD_GOLD
+45751,Conductive deafness,F590.11,,CPRD_GOLD
+46837,Able to use hearing aid,Z8B5100,,CPRD_GOLD
+47129,Uses hearing loop,2DH0.00,,CPRD_GOLD
+47440,Ototoxicity - deafness,F591500,,CPRD_GOLD
+47475,Hearing aid problem,1C17.00,,CPRD_GOLD
+49226,Provision of support as signing user,8O0F.00,,CPRD_GOLD
+49885,Unable to hear whisper,ZE81300,,CPRD_GOLD
+50016,"Ear anomalies with hearing impaired, unspecified",P400.00,,CPRD_GOLD
+50121,[X]Psychogenic deafness,Eu44611,,CPRD_GOLD
+51744,Adjust hearing aid settings,Z911300,,CPRD_GOLD
+52245,Ability to use hearing aid,Z8B5.00,,CPRD_GOLD
+52758,Conductive hearing loss due to disorder of tympanic membrane,F590200,,CPRD_GOLD
+52802,Other external ear anomaly with hearing impairment,P402.00,,CPRD_GOLD
+52853,Replace hearing aid battery,8D24.00,,CPRD_GOLD
+53800,[X]Other specified hearing loss,FyuU100,,CPRD_GOLD
+54116,Combined perceptive hearing loss,F591y00,,CPRD_GOLD
+57053,Ear anomaly with hearing impaired NOS,P40zz00,,CPRD_GOLD
+58046,Listening for feedback whistle of hearing aid,Z911A00,,CPRD_GOLD
+58523,Using lip-reading,13ZL.00,,CPRD_GOLD
+58602,Provide head worn hearing aid,8D21.00,,CPRD_GOLD
+58826,Fit ear mould for existing hearing aid,Z911E00,,CPRD_GOLD
+59392,Attachment of bone anchored hearing prosthesis,7319.00,,CPRD_GOLD
+59596,Putting on hearing aid,Z911900,,CPRD_GOLD
+60293,Difficulty hearing whispers,1C19.00,,CPRD_GOLD
+60528,Provision of support as Makaton user,8O0E.00,,CPRD_GOLD
+60624,Removal of cochlear prosthesis,7321211,,CPRD_GOLD
+62906,Combined conductive hearing loss,F590y00,,CPRD_GOLD
+63490,Deaf telephone user,ZN56900,,CPRD_GOLD
+64865,Word deafness,E2F3011,,CPRD_GOLD
+65516,Fit ear mould for hearing protection,Z911G00,,CPRD_GOLD
+66126,Deafness remedial therapy,8E3..00,,CPRD_GOLD
+68636,Placement of hearing implant in middle ear,7317C00,,CPRD_GOLD
+69894,Central hearing loss,F591300,,CPRD_GOLD
+70852,Word deafness,Z7CM511,,CPRD_GOLD
+71827,"[X]Deaf mutism, not elsewhere classified",FyuU000,,CPRD_GOLD
+72765,Deafness remedial therapy NOS,8E3Z.00,,CPRD_GOLD
+72933,Other external ear anomaly with hearing impairment NOS,P402z00,,CPRD_GOLD
+84365,Placement of hearing implant in external ear,7308400,,CPRD_GOLD
+89253,Insertion fixtures bone anchored hearing prosthesis Stage 2,7319100,,CPRD_GOLD
+89462,Interpreter needed - British Sign Language,9NUw.00,,CPRD_GOLD
+91140,,F5932E,,CPRD_GOLD
+91930,Reduction soft tissue for bone anchored hearing prosthesis,7319200,,CPRD_GOLD
+93118,Removal of cochlear prosthesis,7321800,,CPRD_GOLD
+93278,One stage insert fixtures bone anchored hearing prosthesis,7319400,,CPRD_GOLD
+93446,Attention to hearing implant in middle ear,7317D00,,CPRD_GOLD
+93722,Turning off hearing aid,Z911800,,CPRD_GOLD
+94782,Conductive hearing loss due to disorder of inner ear,F590400,,CPRD_GOLD
+95814,Attention to hearing implant in external ear,7308500,,CPRD_GOLD
+96245,Hearing impairment,F5A..00,,CPRD_GOLD
+96555,Removal of hearing implant from external ear,7308600,,CPRD_GOLD
+96589,Interpreter needed - Makaton Sign Language,9NUx.00,,CPRD_GOLD
+96612,Provision of support as Makaton user,Z37G.00,,CPRD_GOLD
+96803,[V]Bone anchored hearing aid in situ,ZV45N00,,CPRD_GOLD
+97300,Switching on hearing aid,Z911700,,CPRD_GOLD
+97657,Insertion fixtures bone anchored hearing prosthesis Stage 1,7319000,,CPRD_GOLD
+97761,Attention to fixtures for bone anchored hearing prosthesis,7319300,,CPRD_GOLD
+98241,Attachment of bone anchored hearing prosthesis NOS,7319z00,,CPRD_GOLD
+98253,Maternally inherited deafness,F596.00,,CPRD_GOLD
+98553,Other specified attachment bone anchored hearing prosthesis,7319y00,,CPRD_GOLD
+98839,Provision of support as signing user,Z37H.00,,CPRD_GOLD
+99753,Mild acquired hearing loss,F597.00,,CPRD_GOLD
+100127,Moderate acquired hearing loss,F598.00,,CPRD_GOLD
+100276,Severe acquired hearing loss,F599.00,,CPRD_GOLD
+100449,Removal of hearing implant from middle ear,7.32E+03,,CPRD_GOLD
+100452,Preferred method of communication: British Sign Language,13o6.00,,CPRD_GOLD
+100654,Profound acquired hearing loss,F59A.00,,CPRD_GOLD
+100736,Congenital prelingual deafness,F591800,,CPRD_GOLD
+100777,Uses British Sign Language interpreter,13o8500,,CPRD_GOLD
+101755,Fitting external hearing prosthesis bone anchored fixtures,7319500,,CPRD_GOLD
+101889,Adjustment of cochlear implant processor,Z912.00,,CPRD_GOLD
+102069,Drug ototoxicity - deafness,F591511,,CPRD_GOLD
+102872,Deafened,F59A.11,,CPRD_GOLD
+103330,Preferred method of communication: Makaton,13o5.00,,CPRD_GOLD
+103542,"[X]Malformation of ear with impairment of hearing, unspec",Pyu1B00,,CPRD_GOLD
+103907,Combined visual and hearing impairment,Fy1..00,,CPRD_GOLD
+105795,Requires deafblind communicator guide,9NfB.00,,CPRD_GOLD
+106927,"Diab insipidus,diab mell,optic atrophy and deafness",PKyP.00,,CPRD_GOLD
+107246,Provision of replacement hearing aid,8D26.00,,CPRD_GOLD
+107265,Mild sensorineural hearing loss,F591D00,,CPRD_GOLD
+107323,Bilateral congenital sensorineural hearing loss,F591A00,,CPRD_GOLD
+107350,Moderate sensorineural hearing loss,F591C00,,CPRD_GOLD
+107364,Bilateral profound sensorineural hearing loss,F591900,,CPRD_GOLD
+107607,Profound sensorineural hearing loss,F591B00,,CPRD_GOLD
+107610,Severe sensorineural hearing loss,F591E00,,CPRD_GOLD
+107912,Provision of communicator for visual and hearing impairment,Z962.00,,CPRD_GOLD
+108029,First stge ins fixtures for bone anchored hearing prosthesis,7319600,,CPRD_GOLD
+108030,Second stage ins fixtures for bone anchored hearing prosth,7319700,,CPRD_GOLD
+108703,Deafblind,Fy1..12,,CPRD_GOLD
+109994,Requires deafblind block alphabet interpreter,9Nfb.00,,CPRD_GOLD
+110179,Deaf-blind telephone user,ZN56A00,,CPRD_GOLD
+110528,Uses sign language,13o8M00,,CPRD_GOLD
+110790,Does use hearing aid,2DH1.00,,CPRD_GOLD
+111738,Requires information in Makaton,9NfL.00,,CPRD_GOLD
+111739,Visual frame sign language interpreter needed,9NnR.00,,CPRD_GOLD
+111907,Requires deafblind manual alphabet interpreter,9Nfa.00,,CPRD_GOLD
+112656,Issue of local authority deaf registration,ZK75.00,,CPRD_GOLD
+112690,Hands-on signing interpreter needed,9NnS.00,,CPRD_GOLD
+113830,[X]Word deafness,Eu80214,,CPRD_GOLD
+113993,Dual sensory impairment - deafblind,Fy1..11,,CPRD_GOLD
+115285,DOOR - Deafness triphalangeal thumbs onychodystrophy,PKyz800,,CPRD_GOLD

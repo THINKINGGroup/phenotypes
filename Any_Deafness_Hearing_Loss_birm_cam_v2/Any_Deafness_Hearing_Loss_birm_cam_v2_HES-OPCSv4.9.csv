@@ -1,0 +1,20 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+D055,Placement of hearing implant in external ear,D05.5,,HES-OPCSv4.9
+D056,Attention to hearing implant in external ear,D05.6,,HES-OPCSv4.9
+D057,Removal of hearing implant from external ear,D05.7,,HES-OPCSv4.9
+D13,Attachment of bone anchored hearing prosthesis,D13,,HES-OPCSv4.9
+D131,First stage insertion of fixtures for bone anchored hearing prosthesis,D13.1,,HES-OPCSv4.9
+D132,Second stage insertion of fixtures for bone anchored hearing prosthesis,D13.2,,HES-OPCSv4.9
+D133,Reduction of soft tissue for bone anchored hearing prosthesis,D13.3,,HES-OPCSv4.9
+D134,Attention to fixtures for bone anchored hearing prosthesis,D13.4,,HES-OPCSv4.9
+D135,One stage insertion of fixtures for bone anchored hearing prosthesis,D13.5,,HES-OPCSv4.9
+D136,Fitting of external hearing prosthesis to bone anchored fixtures,D13.6,,HES-OPCSv4.9
+D138,Other specified attachment of bone anchored hearing prosthesis,D13.8,,HES-OPCSv4.9
+D139,Unspecified attachment of bone anchored hearing prosthesis,D13.9,,HES-OPCSv4.9
+D204,Placement of hearing implant in middle ear,D20.4,,HES-OPCSv4.9
+D205,Attention to hearing implant in middle ear,D20.5,,HES-OPCSv4.9
+D206,Removal of hearing implant in middle ear,D20.6,,HES-OPCSv4.9
+D241,Implantation of intracochlear prosthesis,D24.1,,HES-OPCSv4.9
+D242,Implantation of extracochlear prosthesis,D24.2,,HES-OPCSv4.9
+D243,Attention to cochlear prosthesis,D24.3,,HES-OPCSv4.9
+D246,Removal of cochlear prosthesis,D24.6,,HES-OPCSv4.9

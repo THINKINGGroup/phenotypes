@@ -1,0 +1,101 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+1350,Senile/presenile dementia,E00..12,,CPRD_GOLD
+1916,Senile dementia,E00..11,,CPRD_GOLD
+1917,Alzheimer's disease,F110.00,,CPRD_GOLD
+4357,[X] Senile dementia NOS,Eu02z14,,CPRD_GOLD
+4693,[X] Unspecified dementia,Eu02z00,,CPRD_GOLD
+5095,Binswanger's disease,F21y200,,CPRD_GOLD
+5931,H/O: dementia,1461.00,,CPRD_GOLD
+6578,[X]Vascular dementia,Eu01.00,,CPRD_GOLD
+7323,Uncomplicated senile dementia,E000.00,,CPRD_GOLD
+7572,Lewy body disease,F116.00,,CPRD_GOLD
+7664,[X]Dementia in Alzheimer's disease,Eu00.00,,CPRD_GOLD
+8195,[X]Alzheimer's dementia unspec,Eu00z11,,CPRD_GOLD
+8634,Multi infarct dementia,E004.11,,CPRD_GOLD
+8934,[X]Subcortical vascular dementia,Eu01200,,CPRD_GOLD
+9509,[X]Dementia in Parkinson's disease,Eu02300,,CPRD_GOLD
+9565,[X]Arteriosclerotic dementia,Eu01.11,,CPRD_GOLD
+10288,Normal pressure hydrocephalus,F113000,,CPRD_GOLD
+11136,Pick's disease,F111.00,,CPRD_GOLD
+11175,[X]Multi-infarct dementia,Eu01100,,CPRD_GOLD
+11379,"[X]Senile dementia,Alzheimer's type",Eu00112,,CPRD_GOLD
+12621,[X]Dementia in other diseases classified elsewhere,Eu02.00,,CPRD_GOLD
+12710,Dementia annual review,6AB..00,,CPRD_GOLD
+15165,Presenile dementia,E001.00,,CPRD_GOLD
+16797,Alzheimer's disease with early onset,F110000,,CPRD_GOLD
+18386,Senile dementia with paranoia,E002000,,CPRD_GOLD
+19393,"[X]Vascular dementia, unspecified",Eu01z00,,CPRD_GOLD
+19477,Arteriosclerotic dementia,E004.00,,CPRD_GOLD
+21887,Senile dementia with depression,E002100,,CPRD_GOLD
+23835,Korsakoff's non-alcoholic psychosis,E040.11,,CPRD_GOLD
+25386,Dementia in conditions EC,E041.00,,CPRD_GOLD
+25704,"[X]Presenile dementia,Alzheimer's type",Eu00011,,CPRD_GOLD
+26270,[X]Lewy body dementia,Eu02500,,CPRD_GOLD
+26323,[X]Alcoholic dementia NOS,Eu10711,,CPRD_GOLD
+27342,Alcoholic dementia NOS,E012.11,,CPRD_GOLD
+27677,Presenile dementia with depression,E001300,,CPRD_GOLD
+27759,"[X] Senile dementia, depressed or paranoid type",Eu02z16,,CPRD_GOLD
+28402,[X]Dementia in Pick's disease,Eu02000,,CPRD_GOLD
+29386,"[X]Dementia in Alzheimer's disease, unspecified",Eu00z00,,CPRD_GOLD
+30032,Presenile dementia with paranoia,E001200,,CPRD_GOLD
+30641,Excepted from dementia quality indicators: Patient unsuitabl,9hD0.00,,CPRD_GOLD
+30706,"[X]Dementia in Alzheimer's dis, atypical or mixed type",Eu00200,,CPRD_GOLD
+31016,[X]Mixed cortical and subcortical vascular dementia,Eu01300,,CPRD_GOLD
+32057,Alzheimer's disease with late onset,F110100,,CPRD_GOLD
+34944,[X] Primary degenerative dementia NOS,Eu02z13,,CPRD_GOLD
+37014,[X]Dementia in Huntington's disease,Eu02200,,CPRD_GOLD
+37015,Senile dementia with delirium,E003.00,,CPRD_GOLD
+38286,Jakob-Creutzfeldt disease,A411.00,,CPRD_GOLD
+38438,Presenile dementia NOS,E001z00,,CPRD_GOLD
+38678,[X]Dementia in Alzheimer's disease with late onset,Eu00100,,CPRD_GOLD
+40805,Excepted from dementia quality indicators: Informed dissent,9hD1.00,,CPRD_GOLD
+41089,Senile dementia with depressive or paranoid features NOS,E002z00,,CPRD_GOLD
+41185,[X]Dementia in human immunodef virus [HIV] disease,Eu02400,,CPRD_GOLD
+42279,Arteriosclerotic dementia NOS,E004z00,,CPRD_GOLD
+42602,Uncomplicated presenile dementia,E001000,,CPRD_GOLD
+43089,Uncomplicated arteriosclerotic dementia,E004000,,CPRD_GOLD
+43292,Arteriosclerotic dementia with depression,E004300,,CPRD_GOLD
+43346,"[X]Primary degen dementia of Alzheimer's type, senile onset",Eu00113,,CPRD_GOLD
+44341,Exception reporting: dementia quality indicators,9hD..00,,CPRD_GOLD
+44674,Senile dementia with depressive or paranoid features,E002.00,,CPRD_GOLD
+46488,[X]Vascular dementia of acute onset,Eu01000,,CPRD_GOLD
+46762,[X]Alzheimer's disease type 1,Eu00111,,CPRD_GOLD
+48501,[X] Presenile dementia NOS,Eu02z11,,CPRD_GOLD
+48531,Cerebral degeneration due to Jakob - Creutzfeldt disease,F11x700,,CPRD_GOLD
+49263,[X]Dementia in Alzheimer's disease with early onset,Eu00000,,CPRD_GOLD
+49513,Presenile dementia with delirium,E001100,,CPRD_GOLD
+49674,Dementia monitoring first letter,9Ou1.00,,CPRD_GOLD
+53446,[X]Delirium superimposed on dementia,Eu04100,,CPRD_GOLD
+54106,[X]Dementia in Creutzfeldt-Jakob disease,Eu02100,,CPRD_GOLD
+54505,Other alcoholic dementia,E012.00,,CPRD_GOLD
+55023,Dementia monitoring,66h..00,,CPRD_GOLD
+55222,Language disorder of dementia,ZS7C500,,CPRD_GOLD
+55313,[X]Other vascular dementia,Eu01y00,,CPRD_GOLD
+55467,Arteriosclerotic dementia with paranoia,E004200,,CPRD_GOLD
+55838,[X]Predominantly cortical dementia,Eu01111,,CPRD_GOLD
+56912,Arteriosclerotic dementia with delirium,E004100,,CPRD_GOLD
+59122,[X]Other Alzheimer's disease,Fyu3000,,CPRD_GOLD
+60059,"[X]Primary degen dementia, Alzheimer's type, presenile onset",Eu00012,,CPRD_GOLD
+61528,[X]Alzheimer's disease type 2,Eu00013,,CPRD_GOLD
+62132,Drug-induced dementia,E02y100,,CPRD_GOLD
+64267,[X]Dementia in other specified diseases classif elsewhere,Eu02y00,,CPRD_GOLD
+65235,Dementia monitoring telephone invite,9Ou5.00,,CPRD_GOLD
+68194,Binswanger's encephalopathy,F21y211,,CPRD_GOLD
+83576,Dementia monitoring second letter,9Ou2.00,,CPRD_GOLD
+85853,Dementia monitoring administration,9Ou..00,,CPRD_GOLD
+89036,Dementia monitoring third letter,9Ou3.00,,CPRD_GOLD
+89037,Dementia monitoring verbal invite,9Ou4.00,,CPRD_GOLD
+104534,Frontotemporal degeneration,F118.00,,CPRD_GOLD
+106311,Dementia care plan,8CMZ.00,,CPRD_GOLD
+108228,Dementia advance care plan agreed,8CSA.00,,CPRD_GOLD
+108268,Review of dementia advance care plan,8CMG200,,CPRD_GOLD
+108391,Dementia advance care plan declined,8IAe000,,CPRD_GOLD
+109047,Antipsychotic drug therapy for dementia,8BPa.00,,CPRD_GOLD
+109288,Sporadic Creutzfeldt-Jakob disease,A411000,,CPRD_GOLD
+109708,Dementia care plan reviewed,8CMZ100,,CPRD_GOLD
+109731,Dementia care plan agreed,8CMZ000,,CPRD_GOLD
+109737,Dementia medication review,8BM0200,,CPRD_GOLD
+109786,Dementia care plan declined,8CMZ200,,CPRD_GOLD
+109790,Dementia advance care plan,8CMe000,,CPRD_GOLD
+110075,Dementia advance care plan review declined,8IAe200,,CPRD_GOLD
+110123,Dementia care plan review declined,8CMZ300,,CPRD_GOLD

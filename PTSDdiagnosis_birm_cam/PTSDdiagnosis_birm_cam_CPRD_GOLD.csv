@@ -1,0 +1,7 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+4171,[X]Post - traumatic stress disorder,Eu43100,,CPRD_GOLD
+32182,[X]Traumatic neurosis,Eu43111,,CPRD_GOLD
+32387,Other post-traumatic stress disorder,E29y100,,CPRD_GOLD
+101725,[X]Chron post-traumatic stress disorder follow military comb,Eu43400,,CPRD_GOLD
+101785,[X]Acute post-traumatic stress disorder follow military comb,Eu43300,,CPRD_GOLD
+113199,[X]Delayed post-traumat stress disorder follow military comb,Eu43500,,CPRD_GOLD

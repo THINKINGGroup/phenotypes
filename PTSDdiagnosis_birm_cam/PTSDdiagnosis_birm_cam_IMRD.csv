@@ -1,0 +1,7 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+E29y100,Other post-traumatic stress disorder,E29y100,,IMRD
+Eu43100,[X]Post - traumatic stress disorder,Eu43100,,IMRD
+Eu43111,[X]Traumatic neurosis,Eu43111,,IMRD
+Eu43300,[X]Acute post-traumatic stress disorder follow military comb,Eu43300,,IMRD
+Eu43400,[X]Chron post-traumatic stress disorder follow military comb,Eu43400,,IMRD
+Eu43500,[X]Delayed post-traumat stress disorder follow military comb,Eu43500,,IMRD

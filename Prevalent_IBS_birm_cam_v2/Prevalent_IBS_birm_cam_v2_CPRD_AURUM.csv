@@ -1,0 +1,22 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+18666015,Irritable bowel syndrome,J521.11,10743008,CPRD_AURUM
+303172010,Irritable bowel syndrome with diarrhoea,J521000,197125005,CPRD_AURUM
+303071000000118,History of irritable bowel syndrome,14CF.00,70871000119100,CPRD_AURUM
+886361000006114,Irritable bowel - IBS,J521.99,10743008,CPRD_AURUM
+742351000006119,Irritable colon - Irritable bowel syndrome,J521.00,10743008,CPRD_AURUM
+2670921000006116,Irritable bowel,,10743008,CPRD_AURUM
+7240111000006114,Irritable bowel syndrome characterized by constipation,,440630006,CPRD_AURUM
+4786241000006112,Irritable bowel syndrome with diarrhea,,197125005,CPRD_AURUM
+7238961000006111,Irritable bowel syndrome characterized by alternating bowel habit,,440544005,CPRD_AURUM
+7240101000006111,Constipation predominant irritable bowel syndrome,,440630006,CPRD_AURUM
+2670911000006112,IBS - Irritable bowel syndrome,,10743008,CPRD_AURUM
+2129721000000119,Management of irritable bowel syndrome,8Cm..00,817511000000108,CPRD_AURUM
+2670951000006113,IC - Irritable colon,,10743008,CPRD_AURUM
+906181000006110,[RFC] Irritable bowel syndrome (IBS),,906181000006106,CPRD_AURUM
+2791650019,Irritable bowel syndrome characterised by constipation,J521100,440630006,CPRD_AURUM
+1495560015,[X]Psychogenic IBS,Eu45324,231517009,CPRD_AURUM
+1927491000006111,IBS characterised by alternating bowel habit,J521200,440544005,CPRD_AURUM
+8022171000006115,H/O irritable bowel syndrome,,70871000119100,CPRD_AURUM
+5086181000006116,Irritable bowel syndrome variant of childhood with constipation,,235840008,CPRD_AURUM
+5086161000006114,Irritable bowel syndrome variant of childhood with diarrhoea,,235839006,CPRD_AURUM
+5086151000006112,Irritable bowel syndrome variant of childhood,,235838003,CPRD_AURUM

@@ -1,0 +1,322 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+2386018,Jakob-Creutzfeldt disease,A411.00,792004,CPRD_AURUM
+22408016,Pick's disease,F111.00,13092008,CPRD_AURUM
+26545010,Senile dementia,E00..11,15662003,CPRD_AURUM
+149347010,Binswanger's disease,F21y200,90099008,CPRD_AURUM
+294637017,Uncomplicated presenile dementia,E001000,191451009,CPRD_AURUM
+294646011,Senile dementia with depression,E002100,191459006,CPRD_AURUM
+294648012,Senile dementia with delirium,E003.00,191461002,CPRD_AURUM
+294652012,Uncomplicated arteriosclerotic dementia,E004000,191463004,CPRD_AURUM
+294653019,Arteriosclerotic dementia with delirium,E004100,191464005,CPRD_AURUM
+294654013,Arteriosclerotic dementia with paranoia,E004200,191465006,CPRD_AURUM
+294655014,Arteriosclerotic dementia with depression,E004300,191466007,CPRD_AURUM
+294688019,Drug-induced dementia,E02y100,191493005,CPRD_AURUM
+1235534016,Binswanger's encephalopathy,F21y211,90099008,CPRD_AURUM
+406841000000115,Dementia monitoring administration,9Ou..00,713821000000106,CPRD_AURUM
+407461000000119,Dementia monitoring,66h..00,248711000000102,CPRD_AURUM
+408401000000119,Dementia annual review,6AB..00,249181000000100,CPRD_AURUM
+882181000006117,Other senile/presenile dement.,E00..98,268612007,CPRD_AURUM
+882191000006119,Senile and presenile dementias,E00..99,268612007,CPRD_AURUM
+882211000006118,Senile dementia-acute confused,E003.99,191461002,CPRD_AURUM
+905791000006115,[RFC] Alzheimer's disease,,905791000006104,CPRD_AURUM
+914921000006117,[D] Vascular dementia,,914921000006101,CPRD_AURUM
+914941000006112,[D] Dementia,,914941000006108,CPRD_AURUM
+914951000006114,[D] Dementia in Alzheimer's disease,,914951000006105,CPRD_AURUM
+915111000006112,Dementia review,,915111000006108,CPRD_AURUM
+915121000006116,Dementia review with third party,,915121000006100,CPRD_AURUM
+939491000006118,[RFC] Dementia,,939491000006102,CPRD_AURUM
+1805751000006115,Variant Creutzfeldt-Jakob disease,,304603007,CPRD_AURUM
+1820331000006111,History of Creutzfeldt-Jakob disease,,1820331000006107,CPRD_AURUM
+1856611000006114,Dementia monitoring in secondary care,,1856611000006105,CPRD_AURUM
+1916981000006111,Dementia medication review,,1916981000006107,CPRD_AURUM
+1949641000006113,Dementia stage at diagnosis - mid (moderate),,1949641000006109,CPRD_AURUM
+1949651000006110,Dementia stage at diagnosis - late (severe),,1949651000006106,CPRD_AURUM
+1949681000006119,Person centred dementia support plan (Scotland),,1949681000006103,CPRD_AURUM
+1949691000006116,Dementia support plan (Scot) in place at 12 months,,1949691000006100,CPRD_AURUM
+1949701000006116,Dementia support plan (Scot) partly in place at 12 months,,1949701000006100,CPRD_AURUM
+1949711000006118,Dementia support plan (Scot) absent at 12 months,,1949711000006102,CPRD_AURUM
+1949721000006114,Dementia post diagnostic support (PDS) - transition arrangements,,1949721000006105,CPRD_AURUM
+1949731000006112,Dementia PDS transition - progress to supported self management,,1949731000006108,CPRD_AURUM
+1949751000006117,Dementia PDS transition - further PDS required,,1949751000006101,CPRD_AURUM
+1949761000006115,Dementia PDS transition - referred for community care support,,1949761000006104,CPRD_AURUM
+1949771000006110,Dementia post diagnostic support (PDS)(Scot)- 5 pillar model,,1949771000006106,CPRD_AURUM
+1950411000006115,Dementia PDS(Scot)-understanding illness/managing symptms status,,1950411000006104,CPRD_AURUM
+1950461000006117,Dementia PDS understanding illness - pillar not met (pt choice),,1950461000006101,CPRD_AURUM
+1950481000006110,Dementia PDS understanding illness - other pillar status,,1950481000006106,CPRD_AURUM
+1950491000006113,Dementia PDS understanding illness - pillar status not known,,1950491000006109,CPRD_AURUM
+1950511000006119,Dementia PDS (Scot) planning future care status - pillar met,,1950511000006103,CPRD_AURUM
+1950531000006113,Dementia PDS planning future care-pillar not met(service reason),,1950531000006109,CPRD_AURUM
+1950551000006118,Dementia PDS planning future care - other pillar status,,1950551000006102,CPRD_AURUM
+1950581000006114,Dementia PDS (Scot) peer support status - pillar met,,1950581000006105,CPRD_AURUM
+1950601000006116,Dementia PDS (Scot) peer support-pillar not met (service reason),,1950601000006100,CPRD_AURUM
+1950611000006118,Dementia PDS (Scot) peer support - pillar not met (pt choice),,1950611000006102,CPRD_AURUM
+1950621000006114,Dementia PDS (Scot) peer support - other pillar status,,1950621000006105,CPRD_AURUM
+1950631000006112,Dementia PDS (Scot) peer support - pillar status not known,,1950631000006108,CPRD_AURUM
+1950641000006119,Dementia PDS (Scot) - supporting community connections status,,1950641000006103,CPRD_AURUM
+1950671000006110,Dementia PDS supprt comm. connectns-pillar not met(servce reasn),,1950671000006106,CPRD_AURUM
+1950681000006113,Dementia PDS support comm. connectns-pillar not met (pt choice),,1950681000006109,CPRD_AURUM
+1950691000006111,Dementia PDS support comm. connectns - other pillar status,,1950691000006107,CPRD_AURUM
+1950701000006111,Dementia PDS support comm. connectns - pillar status not known,,1950701000006107,CPRD_AURUM
+1950711000006114,Dementia PDS (Scot) - planning future decision-making status,,1950711000006105,CPRD_AURUM
+1950731000006115,Dementia PDS planning future decisn-making -pillar partially met,,1950731000006104,CPRD_AURUM
+1950741000006113,Dementia PDS plan.futur decisn-mkng-pillar not met(servce reasn),,1950741000006109,CPRD_AURUM
+1950751000006110,Dementia PDS plan.future decisn-making-pillar not met(pt choice),,1950751000006106,CPRD_AURUM
+1950781000006119,Dementia link worker details,,1950781000006103,CPRD_AURUM
+1950791000006116,Dementia link worker - mental health CPN,,1950791000006100,CPRD_AURUM
+1950801000006115,No longer has a dementia link worker,,1950801000006104,CPRD_AURUM
+1950841000006118,Dementia link worker - third sector (Alzheimer Scotland),,1950841000006102,CPRD_AURUM
+1950851000006116,Dementia link worker - other third sector worker,,1950851000006100,CPRD_AURUM
+1950861000006119,Dementia link worker - social worker,,1950861000006103,CPRD_AURUM
+1950871000006114,Dementia link worker - other,,1950871000006105,CPRD_AURUM
+1971401000006111,"Dementia in Alzheimer's disease with early onset, without additional symptoms",,1971401000006107,CPRD_AURUM
+1971661000006114,"Mental & behav dis due to seds/hypntcs: resid & late-onset psychot dis, dementia",,1971661000006105,CPRD_AURUM
+1971771000006112,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly hallucinatory",,1971771000006108,CPRD_AURUM
+1972041000006114,"Unspecified dementia, other symptoms, predominantly delusional",,1972041000006105,CPRD_AURUM
+1972061000006113,"Unspecified dementia, other symptoms, predominantly hallucinatory",,1972061000006109,CPRD_AURUM
+1972071000006118,"Unspecified dementia, other symptoms, predominantly depressive",,1972071000006102,CPRD_AURUM
+1972171000006117,"Dementia in Alzheimer's disease with late onset, without additional symptoms",,1972171000006101,CPRD_AURUM
+1972181000006119,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly delusional",,1972181000006103,CPRD_AURUM
+1972191000006116,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly hallucinatory",,1972191000006100,CPRD_AURUM
+1972311000006112,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly depressive",,1972311000006108,CPRD_AURUM
+1972341000006111,"Dementia in Alzheimer's dis, atypical or mixed type, other mixed symptoms",,1972341000006107,CPRD_AURUM
+1972371000006115,"Dementia in Alzheimer's disease, unspecified, without additional symptoms",,1972371000006104,CPRD_AURUM
+1972431000006113,"Mental & behav dis due to cannabinoids: resid & late-onset psychot dis, dementia",,1972431000006109,CPRD_AURUM
+1972451000006118,"Dementia in Alzheimer's disease, unspecified, other symptoms, predominantly depressive",,1972451000006102,CPRD_AURUM
+1972501000006116,"Vascular dementia of acute onset, other symptoms, predominantly delusional",,1972501000006100,CPRD_AURUM
+1972521000006114,"Vascular dementia of acute onset, other symptoms, predominantly hallucinatory",,1972521000006105,CPRD_AURUM
+1972541000006119,"Vascular dementia of acute onset, other symptoms, predominantly depressive",,1972541000006103,CPRD_AURUM
+1972571000006110,"Vascular dementia of acute onset, other mixed symptoms",,1972571000006106,CPRD_AURUM
+1972601000006115,"Multi-infarct dementia, without additional symptoms",,1972601000006104,CPRD_AURUM
+1972751000006114,"Subcortical vascular dementia, other symptoms, predominantly hallucinatory",,1972751000006105,CPRD_AURUM
+1972791000006115,"Subcortical vascular dementia, other mixed symptoms",,1972791000006104,CPRD_AURUM
+1972821000006112,"Mixed cortical and subcortical vascular dementia, without additional symptoms",,1972821000006108,CPRD_AURUM
+1972831000006110,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly delusional",,1972831000006106,CPRD_AURUM
+1972871000006113,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly hallucinatory",,1972871000006109,CPRD_AURUM
+1972911000006111,"Mixed cortical and subcortical vascular dementia, other symptoms, predominantly depressive",,1972911000006107,CPRD_AURUM
+1972931000006117,"Mixed cortical and subcortical vascular dementia, other mixed symptoms",,1972931000006101,CPRD_AURUM
+1973171000006112,"Mental and behav dis due to vol solvents: resid & late-onset psychotic dis, dementia",,1973171000006108,CPRD_AURUM
+1973341000006118,"Other vascular dementia, other symptoms, predominantly hallucinatory",,1973341000006102,CPRD_AURUM
+1973381000006112,"Other vascular dementia, other symptoms, predominantly depressive",,1973381000006108,CPRD_AURUM
+1973461000006113,"Vascular dementia, unspecified, without additional symptoms",,1973461000006109,CPRD_AURUM
+1973501000006113,"Vascular dementia, unspecified, other symptoms, predominantly delusional",,1973501000006109,CPRD_AURUM
+1973531000006117,"Vascular dementia, unspecified, other symptoms, predominantly hallucinatory",,1973531000006101,CPRD_AURUM
+1973711000006116,"Mental and behav dis due to hallucinogens: resid & late-onset psychot dis, dementia",,1973711000006100,CPRD_AURUM
+1974271000006119,"Mental and behav dis mlti drg use/oth psych subs: resid/late psychot dis, dementia",,1974271000006103,CPRD_AURUM
+1974931000006114,"Mental & behav dis due to tobacco: resid & late-onset psychot dis, dementia",,1974931000006105,CPRD_AURUM
+1975591000006119,"Mental & behav dis due to use alcohol: resid & late-onset psychot dis, dementia",,1975591000006103,CPRD_AURUM
+1976091000006118,"Mental and behav dis due to other stimulants inc caffeine: resid/late-onset psycht dis, dementia",,1976091000006102,CPRD_AURUM
+2290431000000110,Antipsychotic drug therapy for dementia,8BPa.00,700214004,CPRD_AURUM
+2366171000000112,Sporadic Creutzfeldt-Jakob disease,A411000,713060000,CPRD_AURUM
+2439591000000113,Dementia care plan agreed,8CMZ000,956841000000106,CPRD_AURUM
+2439631000000113,Dementia care plan reviewed,8CMZ100,956861000000107,CPRD_AURUM
+2439671000000110,Dementia care plan declined,8CMZ200,956881000000103,CPRD_AURUM
+2445471000000112,Dementia advance care plan,8CMe000,959361000000105,CPRD_AURUM
+2445691000000113,Dementia advance care plan review declined,8IAe200,959461000000102,CPRD_AURUM
+497559016,Arteriosclerotic dementia,E004.00,56267009,CPRD_AURUM
+294647019,Senile dementia with depressive or paranoid features NOS,E002z00,191457008,CPRD_AURUM
+294660013,Senile or presenile psychoses NOS,E00z.00,268612007,CPRD_AURUM
+295680015,[X]Other vascular dementia,Eu01y00,429998004,CPRD_AURUM
+295684012,[X]Dementia in other diseases classified elsewhere,Eu02.00,191519005,CPRD_AURUM
+295685013,[X]Dementia in Pick's disease,Eu02000,21921000119103,CPRD_AURUM
+295688010,[X]Dementia in Parkinson's disease,Eu02300,425390006,CPRD_AURUM
+295690011,[X]Dementia in other specified diseases classif elsewhere,Eu02y00,191519005,CPRD_AURUM
+299325013,[X]Other Alzheimer's disease,Fyu3000,26929004,CPRD_AURUM
+401760017,Other alcoholic dementia,E012.00,281004,CPRD_AURUM
+294111000000119,Exception reporting: dementia quality indicators,9hD..00,715881000000108,CPRD_AURUM
+294321000000111,Excepted from dementia quality indicators: Informed dissent,9hD1.00,716131000000105,CPRD_AURUM
+359141000006111,[X] Senile dementia NOS,Eu02z14,15662003,CPRD_AURUM
+359241000006119,[X] Unspecified dementia,Eu02z00,52448006,CPRD_AURUM
+362941000006113,[X]Alcoholic dementia NOS,Eu10711,281004,CPRD_AURUM
+376531000006119,[X]Dementia in Alzheimer's disease with early onset,Eu00000,416780008,CPRD_AURUM
+398571000006112,[X]Mixed cortical and subcortical vascular dementia,Eu01300,230287006,CPRD_AURUM
+399031000006111,[X]Multi-infarct dementia,Eu01100,56267009,CPRD_AURUM
+408481000000112,Dementia monitoring verbal invite,9Ou4.00,716221000000104,CPRD_AURUM
+408501000000115,Dementia monitoring telephone invite,9Ou5.00,716991000000108,CPRD_AURUM
+423221000006117,[X]Predominantly cortical dementia,Eu01111,56267009,CPRD_AURUM
+423351000006115,"[X]Presenile dementia,Alzheimer's type",Eu00011,416780008,CPRD_AURUM
+423381000006111,"[X]Primary degen dementia of Alzheimer's type, senile onset",Eu00113,416975007,CPRD_AURUM
+423391000006114,"[X]Primary degen dementia, Alzheimer's type, presenile onset",Eu00012,416780008,CPRD_AURUM
+428201000006119,[X]Subcortical vascular dementia,Eu01200,230286002,CPRD_AURUM
+431681000006117,[X]Vascular dementia,Eu01.00,429998004,CPRD_AURUM
+431691000006119,[X]Vascular dementia of acute onset,Eu01000,230285003,CPRD_AURUM
+542651000006110,Cerebral degeneration due to Jakob - Creutzfeldt disease,F11x700,192818008,CPRD_AURUM
+745381000006119,Lewy body disease,F116.00,80098002,CPRD_AURUM
+753321000006116,Korsakoff's non-alcoholic psychosis,E040.11,17262008,CPRD_AURUM
+999961000006114,Excepted from dementia quality indicators: Patient unsuitabl,9hD0.00,716341000000104,CPRD_AURUM
+2366181000000114,Sporadic CJD (Creutzfeldt-Jakob disease),A411011,713060000,CPRD_AURUM
+2620431000000115,Shared care prescribing of drugs for dementia,,719787003,CPRD_AURUM
+294656010,Arteriosclerotic dementia NOS,E004z00,56267009,CPRD_AURUM
+295668011,[X]Dementia in Alzheimer's disease,Eu00.00,26929004,CPRD_AURUM
+295672010,"[X]Dementia in Alzheimer's disease, unspecified",Eu00z00,26929004,CPRD_AURUM
+359081000006118,[X] Presenile dementia NOS,Eu02z11,12348006,CPRD_AURUM
+359151000006113,"[X] Senile dementia, depressed or paranoid type",Eu02z16,191457008,CPRD_AURUM
+363791000006112,[X]Arteriosclerotic dementia,Eu01.11,56267009,CPRD_AURUM
+295671015,"[X]Dementia in Alzheimer's dis, atypical or mixed type",Eu00200,26929004,CPRD_AURUM
+2248021000000110,Dementia care plan,8CMZ.00,736371006,CPRD_AURUM
+2345881000000115,Dementia advance care plan agreed,8CSA.00,1095121000000102,CPRD_AURUM
+425901000006116,"[X]Senile dementia,Alzheimer's type",Eu00112,416975007,CPRD_AURUM
+2511001000006119,Transmissible virus dementia,,792004,CPRD_AURUM
+6973421000006116,Dementia associated with AIDS,,421529006,CPRD_AURUM
+2510951000006114,Creutzfeldt-Jakob disease,,792004,CPRD_AURUM
+2773801000006117,Non-alcoholic Korsakoff's psychosis,,17262008,CPRD_AURUM
+6897251000006116,"Presenile dementia, Alzheimer's type",,416780008,CPRD_AURUM
+6900181000006114,"Primary degenerative dementia of the Alzheimer type, senile onset",,416975007,CPRD_AURUM
+3964601000006113,Subcortical leukoencephalopathy,,90099008,CPRD_AURUM
+2743011000000119,Dementia advance care plan agreed,,1095121000000102,CPRD_AURUM
+4768981000006114,Cerebral degeneration due to Creutzfeldt-Jakob disease,,192818008,CPRD_AURUM
+7263021000006116,Dementia due to Huntingtons disease,,442344002,CPRD_AURUM
+8009521000006114,Dementia due to Picks disease,,21921000119103,CPRD_AURUM
+6973451000006113,ADC - Acquired immune deficiency syndrome dementia complex,,421529006,CPRD_AURUM
+6900191000006112,"Primary degenerative dementia of the Alzheimer type, late onset",,416975007,CPRD_AURUM
+7043661000006117,Dementia associated with Parkinson Disease,,425390006,CPRD_AURUM
+3630121000006110,Korsakoff psychosis,,69482004,CPRD_AURUM
+3964611000006111,Binswanger's dementia,,90099008,CPRD_AURUM
+2707661000006119,Pick disease,,13092008,CPRD_AURUM
+3964651000006112,Subcortical arteriosclerotic encephalopathy,,90099008,CPRD_AURUM
+7699251000006118,Sporadic Jakob-Creutzfeldt disease,,713060000,CPRD_AURUM
+3341641000006113,Dementia paralytica,,51928006,CPRD_AURUM
+6900221000006117,"SDAT - Senile dementia, Alzheimer's type",,416975007,CPRD_AURUM
+2995751000006112,NPH - Normal pressure hydrocephalus,,30753002,CPRD_AURUM
+3802651000006111,Dementia of the Lewy body type,,80098002,CPRD_AURUM
+2931231000006118,AD - Alzheimer's disease,,26929004,CPRD_AURUM
+2502981000006117,Alcohol-induced persisting dementia,,281004,CPRD_AURUM
+2510981000006118,CJD - Creutzfeldt-Jakob disease,,792004,CPRD_AURUM
+2966081000006114,Nuchal dystonia-dementia syndrome,,28978003,CPRD_AURUM
+2511011000006116,Creutzfeldt Jakob disease,,792004,CPRD_AURUM
+7263011000006112,Dementia due to Huntington disease,,442344002,CPRD_AURUM
+6897241000006118,Dementia of the Alzheimers type with early onset,,416780008,CPRD_AURUM
+8009541000006119,Dementia co-occurrent and due to Pick's disease,,21921000119103,CPRD_AURUM
+2707671000006114,Picks disease,,13092008,CPRD_AURUM
+6897271000006114,Dementia in Alzheimer's disease - type 2,,416780008,CPRD_AURUM
+6973461000006110,Acquired immune deficiency syndrome dementia complex,,421529006,CPRD_AURUM
+3802641000006114,LBD - Lewy body disease,,80098002,CPRD_AURUM
+8009531000006112,Dementia due to Pick disease,,21921000119103,CPRD_AURUM
+3802661000006113,DLBD - Diffuse Lewy body disease,,80098002,CPRD_AURUM
+6897211000006117,"Primary degenerative dementia of the Alzheimer type, presenile onset",,416780008,CPRD_AURUM
+6897221000006113,"Primary degenerative dementia of the Alzheimer type, early onset",,416780008,CPRD_AURUM
+3350441000006115,Organic dementia,,52448006,CPRD_AURUM
+3802621000006119,Lewy body variant of Alzheimer's disease,,80098002,CPRD_AURUM
+3414251000006112,VAD - Vascular dementia,,56267009,CPRD_AURUM
+3630091000006111,Wernicke-Korsakoff syndrome,,69482004,CPRD_AURUM
+7103601000006116,Dementia due to Creutzfeldt-Jakob disease,,429458009,CPRD_AURUM
+12626321000006119,QOF (Quality and Outcomes Framework) dementia quality indicator-related care invitation,,1110901000000109,CPRD_AURUM
+1949611000006114,Dementia post diagnostic support (Scotland),,1949611000006105,CPRD_AURUM
+1949621000006118,Dementia stage at diagnosis,,1949621000006102,CPRD_AURUM
+1949671000006117,Dementia stage at diagnosis - not known,,1949671000006101,CPRD_AURUM
+1950431000006114,Dementia PDS (Scot) understanding illness - pillar partially met,,1950431000006105,CPRD_AURUM
+1950501000006117,Dementia PDS (Scot) - planning for future care status,,1950501000006101,CPRD_AURUM
+1950521000006110,Dementia PDS (Scot) planning future care - pillar partially met,,1950521000006106,CPRD_AURUM
+1950591000006112,Dementia PDS (Scot) peer support status - pillar partially met,,1950591000006108,CPRD_AURUM
+1950721000006118,Dementia PDS planning future decision-making - pillar met,,1950721000006102,CPRD_AURUM
+1950821000006113,Dementia link worker - other mental health worker,,1950821000006109,CPRD_AURUM
+1971701000006118,"Mental & behav dis due to use opioids: resid & late-onset psychot dis, dementia",,1971701000006102,CPRD_AURUM
+1972021000006119,"Unspecified dementia, without additional symptoms",,1972021000006103,CPRD_AURUM
+1972081000006115,"Unspecified dementia, other mixed symptoms",,1972081000006104,CPRD_AURUM
+1972131000006115,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly depressive",,1972131000006104,CPRD_AURUM
+1972141000006113,"Dementia in Alzheimer's disease with early onset, other mixed symptoms",,1972141000006109,CPRD_AURUM
+1972231000006114,"Dementia in Alzheimer's dis, atypical or mixed type, without additional symptoms",,1972231000006105,CPRD_AURUM
+1972251000006119,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly delusional",,1972251000006103,CPRD_AURUM
+1972471000006111,"Dementia in Alzheimer's disease, unspecified, other mixed symptoms",,1972471000006107,CPRD_AURUM
+1972481000006114,"Vascular dementia of acute onset, without additional symptoms",,1972481000006105,CPRD_AURUM
+1972621000006113,"Multi-infarct dementia, other symptoms, predominantly delusional",,1972621000006109,CPRD_AURUM
+1972661000006119,"Multi-infarct dementia, other symptoms, predominantly depressive",,1972661000006103,CPRD_AURUM
+1972711000006113,"Subcortical vascular dementia, without additional symptoms",,1972711000006109,CPRD_AURUM
+1972731000006119,"Subcortical vascular dementia, other symptoms, predominantly delusional",,1972731000006103,CPRD_AURUM
+1973221000006118,"Other vascular dementia, without additional symptoms",,1973221000006102,CPRD_AURUM
+1973271000006117,"Other vascular dementia, other symptoms, predominantly delusional",,1973271000006101,CPRD_AURUM
+1973401000006112,"Other vascular dementia, other mixed symptoms",,1973401000006108,CPRD_AURUM
+1973941000006119,"Mental & behav dis due to use cocaine: resid & late-onset psychot dis, dementia",,1973941000006103,CPRD_AURUM
+882201000006116,Senile dementia - simple type,E000.99,191449005,CPRD_AURUM
+408361000000111,Dementia monitoring first letter,9Ou1.00,715821000000107,CPRD_AURUM
+408421000000111,Dementia monitoring second letter,9Ou2.00,717471000000101,CPRD_AURUM
+294641018,Presenile dementia with paranoia,E001200,191454001,CPRD_AURUM
+294718018,Dementia in conditions EC,E041.00,191519005,CPRD_AURUM
+363031000006111,[X]Alzheimer's disease type 1,Eu00111,416975007,CPRD_AURUM
+6900241000006112,Dementia in Alzheimer's disease - type 1,,416975007,CPRD_AURUM
+3802671000006118,Cortical Lewy body disease,,80098002,CPRD_AURUM
+3964661000006114,Subcortical atherosclerotic dementia,,90099008,CPRD_AURUM
+6973471000006115,Dementia associated with acquired immunodeficiency syndrome,,421529006,CPRD_AURUM
+3802681000006115,CLBD - Cortical Lewy body disease,,80098002,CPRD_AURUM
+6973441000006111,AIDS - Acquired immune deficiency syndrome dementia complex,,421529006,CPRD_AURUM
+5931651000006114,Creutzfeldt-Jakob variant disease,,304603007,CPRD_AURUM
+3341701000006116,Paralytic dementia,,51928006,CPRD_AURUM
+2748441000006111,SD - Senile dementia,,15662003,CPRD_AURUM
+2773841000006115,Non-alcoholic Korsakoff psychosis,,17262008,CPRD_AURUM
+2931251000006113,Alzheimer dementia,,26929004,CPRD_AURUM
+7043651000006119,Dementia associated with Parkinson's Disease,,425390006,CPRD_AURUM
+3414261000006114,Multi infarct dementia,,56267009,CPRD_AURUM
+2931241000006111,Alzheimer disease,,26929004,CPRD_AURUM
+6973431000006118,Acquired immune deficiency syndrome-related dementia,,421529006,CPRD_AURUM
+295681016,"[X]Vascular dementia, unspecified",Eu01z00,429998004,CPRD_AURUM
+295686014,[X]Dementia in Creutzfeldt-Jakob disease,Eu02100,429458009,CPRD_AURUM
+2714871000000112,Signposting to dementia support service,,1083391000000101,CPRD_AURUM
+1971541000006114,"Dementia in Alzheimer's disease with early onset, other symptoms, predominantly delusional",,1971541000006105,CPRD_AURUM
+1972201000006118,"Dementia in Alzheimer's disease with late onset, other symptoms, predominantly depressive",,1972201000006102,CPRD_AURUM
+1972211000006115,"Dementia in Alzheimer's disease with late onset, other mixed symptoms",,1972211000006104,CPRD_AURUM
+1972291000006113,"Dementia in Alzheimer's dis, atypical or mixed type, other symptoms, predominantly hallucinatory",,1972291000006109,CPRD_AURUM
+1972771000006116,"Subcortical vascular dementia, other symptoms, predominantly depressive",,1972771000006100,CPRD_AURUM
+1949661000006112,Dementia stage at diagnosis - undetermined,,1949661000006108,CPRD_AURUM
+1950421000006111,Dementia PDS (Scot) understanding illness status - pillar met,,1950421000006107,CPRD_AURUM
+1950451000006119,Dementia PDS understanding illness-pillar not met(service reasn),,1950451000006103,CPRD_AURUM
+1950561000006116,Dementia PDS planning future care - pillar status not known,,1950561000006100,CPRD_AURUM
+1950651000006117,Dementia PDS (Scot) support community connections - pillar met,,1950651000006101,CPRD_AURUM
+1950761000006112,Dementia PDS plan future decision-making - other pillar status,,1950761000006108,CPRD_AURUM
+1950771000006117,Dementia PDS plan future decision-making-pillar status not known,,1950771000006101,CPRD_AURUM
+1834091000006117,Dementia care plan,,1834091000006101,CPRD_AURUM
+1856601000006111,Dementia monitoring in primary care,,1856601000006107,CPRD_AURUM
+914931000006119,[D] Dementia with Lewy bodies,,914931000006103,CPRD_AURUM
+408461000000115,Dementia monitoring third letter,9Ou3.00,716671000000102,CPRD_AURUM
+499946014,Alzheimer's disease with early onset,F110000,416780008,CPRD_AURUM
+500317011,Alzheimer's disease with late onset,F110100,416975007,CPRD_AURUM
+294635013,Uncomplicated senile dementia,E000.00,191449005,CPRD_AURUM
+294638010,Presenile dementia with delirium,E001100,191452002,CPRD_AURUM
+21256010,Presenile dementia,E001.00,12348006,CPRD_AURUM
+45046017,Alzheimer's disease,F110.00,26929004,CPRD_AURUM
+251625013,H/O: dementia,1461.00,161465002,CPRD_AURUM
+363041000006118,[X]Alzheimer's disease type 2,Eu00013,416780008,CPRD_AURUM
+376541000006112,[X]Dementia in Alzheimer's disease with late onset,Eu00100,416975007,CPRD_AURUM
+376571000006116,[X]Dementia in human immunodef virus [HIV] disease,Eu02400,421529006,CPRD_AURUM
+363021000006113,[X]Alzheimer's dementia unspec,Eu00z11,26929004,CPRD_AURUM
+2345801000000113,Dementia advance care plan declined,8IAe000,956881000000103,CPRD_AURUM
+2345931000000111,Review of dementia advance care plan,8CMG200,956861000000107,CPRD_AURUM
+4539871000006116,History of dementia,,161465002,CPRD_AURUM
+3414231000006117,MID - Multi-infarct dementia,,56267009,CPRD_AURUM
+3964591000006117,Subcortical leucoencephalopathy,,90099008,CPRD_AURUM
+3802631000006116,SDLT - Senile dementia of the Lewy body type,,80098002,CPRD_AURUM
+2502971000006115,Dementia associated with alcoholism,,281004,CPRD_AURUM
+295687017,[X]Dementia in Huntington's disease,Eu02200,442344002,CPRD_AURUM
+295714013,[X]Delirium superimposed on dementia,Eu04100,2776000,CPRD_AURUM
+2403101000000116,Dementia medication review,8BM0200,938551000000108,CPRD_AURUM
+2439711000000111,Dementia care plan review declined,8CMZ300,956901000000100,CPRD_AURUM
+2620471000000118,Shared care prescribing of drugs for dementia declined,,720022007,CPRD_AURUM
+1949631000006115,Dementia stage at diagnosis - early (mild),,1949631000006104,CPRD_AURUM
+1950541000006115,Dementia PDS planning future care - pillar not met (pt choice),,1950541000006104,CPRD_AURUM
+1950571000006111,Dementia PDS (Scot) - peer support status,,1950571000006107,CPRD_AURUM
+1950661000006115,Dementia PDS support community connections -pillar partially met,,1950661000006104,CPRD_AURUM
+1950811000006117,Dementia link worker - mental health OT,,1950811000006101,CPRD_AURUM
+1972401000006117,"Dementia in Alzheimer's disease, unspecified, other symptoms, predominantly delusional",,1972401000006101,CPRD_AURUM
+1972421000006110,"Dementia in Alzheimer's disease, unspecified, other symptoms, predominantly hallucinatory",,1972421000006106,CPRD_AURUM
+1972641000006118,"Multi-infarct dementia, other symptoms, predominantly hallucinatory",,1972641000006102,CPRD_AURUM
+1972681000006112,"Multi-infarct dementia, other mixed symptoms",,1972681000006108,CPRD_AURUM
+1973551000006112,"Vascular dementia, unspecified, other symptoms, predominantly depressive",,1973551000006108,CPRD_AURUM
+1976831000006111,"Vascular dementia, unspecified, other mixed symptoms",,1976831000006107,CPRD_AURUM
+1897891000006114,Sporadic Creutzfeldt-Jakob disease,,1897891000006105,CPRD_AURUM
+1823871000006112,Dementia confirmed,,1823871000006108,CPRD_AURUM
+1856631000006115,Did not attend dementia monitoring,,1856631000006104,CPRD_AURUM
+1774581000006113,Refer to dementia care advisor,,1774581000006109,CPRD_AURUM
+5931631000006119,nvCJD - New variant of Creutzfeldt-Jakob disease,,304603007,CPRD_AURUM
+5931641000006112,vCJD - variant Creutzfeldt-Jakob disease,,304603007,CPRD_AURUM
+882171000006115,Dementia,E00..97,268612007,CPRD_AURUM
+6900201000006110,"Dementia of the Alzheimers type, late onset",,416975007,CPRD_AURUM
+345092016,Frontotemporal degeneration,F118.00,230273006,CPRD_AURUM
+294642013,Presenile dementia with depression,E001300,191455000,CPRD_AURUM
+294644014,Senile dementia with depressive or paranoid features,E002.00,191457008,CPRD_AURUM
+294645010,Senile dementia with paranoia,E002000,191458003,CPRD_AURUM
+51470011,Normal pressure hydrocephalus,F113000,30753002,CPRD_AURUM
+346929012,Alcoholic dementia NOS,E012.11,281004,CPRD_AURUM
+148381000006115,Senile/presenile dementia,E00..12,52448006,CPRD_AURUM
+696161000006115,Multi infarct dementia,E004.11,56267009,CPRD_AURUM
+359101000006114,[X] Primary degenerative dementia NOS,Eu02z13,279982005,CPRD_AURUM
+299641000000112,[X]Lewy body dementia,Eu02500,80098002,CPRD_AURUM
+294643015,Presenile dementia NOS,E001z00,12348006,CPRD_AURUM
+2510991000006115,JCD - Jakob-Creutzfeldt disease,,792004,CPRD_AURUM

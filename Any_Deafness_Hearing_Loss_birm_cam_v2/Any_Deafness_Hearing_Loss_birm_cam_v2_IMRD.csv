@@ -1,0 +1,215 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+13o5.00,Preferred method of communication: Makaton,13o5.00,,IMRD
+13o6.00,Preferred method of communication: British Sign Language,13o6.00,,IMRD
+13o8500,Uses British Sign Language interpreter,13o8500,,IMRD
+13o8J00,Uses deafblind intervener,13o8J00,,IMRD
+13o8M00,Uses sign language,13o8M00,,IMRD
+13o8N00,Uses Deafblind Manual Alphabet,13o8N00,,IMRD
+13ZL.00,Using lip-reading,13ZL.00,,IMRD
+13ZM.00,Using British sign language,13ZM.00,,IMRD
+13ZP.00,Using Makaton sign language,13ZP.00,,IMRD
+1493.00,H/O: hearing problem,1493.00,,IMRD
+1C12.00,Hearing difficulty,1C12.00,,IMRD
+1C13.00,Deafness,1C13.00,,IMRD
+1C13.11,Deafness symptom,1C13.11,,IMRD
+1C13100,Unilateral deafness,1C13100,,IMRD
+1C13200,Partial deafness,1C13200,,IMRD
+1C13300,Bilateral deafness,1C13300,,IMRD
+1C16.00,Deteriorating hearing,1C16.00,,IMRD
+1C17.00,Hearing aid problem,1C17.00,,IMRD
+1C18.00,Difficulty hearing with background noise,1C18.00,,IMRD
+1C19.00,Difficulty hearing whispers,1C19.00,,IMRD
+2BL..11,O/E - deaf,2BL..11,,IMRD
+2BL2.00,O/E - slightly deaf,2BL2.00,,IMRD
+2BL3.00,O/E - significantly deaf,2BL3.00,,IMRD
+2BL4.00,O/E - very deaf,2BL4.00,,IMRD
+2BL5.00,O/E - completely deaf,2BL5.00,,IMRD
+2BL6.00,O/E - patient noted to be lip reading,2BL6.00,,IMRD
+2BM2.00,O/E -tune fork=conductive deaf,2BM2.00,,IMRD
+2BM2.11,O/E - conductive deafness,2BM2.11,,IMRD
+2BM3.00,O/E tune fork=perceptive deaf,2BM3.00,,IMRD
+2BM3.11,O/E - perceptive deafness,2BM3.11,,IMRD
+2BM4.00,O/E - High tone deafness,2BM4.00,,IMRD
+2DG..00,Hearing aid worn,2DG..00,,IMRD
+2DH0.00,Uses hearing loop,2DH0.00,,IMRD
+2DH1.00,Does use hearing aid,2DH1.00,,IMRD
+7308400,Placement of hearing implant in external ear,7308400,,IMRD
+7308500,Attention to hearing implant in external ear,7308500,,IMRD
+7308600,Removal of hearing implant from external ear,7308600,,IMRD
+7311A00,Insertn bone anchors subcutaneous bone anchored hearing aid,7311A00,,IMRD
+7317C00,Placement of hearing implant in middle ear,7317C00,,IMRD
+7317D00,Attention to hearing implant in middle ear,7317D00,,IMRD
+7317E00,Removal of hearing implant from middle ear,7317E00,,IMRD
+7319.00,Attachment of bone anchored hearing prosthesis,7319.00,,IMRD
+7319000,Insertion fixtures bone anchored hearing prosthesis Stage 1,7319000,,IMRD
+7319100,Insertion fixtures bone anchored hearing prosthesis Stage 2,7319100,,IMRD
+7319200,Reduction soft tissue for bone anchored hearing prosthesis,7319200,,IMRD
+7319300,Attention to fixtures for bone anchored hearing prosthesis,7319300,,IMRD
+7319400,One stage insert fixtures bone anchored hearing prosthesis,7319400,,IMRD
+7319500,Fitting external hearing prosthesis bone anchored fixtures,7319500,,IMRD
+7319600,First stge ins fixtures for bone anchored hearing prosthesis,7319600,,IMRD
+7319700,Second stage ins fixtures for bone anchored hearing prosth,7319700,,IMRD
+7319y00,Other specified attachment bone anchored hearing prosthesis,7319y00,,IMRD
+7319z00,Attachment of bone anchored hearing prosthesis NOS,7319z00,,IMRD
+7321000,Implantation of intracochlear prosthesis,7321000,,IMRD
+7321100,Implantation of extracochlear prosthesis,7321100,,IMRD
+7321200,Attention to cochlear prosthesis,7321200,,IMRD
+7321211,Removal of cochlear prosthesis,7321211,,IMRD
+7321800,Removal of cochlear prosthesis,7321800,,IMRD
+8D2..12,Hearing aid provision,8D2..12,,IMRD
+8D21.00,Provide head worn hearing aid,8D21.00,,IMRD
+8D22.00,Provide body worn hearing aid,8D22.00,,IMRD
+8D23.00,Ear fitting hearing aid,8D23.00,,IMRD
+8D24.00,Replace hearing aid battery,8D24.00,,IMRD
+8D25.00,Physiolog. hearing assistance,8D25.00,,IMRD
+8D26.00,Provision of replacement hearing aid,8D26.00,,IMRD
+8E3..00,Deafness remedial therapy,8E3..00,,IMRD
+8E31.00,Lip reading training,8E31.00,,IMRD
+8E3Z.00,Deafness remedial therapy NOS,8E3Z.00,,IMRD
+8M41.00,Hearing aid requested,8M41.00,,IMRD
+8O0E.00,Provision of support as Makaton user,8O0E.00,,IMRD
+8O0F.00,Provision of support as signing user,8O0F.00,,IMRD
+9Nfa.00,Requires deafblind manual alphabet interpreter,9Nfa.00,,IMRD
+9Nfb.00,Requires deafblind block alphabet interpreter,9Nfb.00,,IMRD
+9NfB.00,Requires deafblind communicator guide,9NfB.00,,IMRD
+9Nfc.00,Requires deafblind haptic communication interpreter,9Nfc.00,,IMRD
+9NfL.00,Requires information in Makaton,9NfL.00,,IMRD
+9NnR.00,Visual frame sign language interpreter needed,9NnR.00,,IMRD
+9NnS.00,Hands-on signing interpreter needed,9NnS.00,,IMRD
+9NUw.00,Interpreter needed - British Sign Language,9NUw.00,,IMRD
+9NUx.00,Interpreter needed - Makaton Sign Language,9NUx.00,,IMRD
+A560200,Rubella deafness,A560200,,IMRD
+C373412,Amyloid nephropathy with deafness and urticaria,C373412,,IMRD
+E201200,Hysterical deafness,E201200,,IMRD
+E2F3011,Word deafness,E2F3011,,IMRD
+E2F3200,Articulatory defect due to conductive hearing loss,E2F3200,,IMRD
+E2F3211,Articulatory impairment due to conductive hearing loss,E2F3211,,IMRD
+Eu44611,[X]Psychogenic deafness,Eu44611,,IMRD
+Eu80214,[X]Word deafness,Eu80214,,IMRD
+F580100,Presbyacusis,F580100,,IMRD
+F580111,Senile presbyacusis,F580111,,IMRD
+F581200,Noise-induced hearing loss,F581200,,IMRD
+F581211,Noise induced deafness,F581211,,IMRD
+F582.00,Unspecified sudden hearing loss,F582.00,,IMRD
+F59..00,Hearing loss,F59..00,,IMRD
+F59..11,Deafness,F59..11,,IMRD
+F590.00,Conductive hearing loss,F590.00,,IMRD
+F590.11,Conductive deafness,F590.11,,IMRD
+F590000,Unspecified conductive hearing loss,F590000,,IMRD
+F590100,Conductive hearing loss due to disorder of external ear,F590100,,IMRD
+F590200,Conductive hearing loss due to disorder of tympanic membrane,F590200,,IMRD
+F590300,Conductive hearing loss due to disorder of middle ear,F590300,,IMRD
+F590400,Conductive hearing loss due to disorder of inner ear,F590400,,IMRD
+F590500,"Conductive hearing loss, bilateral",F590500,,IMRD
+F590600,"Conduct hear loss,unilat+unrestric hearing on contralat side",F590600,,IMRD
+F590y00,Combined conductive hearing loss,F590y00,,IMRD
+F590z00,Conductive hearing loss NOS,F590z00,,IMRD
+F591.00,Sensorineural hearing loss,F591.00,,IMRD
+F591.11,High frequency deafness,F591.11,,IMRD
+F591.12,Low frequency deafness,F591.12,,IMRD
+F591.13,Perceptive deafness,F591.13,,IMRD
+F591.14,Perceptive hearing loss,F591.14,,IMRD
+F591000,Unspecified perceptive hearing loss,F591000,,IMRD
+F591100,Sensory hearing loss,F591100,,IMRD
+F591200,Neural hearing loss,F591200,,IMRD
+F591211,Nerve deafness,F591211,,IMRD
+F591300,Central hearing loss,F591300,,IMRD
+F591400,Congenital sensorineural deafness,F591400,,IMRD
+F591500,Ototoxicity - deafness,F591500,,IMRD
+F591511,Drug ototoxicity - deafness,F591511,,IMRD
+F591600,"Sensorineural hearing loss, bilateral",F591600,,IMRD
+F591700,"Sensorineurl hear loss,unilat unrestrict hear/contralat side",F591700,,IMRD
+F591800,Congenital prelingual deafness,F591800,,IMRD
+F591900,Bilateral profound sensorineural hearing loss,F591900,,IMRD
+F591A00,Bilateral congenital sensorineural hearing loss,F591A00,,IMRD
+F591B00,Profound sensorineural hearing loss,F591B00,,IMRD
+F591C00,Moderate sensorineural hearing loss,F591C00,,IMRD
+F591D00,Mild sensorineural hearing loss,F591D00,,IMRD
+F591E00,Severe sensorineural hearing loss,F591E00,,IMRD
+F591y00,Combined perceptive hearing loss,F591y00,,IMRD
+F591z00,Perceptive hearing loss NOS,F591z00,,IMRD
+F592.00,Mixed conductive and sensorineural deafness,F592.00,,IMRD
+F592.11,Mixed hearing loss,F592.11,,IMRD
+F592000,"Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd",F592000,,IMRD
+F592100,"Mixed conductive and sensorineural hearing loss, bilateral",F592100,,IMRD
+F593.00,"Deaf mutism, NEC",F593.00,,IMRD
+F594.00,High frequency deafness,F594.00,,IMRD
+F595.00,Low frequency deafness,F595.00,,IMRD
+F596.00,Maternally inherited deafness,F596.00,,IMRD
+F597.00,Mild acquired hearing loss,F597.00,,IMRD
+F598.00,Moderate acquired hearing loss,F598.00,,IMRD
+F599.00,Severe acquired hearing loss,F599.00,,IMRD
+F59A.00,Profound acquired hearing loss,F59A.00,,IMRD
+F59A.11,Deafened,F59A.11,,IMRD
+F59y.00,Other specified forms of hearing loss,F59y.00,,IMRD
+F59z.00,Deafness NOS,F59z.00,,IMRD
+F59z.11,Chronic deafness,F59z.11,,IMRD
+F5A..00,Hearing impairment,F5A..00,,IMRD
+Fy1..00,Combined visual and hearing impairment,Fy1..00,,IMRD
+Fy1..11,Dual sensory impairment - deafblind,Fy1..11,,IMRD
+Fy1..12,Deafblind,Fy1..12,,IMRD
+FyuU000,"[X]Deaf mutism, not elsewhere classified",FyuU000,,IMRD
+FyuU100,[X]Other specified hearing loss,FyuU100,,IMRD
+K08y800,Renal tubular acidosis with progressive nerve deafness,K08y800,,IMRD
+P40..00,Ear anomalies with hearing impairment,P40..00,,IMRD
+P400.00,"Ear anomalies with hearing impaired, unspecified",P400.00,,IMRD
+P402.00,Other external ear anomaly with hearing impairment,P402.00,,IMRD
+P402z00,Other external ear anomaly with hearing impairment NOS,P402z00,,IMRD
+P40z.00,Other and unspecified ear anomaly with hearing impaired,P40z.00,,IMRD
+P40z.11,Deafness due to congenital anomaly NEC,P40z.11,,IMRD
+P40zz00,Ear anomaly with hearing impaired NOS,P40zz00,,IMRD
+PKyP.00,"Diab insipidus,diab mell,optic atrophy and deafness",PKyP.00,,IMRD
+PKyz800,"DOOR - Deafness, triphalangeal thumbs, onychodystrophy",PKyz800,,IMRD
+Pyu1B00,"[X]Malformation of ear with impairment of hearing, unspec",Pyu1B00,,IMRD
+SJ15.12,Deafness - traumatic - NOS,SJ15.12,,IMRD
+Z37G.00,Provision of support as Makaton user,Z37G.00,,IMRD
+Z37H.00,Provision of support as signing user,Z37H.00,,IMRD
+Z472900,Using sign language to communicate with client,Z472900,,IMRD
+Z7CM511,Word deafness,Z7CM511,,IMRD
+Z8B5.00,Ability to use hearing aid,Z8B5.00,,IMRD
+Z8B5100,Able to use hearing aid,Z8B5100,,IMRD
+Z8B5200,Unable to use hearing aid,Z8B5200,,IMRD
+Z8B5300,Does use hearing aid,Z8B5300,,IMRD
+Z8B5311,Uses hearing aid,Z8B5311,,IMRD
+Z8B5500,Difficulty using hearing aid,Z8B5500,,IMRD
+Z911.00,Hearing aid procedure,Z911.00,,IMRD
+Z911100,Fit hearing aid,Z911100,,IMRD
+Z911300,Adjust hearing aid settings,Z911300,,IMRD
+Z911400,Changing hearing aid battery,Z911400,,IMRD
+Z911500,Checking hearing aid,Z911500,,IMRD
+Z911700,Switching on hearing aid,Z911700,,IMRD
+Z911800,Turning off hearing aid,Z911800,,IMRD
+Z911900,Putting on hearing aid,Z911900,,IMRD
+Z911A00,Listening for feedback whistle of hearing aid,Z911A00,,IMRD
+Z911B00,Attention to hearing aid,Z911B00,,IMRD
+Z911E00,Fit ear mould for existing hearing aid,Z911E00,,IMRD
+Z911G00,Fit ear mould for hearing protection,Z911G00,,IMRD
+Z912.00,Adjustment of cochlear implant processor,Z912.00,,IMRD
+Z96..00,Provision for visual and hearing impairment,Z96..00,,IMRD
+Z961.00,Provision of guide help for visual and hearing impairment,Z961.00,,IMRD
+Z962.00,Provision of communicator for visual and hearing impairment,Z962.00,,IMRD
+Z9E8100,Hearing aid provision,Z9E8100,,IMRD
+ZE3..00,Distorted hearing,ZE3..00,,IMRD
+ZE63.00,Hearing worse,ZE63.00,,IMRD
+ZE7..00,Hearing problem,ZE7..00,,IMRD
+ZE81200,Hearing for whisper impaired,ZE81200,,IMRD
+ZE81300,Unable to hear whisper,ZE81300,,IMRD
+ZE86.00,Difficulty hearing in noise,ZE86.00,,IMRD
+ZE87.00,Hearing loss,ZE87.00,,IMRD
+ZE87.11,Deafness,ZE87.11,,IMRD
+ZE87.12,Difficulty hearing,ZE87.12,,IMRD
+ZE87.13,Hard of hearing,ZE87.13,,IMRD
+ZE87.15,HI - Hearing impairment,ZE87.15,,IMRD
+ZE87.16,HL - Hearing loss,ZE87.16,,IMRD
+ZE87.17,HOH - Hard of hearing,ZE87.17,,IMRD
+ZE87.18,Hearing impairment,ZE87.18,,IMRD
+ZE87.19,Hearing impaired,ZE87.19,,IMRD
+ZE87.20,HEARING IMPAIRED,ZE87.20,,IMRD
+ZK75.00,Issue of local authority deaf registration,ZK75.00,,IMRD
+ZN56900,Deaf telephone user,ZN56900,,IMRD
+ZN56A00,Deaf-blind telephone user,ZN56A00,,IMRD
+ZV41200,[V]Problems with hearing,ZV41200,,IMRD
+ZV45G00,[V]Presence of external hearing-aid,ZV45G00,,IMRD
+ZV45N00,[V]Bone anchored hearing aid in situ,ZV45N00,,IMRD
+ZV53200,[V]Fitting or adjustment of hearing aid,ZV53200,,IMRD
+ZV53D00,[V]Adjustment and management of implanted hearing device,ZV53D00,,IMRD

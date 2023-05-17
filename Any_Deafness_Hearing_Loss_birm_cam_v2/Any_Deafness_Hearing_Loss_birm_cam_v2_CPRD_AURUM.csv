@@ -1,0 +1,411 @@
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+25788011,Hearing loss,F59..00,15188001,CPRD_AURUM
+70962017,Low frequency deafness,F595.00,42538001,CPRD_AURUM
+73473018,Conductive deafness,F590.11,44057004,CPRD_AURUM
+80699013,Articulatory defect due to conductive hearing loss,E2F3200,48436005,CPRD_AURUM
+100850012,Sensorineural hearing loss,F591.00,60700002,CPRD_AURUM
+100856018,Perceptive hearing loss,F591.14,60700002,CPRD_AURUM
+100857010,Perceptive deafness,F591.13,60700002,CPRD_AURUM
+117876016,Hysterical deafness,E201200,70967007,CPRD_AURUM
+121849011,Neural hearing loss,F591200,73371001,CPRD_AURUM
+251667016,H/O: hearing problem,1493.00,161497002,CPRD_AURUM
+253157015,Hearing difficulty,1C12.00,162340000,CPRD_AURUM
+253161014,Unilateral deafness,1C13100,162342008,CPRD_AURUM
+253163012,Bilateral deafness,1C13300,162344009,CPRD_AURUM
+255426014,O/E - significantly deaf,2BL3.00,164061000,CPRD_AURUM
+255427017,O/E - very deaf,2BL4.00,164062007,CPRD_AURUM
+255433014,O/E -tune fork=conductive deaf,2BM2.00,164068006,CPRD_AURUM
+255435019,O/E - perceptive deafness,2BM3.11,164069003,CPRD_AURUM
+255436018,O/E tune fork=perceptive deaf,2BM3.00,164069003,CPRD_AURUM
+255437010,O/E - High tone deafness,2BM4.00,164070002,CPRD_AURUM
+267423017,Implantation of intracochlear prosthesis,7321000,172732009,CPRD_AURUM
+283069016,Provide head worn hearing aid,8D21.00,183123004,CPRD_AURUM
+283070015,Provide body worn hearing aid,8D22.00,183124005,CPRD_AURUM
+283071016,Ear fitting hearing aid,8D23.00,183125006,CPRD_AURUM
+283305018,Deafness remedial therapy,8E3..00,183280009,CPRD_AURUM
+299241011,Conductive hearing loss due to disorder of external ear,F590100,194413008,CPRD_AURUM
+299242016,Conductive hearing loss due to disorder of tympanic membrane,F590200,194414002,CPRD_AURUM
+299245019,"Conductive hearing loss, bilateral",F590500,194417009,CPRD_AURUM
+299261017,Combined perceptive hearing loss,F591y00,194426007,CPRD_AURUM
+313148014,Ear anomalies with hearing impairment,P40..00,204224006,CPRD_AURUM
+348075014,Chronic deafness,F59z.11,232325008,CPRD_AURUM
+348076010,High frequency deafness,F594.00,232326009,CPRD_AURUM
+354552014,Renal tubular acidosis with progressive nerve deafness,K08y800,236532003,CPRD_AURUM
+358234016,"DOOR - Deafness, triphalangeal thumbs, onychodystrophy",PKyz800,239047003,CPRD_AURUM
+394050019,Attention to cochlear prosthesis,7321200,265316002,CPRD_AURUM
+399507018,Ototoxicity - deafness,F591500,267677007,CPRD_AURUM
+407075014,Deafness symptom,1C13.11,272033007,CPRD_AURUM
+411844019,O/E - deaf,2BL..11,275879008,CPRD_AURUM
+423945013,Does use hearing aid,2DH1.00,285055002,CPRD_AURUM
+459324019,Deteriorating hearing,1C16.00,314914004,CPRD_AURUM
+470343013,Partial deafness,1C13200,343087000,CPRD_AURUM
+502417018,Nerve deafness,F591211,73371001,CPRD_AURUM
+512317011,Congenital sensorineural deafness,F591400,95828007,CPRD_AURUM
+1234118017,Mixed conductive and sensorineural deafness,F592.00,77507001,CPRD_AURUM
+1234119013,Mixed hearing loss,F592.11,77507001,CPRD_AURUM
+1234121015,Mixed deafness,F592.99,77507001,CPRD_AURUM
+1488593014,Hearing aid requested,8M41.00,394889008,CPRD_AURUM
+1780216010,Difficulty hearing whispers,1C19.00,401009005,CPRD_AURUM
+2160127015,Using Makaton sign language,13ZP.00,408577006,CPRD_AURUM
+2675903011,Removal of hearing implant from external ear,7308600,426706000,CPRD_AURUM
+2675904017,Removal of hearing implant from middle ear,7317E00,427556004,CPRD_AURUM
+2675905016,Attachment of bone anchored hearing prosthesis,7319.00,426733001,CPRD_AURUM
+2695992016,Attention to hearing implant in middle ear,7317D00,429383008,CPRD_AURUM
+312701000000119,Interpreter needed - British Sign Language,9NUw.00,204331000000107,CPRD_AURUM
+312731000000113,Interpreter needed - Makaton Sign Language,9NUx.00,204341000000103,CPRD_AURUM
+855871000006110,Hearing adequate with aid,,855871000006106,CPRD_AURUM
+883821000006115,Senile/other presbyacusis,F580199,49526009,CPRD_AURUM
+914981000006118,Frustrated due to hearing difficulty,,914981000006102,CPRD_AURUM
+915031000006119,Hearing difficulty when with friends/ family,,915031000006103,CPRD_AURUM
+918671000006117,Hearing difficulty,,918671000006101,CPRD_AURUM
+918701000006116,Unilateral deafness,,918701000006100,CPRD_AURUM
+918711000006118,Partial deafness,,918711000006102,CPRD_AURUM
+918721000006114,Bilateral deafness,,918721000006105,CPRD_AURUM
+960271000006118,Difficulty hearing normal speech tones,,960271000006102,CPRD_AURUM
+982621000006118,Hearing impaired,,982621000006102,CPRD_AURUM
+987421000006118,Uses hearing loop,,987421000006102,CPRD_AURUM
+989081000006119,Hearing loss NOS,F59..99,15188001,CPRD_AURUM
+993811000006119,Sign interpreter needed,,993811000006103,CPRD_AURUM
+993821000006110,Sign interpreter needed - British sign language,,993821000006106,CPRD_AURUM
+1162181000000117,Preferred method of communication: British Sign Language,13o6.00,520471000000105,CPRD_AURUM
+1162731000000117,Uses British sign language interpreter,13o8500,704497002,CPRD_AURUM
+1173591000000110,Congenital prelingual deafness,F591800,699238006,CPRD_AURUM
+1706531000006114,Using Australian sign language,,1706531000006105,CPRD_AURUM
+1778371000006114,Preferred communication Language: British Signing Language,,1778371000006105,CPRD_AURUM
+1779881000000115,Requires deafblind communicator guide,9NfB.00,796201000000109,CPRD_AURUM
+1846681000006117,Amyloid nephropathy with deafness and urticaria,C373412,15123008,CPRD_AURUM
+1872761000006118,Special education needs - hearing impairment,,1872761000006102,CPRD_AURUM
+1913821000006111,Concern expressed by carer: hearing,,1913821000006107,CPRD_AURUM
+1960331000006112,Hearing aid lost,,1960331000006108,CPRD_AURUM
+1960341000006119,Hearing aid faulty,,1960341000006103,CPRD_AURUM
+1960361000006115,Hearing aid right ear - serial number,,1960361000006104,CPRD_AURUM
+1963491000006112,Disability code - Hearing,,1963491000006108,CPRD_AURUM
+1964421000006113,Provision of transcutaneous air-conduction hearing aid tube,,1964421000006109,CPRD_AURUM
+2226281000000117,Moderate sensorineural hearing loss,F591C00,860801000000109,CPRD_AURUM
+2226301000000116,Severe sensorineural hearing loss,F591E00,860811000000106,CPRD_AURUM
+2226381000000114,Mild sensorineural hearing loss,F591D00,860851000000105,CPRD_AURUM
+2264121000000111,Bilateral profound sensorineural hearing loss,F591900,877191000000104,CPRD_AURUM
+2264161000000115,Bilateral congenital sensorineural hearing loss,F591A00,877211000000100,CPRD_AURUM
+2267571000000111,Deafblind,Fy1..12,433147009,CPRD_AURUM
+2267601000000116,Dual sensory impairment - deafblind,Fy1..11,433147009,CPRD_AURUM
+2398801000000112,Requires information in Makaton,9NfL.00,936641000000108,CPRD_AURUM
+2410391000000119,Articulatory impairment due to conductive hearing loss,E2F3211,48436005,CPRD_AURUM
+2418641000000117,Hands-on signing interpreter needed,9NnS.00,945731000000104,CPRD_AURUM
+2440051000000118,Uses deafblind intervener,13o8J00,957031000000107,CPRD_AURUM
+2440141000000115,Requires deafblind block alphabet interpreter,9Nfb.00,957071000000109,CPRD_AURUM
+2440231000000116,Requires deafblind haptic communication interpreter,9Nfc.00,957111000000103,CPRD_AURUM
+356118015,Diabetes-deafness syndrome maternally transmitted,,237619009,CPRD_AURUM
+337703011,Interpreter for British sign language,,224625007,CPRD_AURUM
+356099014,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction",,237612000,CPRD_AURUM
+299208013,Unspecified sudden hearing loss,F582.00,79471008,CPRD_AURUM
+299240012,Unspecified conductive hearing loss,F590000,44057004,CPRD_AURUM
+299248017,Conductive hearing loss NOS,F590z00,44057004,CPRD_AURUM
+299255015,Unspecified perceptive hearing loss,F591000,60700002,CPRD_AURUM
+299265014,"Deaf mutism, NEC",F593.00,61947007,CPRD_AURUM
+313159017,Other external ear anomaly with hearing impairment,P402.00,25906001,CPRD_AURUM
+313164018,Other external ear anomaly with hearing impairment NOS,P402z00,25906001,CPRD_AURUM
+377153018,Deafness due to congenital anomaly NEC,P40z.11,204224006,CPRD_AURUM
+148351000006111,Senile presbyacusis,F580111,49526009,CPRD_AURUM
+207971000006112,Presbyacusis,F580100,49526009,CPRD_AURUM
+279231000006117,O/E - patient noted to be lip reading,2BL6.00,310542003,CPRD_AURUM
+361091000000119,Placement of hearing implant in external ear,7308400,429585000,CPRD_AURUM
+423881000006117,[X]Psychogenic deafness,Eu44611,30169000,CPRD_AURUM
+432821000006113,[X]Word deafness,Eu80214,367515004,CPRD_AURUM
+578361000006118,"Conduct hear loss,unilat+unrestric hearing on contralat side",F590600,194418004,CPRD_AURUM
+622201000000110,Maternally inherited deafness,F596.00,95828007,CPRD_AURUM
+742691000006117,Lip reading training,8E31.00,183281008,CPRD_AURUM
+1542761000006115,Insertion fixtures bone anchored hearing prosthesis Stage 2,7319100,225951000000109,CPRD_AURUM
+1586391000006119,One stage insert fixtures bone anchored hearing prosthesis,7319400,280651000000104,CPRD_AURUM
+1586421000006110,Second stage ins fixtures for bone anchored hearing prosth,7319700,225951000000109,CPRD_AURUM
+1848531000006116,"Diab insipidus,diab mell,optic atrophy and deafness",PKyP.00,70694009,CPRD_AURUM
+25785014,Deafness,F59..11,15188001,CPRD_AURUM
+669051000000119,[V]Bone anchored hearing aid in situ,ZV45N00,761591000000105,CPRD_AURUM
+1173611000000119,Mild acquired hearing loss,F597.00,737047001,CPRD_AURUM
+1173631000000110,Moderate acquired hearing loss,F598.00,737048006,CPRD_AURUM
+1173671000000112,Profound acquired hearing loss,F59A.00,737050003,CPRD_AURUM
+181191000006116,Removal of cochlear prosthesis,7321211,710576002,CPRD_AURUM
+220001000000116,Removal of cochlear prosthesis,7321800,710576002,CPRD_AURUM
+2636241000006117,Complete deafness,,8531006,CPRD_AURUM
+7174871000006118,Dual sensory impairment of vision and hearing,,433147009,CPRD_AURUM
+5754991000006115,Hearing aid care,,290036002,CPRD_AURUM
+5577911000006115,On examination - deaf,,275879008,CPRD_AURUM
+3649841000006116,"DIDMOAD - Diabetes insipidus, diabetes mellitus, optic atrophy and deafness",,70694009,CPRD_AURUM
+4574471000006119,On examination - High tone deafness,,164070002,CPRD_AURUM
+3209521000006115,CD - Conductive deafness,,44057004,CPRD_AURUM
+3506711000006117,Nonspeaking deaf,,61947007,CPRD_AURUM
+2739701000006112,Familial amyloid nephropathy with urticaria AND deafness,,15123008,CPRD_AURUM
+3644051000006111,Goiter-deafness syndrome,,70348004,CPRD_AURUM
+3890851000006110,Cochlear hearing loss,,85571008,CPRD_AURUM
+4650601000006112,"Implantation of cochlear implant, intracochlear",,172732009,CPRD_AURUM
+3761251000006115,MHL - Mixed hearing loss,,77507001,CPRD_AURUM
+8064791000006115,British Sign Language interpreter needed,,204331000000107,CPRD_AURUM
+8064811000006116,Makaton Sign Language interpreter needed,,204341000000103,CPRD_AURUM
+3268641000006118,"Coloboma, congenital heart disease, choanal atresia, growth retardation, genital hypoplasia, ear and hearing anomaly syndrome",,47535005,CPRD_AURUM
+3693051000006116,Nerve conduction deafness,,73371001,CPRD_AURUM
+7375631000006111,Cochlear prosthesis in situ,,449840001,CPRD_AURUM
+2740711000006116,HOH - Hard of hearing,,15188001,CPRD_AURUM
+3301531000006113,Senile deafness,,49526009,CPRD_AURUM
+3693061000006119,Retrocochlear hearing loss,,73371001,CPRD_AURUM
+4720491000006110,Physiological hearing assistance,,183127003,CPRD_AURUM
+2740741000006117,Difficulty hearing,,15188001,CPRD_AURUM
+3486101000006114,Sensory-neural hearing loss,,60700002,CPRD_AURUM
+3761211000006116,Mixed conductive AND sensorineural hearing loss,,77507001,CPRD_AURUM
+4720481000006112,Changing hearing aid battery,,183126007,CPRD_AURUM
+3649791000006119,Diabetes mellitus AND insipidus with optic atrophy AND deafness,,70694009,CPRD_AURUM
+3301521000006110,Presbycusis,,49526009,CPRD_AURUM
+2740731000006110,Hearing impairment,,15188001,CPRD_AURUM
+3439761000006114,Retinitis pigmentosa-deafness syndrome,,57838006,CPRD_AURUM
+5033031000006116,BAHA - Insertion of anchors for percutaneous bone anchored hearing aid,,232183005,CPRD_AURUM
+4574331000006112,On examination - very deaf,,164062007,CPRD_AURUM
+8235621000006111,Wears bone anchored hearing aid,,761591000000105,CPRD_AURUM
+2740721000006112,Hard of hearing,,15188001,CPRD_AURUM
+4574311000006118,On examination - significantly deaf,,164061000,CPRD_AURUM
+3654101000006113,Dissociative deafness,,70967007,CPRD_AURUM
+4540401000006119,History of hearing problem,,161497002,CPRD_AURUM
+3890861000006112,Inner ear hearing loss,,85571008,CPRD_AURUM
+5033021000006119,BAHA - Insertion of anchors for subcutaneous bone anchored hearing aid,,232183005,CPRD_AURUM
+4574291000006117,On examination - slightly deaf,,164060004,CPRD_AURUM
+8306171000006110,Profound BSNHL (bilateral sensorineural hearing loss),,877191000000104,CPRD_AURUM
+4507461000006110,"Using British sign language, function",,134441005,CPRD_AURUM
+4721791000006112,Training for lip reading,,183281008,CPRD_AURUM
+7174891000006117,Deafblindness,,433147009,CPRD_AURUM
+2740771000006113,HI - Hearing impairment,,15188001,CPRD_AURUM
+3644031000006116,Hypothyroidism with sensorineural deafness,,70348004,CPRD_AURUM
+3486081000006118,SND - Sensorineural deafness,,60700002,CPRD_AURUM
+12728821000006116,"Deaf mutism, NEC",,694231000000100,CPRD_AURUM
+12456491000006113,[V]Adjustment and management of implanted hearing device,,416121000000101,CPRD_AURUM
+12726991000006111,Unspecified sudden hearing loss,,643761000000109,CPRD_AURUM
+12457891000006112,[V]Fitting or adjustment of hearing aid,,411511000000107,CPRD_AURUM
+12727231000006118,Deafness NOS,,679391000000103,CPRD_AURUM
+11902971000006110,Unilateral deafness,,162342008,CPRD_AURUM
+460695014,[V]Presence of external hearing-aid,ZV45G00,285055002,CPRD_AURUM
+460886016,[V]Adjustment and management of implanted hearing device,ZV53D00,416121000000101,CPRD_AURUM
+883831000006117,Sudden hearing loss NOS,F582.99,643761000000109,CPRD_AURUM
+883891000006118,Deaf mutism NOS,F593.99,694231000000100,CPRD_AURUM
+883901000006119,Hearing loss NOS,F59z.99,679391000000103,CPRD_AURUM
+413668018,Hearing aid worn,2DG..00,285055002,CPRD_AURUM
+2440101000000118,Requires deafblind manual alphabet interpreter,9Nfa.00,957051000000100,CPRD_AURUM
+2496941000000110,Uses Deafblind Manual Alphabet,13o8N00,981781000000107,CPRD_AURUM
+255434015,O/E - conductive deafness,2BM2.11,44057004,CPRD_AURUM
+2226361000000117,Profound sensorineural hearing loss,F591B00,700454004,CPRD_AURUM
+2418601000000115,Visual frame sign language interpreter needed,9NnR.00,945711000000107,CPRD_AURUM
+1778641000006111,Preferred communication Language: Makaton (sign language),,1778641000006107,CPRD_AURUM
+993831000006113,Sign interpreter needed - Makaton sign language,,993831000006109,CPRD_AURUM
+914961000006111,Hearing difficulty with background noise,,914961000006107,CPRD_AURUM
+914971000006116,Embarrassed due to hearing difficulty,,914971000006100,CPRD_AURUM
+914991000006115,Less freq. attendance to religious serv. due to hearing diff,,914991000006104,CPRD_AURUM
+915201000006116,Hearing difficulty when listening to TV/ radio,,915201000006100,CPRD_AURUM
+918681000006119,Deafness,,918681000006103,CPRD_AURUM
+931921000006111,Insertion of cochlear implant,7321299,265316002,CPRD_AURUM
+298231000000110,Uses hearing loop,2DH0.00,198061000000105,CPRD_AURUM
+2532745018,Uses sign language,13o8M00,404903008,CPRD_AURUM
+2773231012,Combined visual and hearing impairment,Fy1..00,433147009,CPRD_AURUM
+456383011,Provision of support as signing user,8O0F.00,312630005,CPRD_AURUM
+299243014,Conductive hearing loss due to disorder of middle ear,F590300,194415001,CPRD_AURUM
+299247010,Combined conductive hearing loss,F590y00,194419007,CPRD_AURUM
+299264013,"Mixed conductive and sensorineural hearing loss, bilateral",F592100,194429000,CPRD_AURUM
+286780017,Rubella deafness,A560200,186570004,CPRD_AURUM
+100854015,Sensorineural deafness,F591.99,60700002,CPRD_AURUM
+113719012,Central hearing loss,F591300,68467004,CPRD_AURUM
+299262012,Perceptive hearing loss NOS,F591z00,60700002,CPRD_AURUM
+299550012,"[X]Deaf mutism, not elsewhere classified",FyuU000,61947007,CPRD_AURUM
+232471000006113,Physiolog. hearing assistance,8D25.00,183127003,CPRD_AURUM
+608121000006111,Deafness - traumatic - NOS,SJ15.12,9441002,CPRD_AURUM
+700951000006112,"Mix cond/sensneurl hear loss,unlat unrestrc hear/contrlat sd",F592000,194428008,CPRD_AURUM
+772531000006119,Insertn bone anchors subcutaneous bone anchored hearing aid,7311A00,232183005,CPRD_AURUM
+1542791000006111,Other specified attachment bone anchored hearing prosthesis,7319y00,426733001,CPRD_AURUM
+299551011,[X]Other specified hearing loss,FyuU100,15188001,CPRD_AURUM
+608101000006118,Deafness,1C13.00,15188001,CPRD_AURUM
+5109801000006118,"Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",,237617006,CPRD_AURUM
+7976771000006115,Severe hearing loss,,3561000119106,CPRD_AURUM
+3693771000006111,NIHL - Noise-induced hearing loss,,73415002,CPRD_AURUM
+4650621000006119,"Implantation of cochlear implant, extracochlear",,172733004,CPRD_AURUM
+4775371000006113,Unilateral mixed conductive and sensorineural hearing loss with unrestricted hearing on the contralateral side,,194428008,CPRD_AURUM
+7308911000006113,Uses telecommunications device for the deaf,,445488003,CPRD_AURUM
+2595481000006115,"Hearing aid, device",,6012004,CPRD_AURUM
+2985701000006112,Non-organic hearing loss,,30169000,CPRD_AURUM
+3209511000006111,CHL - Conductive hearing loss,,44057004,CPRD_AURUM
+4062831000006115,Congenital deafness,,95828007,CPRD_AURUM
+3486091000006115,Sensory-neural deafness,,60700002,CPRD_AURUM
+2985721000006119,FHL - Functional hearing loss,,30169000,CPRD_AURUM
+2740701000006119,Impaired hearing,,15188001,CPRD_AURUM
+4721781000006114,Lip-reading training,,183281008,CPRD_AURUM
+5696501000006110,Uses hearing aid,,285055002,CPRD_AURUM
+2006281000006110,Cochlear implant in situ,,449840001,CPRD_AURUM
+1706521000006111,Using American sign language,,1706521000006107,CPRD_AURUM
+915001000006110,Hearing difficulty causing dispute with family,,915001000006106,CPRD_AURUM
+915011000006113,Hearing difficulty hampers personal/ social life,,915011000006109,CPRD_AURUM
+915211000006118,Difficulty hearing whispers,,915211000006102,CPRD_AURUM
+360731000000111,Attention to fixtures for bone anchored hearing prosthesis,7319300,225791000000104,CPRD_AURUM
+2882346015,Provision of replacement hearing aid,8D26.00,446499008,CPRD_AURUM
+401826019,Word deafness,E2F3011,268673009,CPRD_AURUM
+411470013,Drug ototoxicity - deafness,F591511,275482009,CPRD_AURUM
+456382018,Provision of support as Makaton user,8O0E.00,312629000,CPRD_AURUM
+283072011,Replace hearing aid battery,8D24.00,183126007,CPRD_AURUM
+255425013,O/E - slightly deaf,2BL2.00,164060004,CPRD_AURUM
+255428010,O/E - completely deaf,2BL5.00,164063002,CPRD_AURUM
+267426013,Implantation of extracochlear prosthesis,7321100,172733004,CPRD_AURUM
+216092019,Using lip-reading,13ZL.00,134318003,CPRD_AURUM
+216247015,Using British sign language,13ZM.00,134441005,CPRD_AURUM
+460872015,[V]Fitting or adjustment of hearing aid,ZV53200,411511000000107,CPRD_AURUM
+360771000000113,Placement of hearing implant in middle ear,7317C00,428004000,CPRD_AURUM
+378241000000119,Attachment of bone anchored hearing prosthesis NOS,7319z00,426733001,CPRD_AURUM
+148551000006115,"Sensorineurl hear loss,unilat unrestrict hear/contralat side",F591700,194425006,CPRD_AURUM
+477221017,Hearing impairment,F5A..00,15188001,CPRD_AURUM
+587171000006119,Noise induced deafness,F581211,73415002,CPRD_AURUM
+733941000006114,Low frequency deafness,F591.12,42538001,CPRD_AURUM
+822981000006112,High frequency deafness,F591.11,232326009,CPRD_AURUM
+1586401000006117,Fitting external hearing prosthesis bone anchored fixtures,7319500,426647008,CPRD_AURUM
+399508011,Deafness NOS,F59z.00,272033007,CPRD_AURUM
+5033011000006110,BAHA 1 procedure,,232183005,CPRD_AURUM
+5754981000006118,Attention to hearing aid,,290036002,CPRD_AURUM
+3614171000006111,Central deafness,,68467004,CPRD_AURUM
+2595471000006118,HA - Hearing aid,,6012004,CPRD_AURUM
+5484931000006119,Attention to cochlear implant,,265316002,CPRD_AURUM
+7674191000006114,Removal of cochlear implant,,710576002,CPRD_AURUM
+2740761000006118,HL - Hearing loss,,15188001,CPRD_AURUM
+4574451000006112,On examination - tune fork=perceptive deaf,,164069003,CPRD_AURUM
+2595461000006113,Hearing aid,,6012004,CPRD_AURUM
+12166701000006115,Aid to hearing,,6012004,CPRD_AURUM
+3486111000006112,SNHL - Sensorineural hearing loss,,60700002,CPRD_AURUM
+2985711000006110,Functional hearing loss,,30169000,CPRD_AURUM
+3644081000006115,Goitre-deafness syndrome,,70348004,CPRD_AURUM
+356110010,"Megaloblastic anaemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness",,237617006,CPRD_AURUM
+283308016,Deafness remedial therapy NOS,8E3Z.00,183280009,CPRD_AURUM
+313149018,"Ear anomalies with hearing impaired, unspecified",P400.00,204224006,CPRD_AURUM
+313177010,Ear anomaly with hearing impaired NOS,P40zz00,204224006,CPRD_AURUM
+1953051000006115,Child exam - hearing: problem identified,,1953051000006104,CPRD_AURUM
+1960351000006117,Hearing aid left ear - serial number,,1960351000006101,CPRD_AURUM
+1962671000006115,Hearing aid mould requested,,1962671000006104,CPRD_AURUM
+1803751000006119,"DIDMOAD - Diabetes insip, diabetes mell, optic atrophy, deafness",,70694009,CPRD_AURUM
+1162081000000116,Preferred method of communication: Makaton,13o5.00,520421000000106,CPRD_AURUM
+981241000006119,Difficulty hearing speech in large group settings,,981241000006103,CPRD_AURUM
+981251000006117,Difficulty hearing high frequency sounds,,981251000006101,CPRD_AURUM
+915021000006117,Feels handicapped due to hearing difficulty,,915021000006101,CPRD_AURUM
+2693867016,Attention to hearing implant in external ear,7308500,428619000,CPRD_AURUM
+3301551000006118,Age-related hearing loss,,49526009,CPRD_AURUM
+4775341000006117,Unilateral sensorineural hearing loss with unrestricted hearing on the contralateral side,,194425006,CPRD_AURUM
+1484996016,Hearing aid problem,1C17.00,390967001,CPRD_AURUM
+1780215014,Difficulty hearing with background noise,1C18.00,401008002,CPRD_AURUM
+419723011,Hearing aid provision,8D2..12,281656009,CPRD_AURUM
+299244015,Conductive hearing loss due to disorder of inner ear,F590400,194416000,CPRD_AURUM
+299259014,"Sensorineural hearing loss, bilateral",F591600,194424005,CPRD_AURUM
+73470015,Conductive hearing loss,F590.00,44057004,CPRD_AURUM
+121916015,Noise-induced hearing loss,F581200,73415002,CPRD_AURUM
+141844010,Sensory hearing loss,F591100,85571008,CPRD_AURUM
+400791015,Other and unspecified ear anomaly with hearing impaired,P40z.00,204224006,CPRD_AURUM
+4574421000006115,On examination - tune fork=conductive deaf,,164068006,CPRD_AURUM
+3761221000006112,Mixed type deafness,,77507001,CPRD_AURUM
+396151000006111,"[X]Malformation of ear with impairment of hearing, unspec",Pyu1B00,111339003,CPRD_AURUM
+1173651000000115,Severe acquired hearing loss,F599.00,737049003,CPRD_AURUM
+1668111000000114,Deafened,F59A.11,737050003,CPRD_AURUM
+1542751000006117,Insertion fixtures bone anchored hearing prosthesis Stage 1,7319000,225861000000101,CPRD_AURUM
+1542771000006110,Reduction soft tissue for bone anchored hearing prosthesis,7319200,225871000000108,CPRD_AURUM
+1586411000006119,First stge ins fixtures for bone anchored hearing prosthesis,7319600,225861000000101,CPRD_AURUM
+4574351000006117,On examination - completely deaf,,164063002,CPRD_AURUM
+3486051000006114,Neurosensory deafness,,60700002,CPRD_AURUM
+5033041000006114,Insertion of bone anchors for percutaneous bone anchored hearing aid,,232183005,CPRD_AURUM
+3283701000006115,Articulatory defect secondary to hearing loss,,48436005,CPRD_AURUM
+3486121000006116,PD - Perceptive deafness,,60700002,CPRD_AURUM
+2985691000006112,NOHL - Non-organic hearing loss,,30169000,CPRD_AURUM
+4775301000006119,Unilateral conductive hearing loss with unrestricted hearing on the contralateral side,,194418004,CPRD_AURUM
+299266010,Other specified forms of hearing loss,F59y.00,118230007,CPRD_AURUM
+460635011,[V]Problems with hearing,ZV41200,15188001,CPRD_AURUM
+4574411000006111,O/E - conductive deafness,,164068006,CPRD_AURUM
+7095141000006116,Asymmetrical sensorineural hearing loss,,428887009,CPRD_AURUM
+7265651000006117,Unilateral conductive hearing loss,,442535004,CPRD_AURUM
+4410741000006114,Hearing disorder,,128540005,CPRD_AURUM
+7078511000006111,Asymmetrical hearing loss,,427772009,CPRD_AURUM
+5995301000006110,Cochlear implant service,,310012007,CPRD_AURUM
+7584761000006117,Makaton language,,703963007,CPRD_AURUM
+3289111000006119,High frequency hearing loss,,48758008,CPRD_AURUM
+5095461000006114,"Prune belly syndrome with pulmonic stenosis, mental retardation and deafness",,236529001,CPRD_AURUM
+5696471000006115,Able to use hearing aid,,285053009,CPRD_AURUM
+7728971000006112,Sudden sensorineural hearing loss,,715239002,CPRD_AURUM
+7052361000006119,Unilateral sensory hearing loss,,425980006,CPRD_AURUM
+7487951000006117,Deafness of left ear,,473422006,CPRD_AURUM
+7402381000006114,Head-worn bone-conduction hearing aid,,462432009,CPRD_AURUM
+12354961000006113,BAHA - Bone anchored hearing aid,,468421000,CPRD_AURUM
+3196941000006113,Cochlear prosthesis,,43252007,CPRD_AURUM
+7493431000006112,Acquired sensorineural hearing loss,,609125008,CPRD_AURUM
+7487941000006119,Deafness of right ear,,473421004,CPRD_AURUM
+7480411000006114,H/O impaired hearing,,472955004,CPRD_AURUM
+3198721000006116,Fitting of hearing aid,,43362002,CPRD_AURUM
+7129481000006119,Bilateral sensory hearing loss,,430985005,CPRD_AURUM
+6204331000006118,Implantation of cochlear prosthetic device,,359612003,CPRD_AURUM
+7263671000006111,Sign language,,442389001,CPRD_AURUM
+7095151000006119,Asymmetric sensorineural hearing loss,,428887009,CPRD_AURUM
+4062721000006113,Bilateral hearing loss,,95820000,CPRD_AURUM
+7535361000006110,Congenital sensorineural hearing loss,,700453005,CPRD_AURUM
+12489331000006115,Hearing aid worn,,277213009,CPRD_AURUM
+5034851000006118,Hearing loss associated with syndrome,,232333009,CPRD_AURUM
+5903771000006116,Adjust hearing aid settings,,302171008,CPRD_AURUM
+5230911000006111,Pattern of hearing loss,,246459007,CPRD_AURUM
+12354951000006111,Bone anchored hearing aid,,468421000,CPRD_AURUM
+8317141000006115,Bilateral moderate sensorineural hearing loss,,898071000000108,CPRD_AURUM
+6446311000006112,Hearing aid care management,,385903004,CPRD_AURUM
+5973511000006110,Removal of bone anchored hearing aid,,307942000,CPRD_AURUM
+5599201000006111,Difficulty hearing in noise,,277433005,CPRD_AURUM
+5876591000006116,Hearing for whisper impaired,,300221005,CPRD_AURUM
+6446271000006112,Hearing aid care assessment,,385901002,CPRD_AURUM
+7078521000006115,Asymmetric hearing loss,,427772009,CPRD_AURUM
+7487971000006110,Hearing loss of left ear,,473424007,CPRD_AURUM
+6204341000006111,Insertion of cochlear implant,,359612003,CPRD_AURUM
+3527478013,Congenital conductive hearing loss,,737344003,CPRD_AURUM
+7454521000006115,Anchored bone-conduction hearing aid,,468421000,CPRD_AURUM
+5876671000006118,Hearing problem,,300228004,CPRD_AURUM
+5755031000006119,Fit ear mould for existing hearing aid,,290039009,CPRD_AURUM
+4088461000006114,Decreased hearing,,103276001,CPRD_AURUM
+5961981000006116,Bone anchored hearing aid,,306912008,CPRD_AURUM
+8317171000006111,Mild BSNHL (bilateral sensorineural hearing loss),,898081000000105,CPRD_AURUM
+8317161000006116,Bilateral mild sensorineural hearing loss,,898081000000105,CPRD_AURUM
+6250491000006114,Head worn hearing aid,,363752002,CPRD_AURUM
+8317121000006110,Bilateral severe sensorineural hearing loss,,898061000000101,CPRD_AURUM
+4944961000006113,Hearing aid procedure,,225680006,CPRD_AURUM
+5696521000006117,Difficulty using hearing aid,,285057005,CPRD_AURUM
+3196961000006112,Cochlear implant,,43252007,CPRD_AURUM
+5905131000006119,Finding of hearing aid,,302291005,CPRD_AURUM
+8009061000006113,Mild to moderate hearing loss,,21451000119101,CPRD_AURUM
+6024481000006112,Hearing aid battery,,313025003,CPRD_AURUM
+4944951000006111,Checking hearing aid,,225678000,CPRD_AURUM
+8094571000006113,Registered hearing impaired,,299201000000108,CPRD_AURUM
+8057461000006118,Hearing disability,,197501000000104,CPRD_AURUM
+5034821000006110,Recessive sensorineural hearing loss,,232330007,CPRD_AURUM
+5318901000006113,Real ear measurement of hearing aid gain,,252627003,CPRD_AURUM
+6250481000006111,Body worn hearing aid,,363751009,CPRD_AURUM
+3243751000006113,Bone conduction deafness,,46050004,CPRD_AURUM
+4062821000006118,Congenital hearing disorder,,95827002,CPRD_AURUM
+4428701000006118,Metabolic presbycusis,,129629004,CPRD_AURUM
+5034841000006115,Postnatal acquired sensorineural hearing loss,,232332004,CPRD_AURUM
+5962011000006118,Second stage bone anchored hearing aid procedure,,306913003,CPRD_AURUM
+5988671000006119,Hearing aid dispenser,,309421002,CPRD_AURUM
+6446281000006110,Assess hearing aid care,,385901002,CPRD_AURUM
+7005171000006114,Difficulty hearing high frequency sounds,,423303001,CPRD_AURUM
+7210661000006112,Adjustment of cochlear implant processor,,438544006,CPRD_AURUM
+7222471000006114,Communication using speech and sign language simultaneously,,439403003,CPRD_AURUM
+7412081000006114,Receiver-in-canal air-conduction hearing aid,,463491007,CPRD_AURUM
+7443351000006116,Wearable air-conduction hearing aid,,467097004,CPRD_AURUM
+7443721000006112,Behind-the-ear air-conduction hearing aid,,467138008,CPRD_AURUM
+7447301000006112,Canal air-conduction hearing aid,,467562005,CPRD_AURUM
+7487961000006115,Hearing loss of right ear,,473423001,CPRD_AURUM
+7549461000006118,Cochlear implant assessment system,,701568002,CPRD_AURUM
+7584751000006119,Makaton vocabulary,,703963007,CPRD_AURUM
+7592341000006112,British sign language,,704541003,CPRD_AURUM
+7600591000006119,Air-conduction hearing aid,,705321004,CPRD_AURUM
+7600601000006110,Bone-conduction hearing aid,,705322006,CPRD_AURUM
+7815121000006111,Acquired hearing loss,,721294001,CPRD_AURUM
+7854191000006115,"HDR (hypoparathyroidism, sensorineural deafness, renal disease) syndrome",,724282009,CPRD_AURUM
+7881181000006110,Cochlear implant magnet,,726648005,CPRD_AURUM
+8094261000006115,Registered deaf,,298651000000102,CPRD_AURUM
+13789701000006112,Replacement of hearing aid battery,,183126007,CPRD_AURUM
+13843791000006114,Congenital sensorineural deafness,,700453005,CPRD_AURUM
+14160411000006116,Conductive hearing loss of right ear,,1010236009,CPRD_AURUM
+14160441000006116,Conductive hearing loss of left ear,,1010238005,CPRD_AURUM
+14161921000006110,Conductive hearing loss of left ear with normal hearing on right side,,1010439000,CPRD_AURUM
+14161931000006112,Conductive hearing loss of right ear with normal hearing on left side,,1010440003,CPRD_AURUM
+14161941000006116,Sensorineural hearing loss of right ear with normal hearing on left side,,1010441004,CPRD_AURUM
+14161951000006118,Sensorineural hearing loss of left ear with normal hearing on right side,,1010442006,CPRD_AURUM
+14165181000006112,Mixed conductive and sensorineural hearing loss of left ear with normal hearing on right side,,1052205008,CPRD_AURUM
+14165191000006112,Mixed conductive and sensorineural hearing loss of right ear with normal hearing on left side,,1052206009,CPRD_AURUM
+14169481000006116,Sensorineural hearing loss of right ear,,1119386008,CPRD_AURUM
+14169491000006116,Sensorineural hearing loss of left ear,,1119387004,CPRD_AURUM
