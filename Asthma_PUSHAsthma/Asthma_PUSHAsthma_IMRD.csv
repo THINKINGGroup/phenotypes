@@ -1,175 +1,175 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
-"14B4.00","H/O: asthma","14B4.00","","IMRD"
-"14Ok000","At risk of severe asthma exacerbation","14Ok000","","IMRD"
-"173A.00","Exercise induced asthma","173A.00","","IMRD"
-"173c.00","Occupational asthma","173c.00","","IMRD"
-"173d.00","Work aggravated asthma","173d.00","","IMRD"
-"178..00","Asthma trigger","178..00","","IMRD"
-"1780.00","Aspirin induced asthma","1780.00","","IMRD"
-"1781.00","Asthma trigger - pollen","1781.00","","IMRD"
-"1782.00","Asthma trigger - tobacco smoke","1782.00","","IMRD"
-"1783.00","Asthma trigger - warm air","1783.00","","IMRD"
-"1784.00","Asthma trigger - emotion","1784.00","","IMRD"
-"1785.00","Asthma trigger - damp","1785.00","","IMRD"
-"1786.00","Asthma trigger - animals","1786.00","","IMRD"
-"1787.00","Asthma trigger - seasonal","1787.00","","IMRD"
-"1788.00","Asthma trigger - cold air","1788.00","","IMRD"
-"1789.00","Asthma trigger - respiratory infection","1789.00","","IMRD"
-"178A.00","Asthma trigger - airborne dust","178A.00","","IMRD"
-"178B.00","Asthma trigger - exercise","178B.00","","IMRD"
-"1O2..00","Asthma confirmed","1O2..00","","IMRD"
-"2126200","Asthma resolved","2126200","","IMRD"
-"212G.00","Asthma resolved","212G.00","","IMRD"
-"38B8.00","Severe asthma exacerbation risk assessment","38B8.00","","IMRD"
-"38DL.00","Asthma control test","38DL.00","","IMRD"
-"38DT.00","Asthma control questionnaire","38DT.00","","IMRD"
-"38DV.00","Mini asthma quality of life questionnaire","38DV.00","","IMRD"
-"38QM.00","Childhood Asthma Control Test","38QM.00","","IMRD"
-"661M100","Asthma self-management plan agreed","661M100","","IMRD"
-"661N100","Asthma self-management plan review","661N100","","IMRD"
-"663..11","Asthma monitoring","663..11","","IMRD"
-"663d.00","Emergency asthma admission since last appointment","663d.00","","IMRD"
-"663e.00","Asthma restricts exercise","663e.00","","IMRD"
-"663e000","Asthma sometimes restricts exercise","663e000","","IMRD"
-"663e100","Asthma severely restricts exercise","663e100","","IMRD"
-"663f.00","Asthma never restricts exercise","663f.00","","IMRD"
-"663h.00","Asthma - currently dormant","663h.00","","IMRD"
-"663j.00","Asthma - currently active","663j.00","","IMRD"
-"663m.00","Asthma accident and emergency attendance since last visit","663m.00","","IMRD"
-"663n.00","Asthma treatment compliance satisfactory","663n.00","","IMRD"
-"663N.00","Asthma disturbing sleep","663N.00","","IMRD"
-"663N000","Asthma causing night waking","663N000","","IMRD"
-"663N100","Asthma disturbs sleep weekly","663N100","","IMRD"
-"663N200","Asthma disturbs sleep frequently","663N200","","IMRD"
-"663O.00","Asthma not disturbing sleep","663O.00","","IMRD"
-"663O000","Asthma never disturbs sleep","663O000","","IMRD"
-"663p.00","Asthma treatment compliance unsatisfactory","663p.00","","IMRD"
-"663P.00","Asthma limiting activities","663P.00","","IMRD"
-"663P000","Asthma limits activities 1 to 2 times per month","663P000","","IMRD"
-"663P100","Asthma limits activities 1 to 2 times per week","663P100","","IMRD"
-"663P200","Asthma limits activities most days","663P200","","IMRD"
-"663q.00","Asthma daytime symptoms","663q.00","","IMRD"
-"663Q.00","Asthma not limiting activities","663Q.00","","IMRD"
-"663r.00","Asthma causes night symptoms 1 to 2 times per month","663r.00","","IMRD"
-"663s.00","Asthma never causes daytime symptoms","663s.00","","IMRD"
-"663t.00","Asthma causes daytime symptoms 1 to 2 times per month","663t.00","","IMRD"
-"663u.00","Asthma causes daytime symptoms 1 to 2 times per week","663u.00","","IMRD"
-"663U.00","Asthma management plan given","663U.00","","IMRD"
-"663v.00","Asthma causes daytime symptoms most days","663v.00","","IMRD"
-"663V.00","Asthma severity","663V.00","","IMRD"
-"663V000","Occasional asthma","663V000","","IMRD"
-"663V100","Mild asthma","663V100","","IMRD"
-"663V200","Moderate asthma","663V200","","IMRD"
-"663V300","Severe asthma","663V300","","IMRD"
-"663w.00","Asthma limits walking up hills or stairs","663w.00","","IMRD"
-"663W.00","Asthma prophylactic medication used","663W.00","","IMRD"
-"663x.00","Asthma limits walking on the flat","663x.00","","IMRD"
-"663y.00","Number of asthma exacerbations in past year","663y.00","","IMRD"
-"66Y5.00","Change in asthma management plan","66Y5.00","","IMRD"
-"66Y9.00","Step up change in asthma management plan","66Y9.00","","IMRD"
-"66YA.00","Step down change in asthma management plan","66YA.00","","IMRD"
-"66YC.00","Absent from work or school due to asthma","66YC.00","","IMRD"
-"66YE.00","Asthma monitoring due","66YE.00","","IMRD"
-"66YJ.00","Asthma annual review","66YJ.00","","IMRD"
-"66YK.00","Asthma follow-up","66YK.00","","IMRD"
-"66Yp.00","Asthma review using Roy Colleg of Physicians three questions","66Yp.00","","IMRD"
-"66YP.00","Asthma night-time symptoms","66YP.00","","IMRD"
-"66Yq.00","Asthma causes night time symptoms 1 to 2 times per week","66Yq.00","","IMRD"
-"66YQ.00","Asthma monitoring by nurse","66YQ.00","","IMRD"
-"66Yr.00","Asthma causes symptoms most nights","66Yr.00","","IMRD"
-"66YR.00","Asthma monitoring by doctor","66YR.00","","IMRD"
-"66Ys.00","Asthma never causes night symptoms","66Ys.00","","IMRD"
-"66Yu.00","Number days absent from school due to asthma in past 6 month","66Yu.00","","IMRD"
-"66YZ.00","Does not have asthma management plan","66YZ.00","","IMRD"
-"66Yz000","Asthma management plan declined","66Yz000","","IMRD"
-"66Yz500","Telehealth asthma monitoring","66Yz500","","IMRD"
-"679J.00","Health education - asthma","679J.00","","IMRD"
-"679J000","Health education - asthma self management","679J000","","IMRD"
-"679J100","Health education - structured asthma discussion","679J100","","IMRD"
-"679J200","Health education - structured patient focused asthma discuss","679J200","","IMRD"
-"68C3.00","Asthma screening","68C3.00","","IMRD"
-"6AP..00","Review of patient at risk of asthma","6AP..00","","IMRD"
-"8791.00","Further asthma - drug prevent.","8791.00","","IMRD"
-"8793.00","Asthma control step 0","8793.00","","IMRD"
-"8794.00","Asthma control step 1","8794.00","","IMRD"
-"8795.00","Asthma control step 2","8795.00","","IMRD"
-"8796.00","Asthma control step 3","8796.00","","IMRD"
-"8797.00","Asthma control step 4","8797.00","","IMRD"
-"8798.00","Asthma control step 5","8798.00","","IMRD"
-"8B3j.00","Asthma medication review","8B3j.00","","IMRD"
-"8CMA000","Patient has a written asthma personal action plan","8CMA000","","IMRD"
-"8CR0.00","Asthma clinical management plan","8CR0.00","","IMRD"
-"8H2P.00","Emergency admission, asthma","8H2P.00","","IMRD"
-"9hA..00","Exception reporting: asthma quality indicators","9hA..00","","IMRD"
-"9hA1.00","Excepted from asthma quality indicators: Patient unsuitable","9hA1.00","","IMRD"
-"9hA2.00","Excepted from asthma quality indicators: Informed dissent","9hA2.00","","IMRD"
-"9N1d.00","Seen in asthma clinic","9N1d.00","","IMRD"
-"9N1d000","Seen in school asthma clinic","9N1d000","","IMRD"
-"9N4Q.00","DNA - Did not attend asthma clinic","9N4Q.00","","IMRD"
-"9NI8.00","Asthma outreach clinic","9NI8.00","","IMRD"
-"9NNX.00","Under care of asthma specialist nurse","9NNX.00","","IMRD"
-"9OJ..00","Asthma monitoring admin.","9OJ..00","","IMRD"
-"9OJ..11","Asthma clinic administration","9OJ..11","","IMRD"
-"9OJ1.00","Attends asthma monitoring","9OJ1.00","","IMRD"
-"9OJ2.00","Refuses asthma monitoring","9OJ2.00","","IMRD"
-"9OJ3.00","Asthma monitor offer default","9OJ3.00","","IMRD"
-"9OJ4.00","Asthma monitor 1st letter","9OJ4.00","","IMRD"
-"9OJ5.00","Asthma monitor 2nd letter","9OJ5.00","","IMRD"
-"9OJ6.00","Asthma monitor 3rd letter","9OJ6.00","","IMRD"
-"9OJ7.00","Asthma monitor verbal invite","9OJ7.00","","IMRD"
-"9OJ8.00","Asthma monitor phone invite","9OJ8.00","","IMRD"
-"9OJ9.00","Asthma monitoring deleted","9OJ9.00","","IMRD"
-"9OJA.00","Asthma monitoring check done","9OJA.00","","IMRD"
-"9OJA.11","Asthma monitored","9OJA.11","","IMRD"
-"9OJB.00","Asthma monitorng invit SMS (short message servce) txt messge","9OJB.00","","IMRD"
-"9OJB000","Asthma monitoring SMS text message 1st invitation","9OJB000","","IMRD"
-"9OJB100","Asthma monitoring SMS text message 2nd invitation","9OJB100","","IMRD"
-"9OJB200","Asthma monitoring SMS text message 3rd invitation","9OJB200","","IMRD"
-"9OJC.00","Asthma monitoring invitation email","9OJC.00","","IMRD"
-"9OJZ.00","Asthma monitoring admin.NOS","9OJZ.00","","IMRD"
-"9Q21.00","Patient in asthma study","9Q21.00","","IMRD"
-"G581.11","Asthma - cardiac","G581.11","","IMRD"
-"H312000","Chronic asthmatic bronchitis","H312000","","IMRD"
-"H33..00","Asthma","H33..00","","IMRD"
-"H33..11","Bronchial asthma","H33..11","","IMRD"
-"H330.00","Extrinsic (atopic) asthma","H330.00","","IMRD"
-"H330.11","Allergic asthma","H330.11","","IMRD"
-"H330.12","Childhood asthma","H330.12","","IMRD"
-"H330.13","Hay fever with asthma","H330.13","","IMRD"
-"H330.14","Pollen asthma","H330.14","","IMRD"
-"H330000","Extrinsic asthma without status asthmaticus","H330000","","IMRD"
-"H330011","Hay fever with asthma","H330011","","IMRD"
-"H330100","Extrinsic asthma with status asthmaticus","H330100","","IMRD"
-"H330111","Extrinsic asthma with asthma attack","H330111","","IMRD"
-"H330z00","Extrinsic asthma NOS","H330z00","","IMRD"
-"H331.00","Intrinsic asthma","H331.00","","IMRD"
-"H331.11","Late onset asthma","H331.11","","IMRD"
-"H331000","Intrinsic asthma without status asthmaticus","H331000","","IMRD"
-"H331100","Intrinsic asthma with status asthmaticus","H331100","","IMRD"
-"H331111","Intrinsic asthma with asthma attack","H331111","","IMRD"
-"H331z00","Intrinsic asthma NOS","H331z00","","IMRD"
-"H332.00","Mixed asthma","H332.00","","IMRD"
-"H333.00","Acute exacerbation of asthma","H333.00","","IMRD"
-"H334.00","Brittle asthma","H334.00","","IMRD"
-"H335.00","Chronic asthma with fixed airflow obstruction","H335.00","","IMRD"
-"H33z.00","Asthma unspecified","H33z.00","","IMRD"
-"H33z000","Status asthmaticus NOS","H33z000","","IMRD"
-"H33z011","Severe asthma attack","H33z011","","IMRD"
-"H33z100","Asthma attack","H33z100","","IMRD"
-"H33z111","Asthma attack NOS","H33z111","","IMRD"
-"H33z200","Late-onset asthma","H33z200","","IMRD"
-"H33zz00","Asthma NOS","H33zz00","","IMRD"
-"H33zz11","Exercise induced asthma","H33zz11","","IMRD"
-"H33zz12","Allergic asthma NEC","H33zz12","","IMRD"
-"H35y600","Sequoiosis (red-cedar asthma)","H35y600","","IMRD"
-"H35y700","Wood asthma","H35y700","","IMRD"
-"H3B..00","Asthma-chronic obstructive pulmonary disease overlap syndrom","H3B..00","","IMRD"
-"H47y000","Detergent asthma","H47y000","","IMRD"
-"SLF7.00","Antiasthmatic poisoning","SLF7.00","","IMRD"
-"SLF7z00","Antiasthmatic poisoning NOS","SLF7z00","","IMRD"
-"TJF7.00","Adverse reaction to antiasthmatics","TJF7.00","","IMRD"
-"TJF7z00","Adverse reaction to antiasthmatic NOS","TJF7z00","","IMRD"
-"U60F600","[X]Antiasthmats caus adverse effects in therapeut use, NEC","U60F600","","IMRD"
-"U60F611","[X] Adverse reaction to antiasthmatics","U60F611","","IMRD"
-"U60F61A","[X] Adverse reaction to antiasthmatic NOS","U60F61A","","IMRD"
-"9hA0.00","Excepted from asthma quality indicators: Service Unavailable","9hA0.00","","IMRD"
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+14B4.00,H/O: asthma,14B4.00,,IMRD
+14Ok000,At risk of severe asthma exacerbation,14Ok000,,IMRD
+173A.00,Exercise induced asthma,173A.00,,IMRD
+173c.00,Occupational asthma,173c.00,,IMRD
+173d.00,Work aggravated asthma,173d.00,,IMRD
+178..00,Asthma trigger,178..00,,IMRD
+1780.00,Aspirin induced asthma,1780.00,,IMRD
+1781.00,Asthma trigger - pollen,1781.00,,IMRD
+1782.00,Asthma trigger - tobacco smoke,1782.00,,IMRD
+1783.00,Asthma trigger - warm air,1783.00,,IMRD
+1784.00,Asthma trigger - emotion,1784.00,,IMRD
+1785.00,Asthma trigger - damp,1785.00,,IMRD
+1786.00,Asthma trigger - animals,1786.00,,IMRD
+1787.00,Asthma trigger - seasonal,1787.00,,IMRD
+1788.00,Asthma trigger - cold air,1788.00,,IMRD
+1789.00,Asthma trigger - respiratory infection,1789.00,,IMRD
+178A.00,Asthma trigger - airborne dust,178A.00,,IMRD
+178B.00,Asthma trigger - exercise,178B.00,,IMRD
+1O2..00,Asthma confirmed,1O2..00,,IMRD
+2126200,Asthma resolved,2126200,,IMRD
+212G.00,Asthma resolved,212G.00,,IMRD
+38B8.00,Severe asthma exacerbation risk assessment,38B8.00,,IMRD
+38DL.00,Asthma control test,38DL.00,,IMRD
+38DT.00,Asthma control questionnaire,38DT.00,,IMRD
+38DV.00,Mini asthma quality of life questionnaire,38DV.00,,IMRD
+38QM.00,Childhood Asthma Control Test,38QM.00,,IMRD
+661M100,Asthma self-management plan agreed,661M100,,IMRD
+661N100,Asthma self-management plan review,661N100,,IMRD
+663..11,Asthma monitoring,663..11,,IMRD
+663d.00,Emergency asthma admission since last appointment,663d.00,,IMRD
+663e.00,Asthma restricts exercise,663e.00,,IMRD
+663e000,Asthma sometimes restricts exercise,663e000,,IMRD
+663e100,Asthma severely restricts exercise,663e100,,IMRD
+663f.00,Asthma never restricts exercise,663f.00,,IMRD
+663h.00,Asthma - currently dormant,663h.00,,IMRD
+663j.00,Asthma - currently active,663j.00,,IMRD
+663m.00,Asthma accident and emergency attendance since last visit,663m.00,,IMRD
+663n.00,Asthma treatment compliance satisfactory,663n.00,,IMRD
+663N.00,Asthma disturbing sleep,663N.00,,IMRD
+663N000,Asthma causing night waking,663N000,,IMRD
+663N100,Asthma disturbs sleep weekly,663N100,,IMRD
+663N200,Asthma disturbs sleep frequently,663N200,,IMRD
+663O.00,Asthma not disturbing sleep,663O.00,,IMRD
+663O000,Asthma never disturbs sleep,663O000,,IMRD
+663p.00,Asthma treatment compliance unsatisfactory,663p.00,,IMRD
+663P.00,Asthma limiting activities,663P.00,,IMRD
+663P000,Asthma limits activities 1 to 2 times per month,663P000,,IMRD
+663P100,Asthma limits activities 1 to 2 times per week,663P100,,IMRD
+663P200,Asthma limits activities most days,663P200,,IMRD
+663q.00,Asthma daytime symptoms,663q.00,,IMRD
+663Q.00,Asthma not limiting activities,663Q.00,,IMRD
+663r.00,Asthma causes night symptoms 1 to 2 times per month,663r.00,,IMRD
+663s.00,Asthma never causes daytime symptoms,663s.00,,IMRD
+663t.00,Asthma causes daytime symptoms 1 to 2 times per month,663t.00,,IMRD
+663u.00,Asthma causes daytime symptoms 1 to 2 times per week,663u.00,,IMRD
+663U.00,Asthma management plan given,663U.00,,IMRD
+663v.00,Asthma causes daytime symptoms most days,663v.00,,IMRD
+663V.00,Asthma severity,663V.00,,IMRD
+663V000,Occasional asthma,663V000,,IMRD
+663V100,Mild asthma,663V100,,IMRD
+663V200,Moderate asthma,663V200,,IMRD
+663V300,Severe asthma,663V300,,IMRD
+663w.00,Asthma limits walking up hills or stairs,663w.00,,IMRD
+663W.00,Asthma prophylactic medication used,663W.00,,IMRD
+663x.00,Asthma limits walking on the flat,663x.00,,IMRD
+663y.00,Number of asthma exacerbations in past year,663y.00,,IMRD
+66Y5.00,Change in asthma management plan,66Y5.00,,IMRD
+66Y9.00,Step up change in asthma management plan,66Y9.00,,IMRD
+66YA.00,Step down change in asthma management plan,66YA.00,,IMRD
+66YC.00,Absent from work or school due to asthma,66YC.00,,IMRD
+66YE.00,Asthma monitoring due,66YE.00,,IMRD
+66YJ.00,Asthma annual review,66YJ.00,,IMRD
+66YK.00,Asthma follow-up,66YK.00,,IMRD
+66Yp.00,Asthma review using Roy Colleg of Physicians three questions,66Yp.00,,IMRD
+66YP.00,Asthma night-time symptoms,66YP.00,,IMRD
+66Yq.00,Asthma causes night time symptoms 1 to 2 times per week,66Yq.00,,IMRD
+66YQ.00,Asthma monitoring by nurse,66YQ.00,,IMRD
+66Yr.00,Asthma causes symptoms most nights,66Yr.00,,IMRD
+66YR.00,Asthma monitoring by doctor,66YR.00,,IMRD
+66Ys.00,Asthma never causes night symptoms,66Ys.00,,IMRD
+66Yu.00,Number days absent from school due to asthma in past 6 month,66Yu.00,,IMRD
+66YZ.00,Does not have asthma management plan,66YZ.00,,IMRD
+66Yz000,Asthma management plan declined,66Yz000,,IMRD
+66Yz500,Telehealth asthma monitoring,66Yz500,,IMRD
+679J.00,Health education - asthma,679J.00,,IMRD
+679J000,Health education - asthma self management,679J000,,IMRD
+679J100,Health education - structured asthma discussion,679J100,,IMRD
+679J200,Health education - structured patient focused asthma discuss,679J200,,IMRD
+68C3.00,Asthma screening,68C3.00,,IMRD
+6AP..00,Review of patient at risk of asthma,6AP..00,,IMRD
+8791.00,Further asthma - drug prevent.,8791.00,,IMRD
+8793.00,Asthma control step 0,8793.00,,IMRD
+8794.00,Asthma control step 1,8794.00,,IMRD
+8795.00,Asthma control step 2,8795.00,,IMRD
+8796.00,Asthma control step 3,8796.00,,IMRD
+8797.00,Asthma control step 4,8797.00,,IMRD
+8798.00,Asthma control step 5,8798.00,,IMRD
+8B3j.00,Asthma medication review,8B3j.00,,IMRD
+8CMA000,Patient has a written asthma personal action plan,8CMA000,,IMRD
+8CR0.00,Asthma clinical management plan,8CR0.00,,IMRD
+8H2P.00,"Emergency admission, asthma",8H2P.00,,IMRD
+9hA..00,Exception reporting: asthma quality indicators,9hA..00,,IMRD
+9hA1.00,Excepted from asthma quality indicators: Patient unsuitable,9hA1.00,,IMRD
+9hA2.00,Excepted from asthma quality indicators: Informed dissent,9hA2.00,,IMRD
+9N1d.00,Seen in asthma clinic,9N1d.00,,IMRD
+9N1d000,Seen in school asthma clinic,9N1d000,,IMRD
+9N4Q.00,DNA - Did not attend asthma clinic,9N4Q.00,,IMRD
+9NI8.00,Asthma outreach clinic,9NI8.00,,IMRD
+9NNX.00,Under care of asthma specialist nurse,9NNX.00,,IMRD
+9OJ..00,Asthma monitoring admin.,9OJ..00,,IMRD
+9OJ..11,Asthma clinic administration,9OJ..11,,IMRD
+9OJ1.00,Attends asthma monitoring,9OJ1.00,,IMRD
+9OJ2.00,Refuses asthma monitoring,9OJ2.00,,IMRD
+9OJ3.00,Asthma monitor offer default,9OJ3.00,,IMRD
+9OJ4.00,Asthma monitor 1st letter,9OJ4.00,,IMRD
+9OJ5.00,Asthma monitor 2nd letter,9OJ5.00,,IMRD
+9OJ6.00,Asthma monitor 3rd letter,9OJ6.00,,IMRD
+9OJ7.00,Asthma monitor verbal invite,9OJ7.00,,IMRD
+9OJ8.00,Asthma monitor phone invite,9OJ8.00,,IMRD
+9OJ9.00,Asthma monitoring deleted,9OJ9.00,,IMRD
+9OJA.00,Asthma monitoring check done,9OJA.00,,IMRD
+9OJA.11,Asthma monitored,9OJA.11,,IMRD
+9OJB.00,Asthma monitorng invit SMS (short message servce) txt messge,9OJB.00,,IMRD
+9OJB000,Asthma monitoring SMS text message 1st invitation,9OJB000,,IMRD
+9OJB100,Asthma monitoring SMS text message 2nd invitation,9OJB100,,IMRD
+9OJB200,Asthma monitoring SMS text message 3rd invitation,9OJB200,,IMRD
+9OJC.00,Asthma monitoring invitation email,9OJC.00,,IMRD
+9OJZ.00,Asthma monitoring admin.NOS,9OJZ.00,,IMRD
+9Q21.00,Patient in asthma study,9Q21.00,,IMRD
+G581.11,Asthma - cardiac,G581.11,,IMRD
+H312000,Chronic asthmatic bronchitis,H312000,,IMRD
+H33..00,Asthma,H33..00,,IMRD
+H33..11,Bronchial asthma,H33..11,,IMRD
+H330.00,Extrinsic (atopic) asthma,H330.00,,IMRD
+H330.11,Allergic asthma,H330.11,,IMRD
+H330.12,Childhood asthma,H330.12,,IMRD
+H330.13,Hay fever with asthma,H330.13,,IMRD
+H330.14,Pollen asthma,H330.14,,IMRD
+H330000,Extrinsic asthma without status asthmaticus,H330000,,IMRD
+H330011,Hay fever with asthma,H330011,,IMRD
+H330100,Extrinsic asthma with status asthmaticus,H330100,,IMRD
+H330111,Extrinsic asthma with asthma attack,H330111,,IMRD
+H330z00,Extrinsic asthma NOS,H330z00,,IMRD
+H331.00,Intrinsic asthma,H331.00,,IMRD
+H331.11,Late onset asthma,H331.11,,IMRD
+H331000,Intrinsic asthma without status asthmaticus,H331000,,IMRD
+H331100,Intrinsic asthma with status asthmaticus,H331100,,IMRD
+H331111,Intrinsic asthma with asthma attack,H331111,,IMRD
+H331z00,Intrinsic asthma NOS,H331z00,,IMRD
+H332.00,Mixed asthma,H332.00,,IMRD
+H333.00,Acute exacerbation of asthma,H333.00,,IMRD
+H334.00,Brittle asthma,H334.00,,IMRD
+H335.00,Chronic asthma with fixed airflow obstruction,H335.00,,IMRD
+H33z.00,Asthma unspecified,H33z.00,,IMRD
+H33z000,Status asthmaticus NOS,H33z000,,IMRD
+H33z011,Severe asthma attack,H33z011,,IMRD
+H33z100,Asthma attack,H33z100,,IMRD
+H33z111,Asthma attack NOS,H33z111,,IMRD
+H33z200,Late-onset asthma,H33z200,,IMRD
+H33zz00,Asthma NOS,H33zz00,,IMRD
+H33zz11,Exercise induced asthma,H33zz11,,IMRD
+H33zz12,Allergic asthma NEC,H33zz12,,IMRD
+H35y600,Sequoiosis (red-cedar asthma),H35y600,,IMRD
+H35y700,Wood asthma,H35y700,,IMRD
+H3B..00,Asthma-chronic obstructive pulmonary disease overlap syndrom,H3B..00,,IMRD
+H47y000,Detergent asthma,H47y000,,IMRD
+SLF7.00,Antiasthmatic poisoning,SLF7.00,,IMRD
+SLF7z00,Antiasthmatic poisoning NOS,SLF7z00,,IMRD
+TJF7.00,Adverse reaction to antiasthmatics,TJF7.00,,IMRD
+TJF7z00,Adverse reaction to antiasthmatic NOS,TJF7z00,,IMRD
+U60F600,"[X]Antiasthmats caus adverse effects in therapeut use, NEC",U60F600,,IMRD
+U60F611,[X] Adverse reaction to antiasthmatics,U60F611,,IMRD
+U60F61A,[X] Adverse reaction to antiasthmatic NOS,U60F61A,,IMRD
+9hA0.00,Excepted from asthma quality indicators: Service Unavailable,9hA0.00,,IMRD
