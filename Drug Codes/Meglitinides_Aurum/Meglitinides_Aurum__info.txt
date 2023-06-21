@@ -1,0 +1,5 @@
+Name: Meglitinides_Aurum
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2022-04-20
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [0.5, 1.000, 120.000, 120mg, 180.000, 180mg, 1mg, 2.000, 2mg, 500.000, 500microgram, 60.000, 60mg, consilient, enyglid, health, ltd, mg, microgram, nateglinide, nordisk, novartis, novo, novonorm, oral, pharmaceuticals, prandin, repaglinide, starlix, tablet, tablets, uk]

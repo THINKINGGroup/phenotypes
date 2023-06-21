@@ -1,0 +1,5 @@
+Name: Fibrate_FenofibrateOnly
+Created By: koo657@student.bham.ac.uk
+Created On: 2021-02-10
+Contains codes for: CEGEDIM (version: 2020-02-22) CPRD_AURUM (version: 2020-08-01) CPRD_GOLD (version: 2021-02-08) IMRD (version: 2019-10-01) 
+Keywords: [1, 10, 100, 100mg, 14, 145.000, 145mg, 145mg/20mg, 145mg/40mg, 15, 160.000, 160mg, 160mg/5ml, 20.000, 200, 200.000, 200mg, 20mg, 267, 267.000, 267mg, 28, 30, 40.000, 40mg, 60, 67, 67.000, 67mg, 7, 90, actavis, alliance, brooks, capsule, capsule2, capsule3, capsule4, capsule6, capsule9, capsules, cholib, company, de, distribution, dowelhurst, fenofibrate, fenofibrate/simvastatin, fenogal, fournier, generics, genus, h, healthcare, kent, laboratories, lexon, lipantil, ltd, mawdsley, mawdsley-brooks, medicines, mg, micro, micronised, micronised160mgtabletoral, micronised200mgcapsuleoral, micronised267mgcapsuleoral, ml, mylan, necessity, niche, oral, order, pharma, pharmaceuticals, phoenix, plc, ranbaxy, sandoz, sigma, simvastatin, simvastatin/fenofibrate, solution, special, stephar, sterwin, supplies, supralip, tablet, tablet2, tablet3, tablet4, tablets, teva, tillomed, torrent, u.k, uk, waymade, x, zentiva]

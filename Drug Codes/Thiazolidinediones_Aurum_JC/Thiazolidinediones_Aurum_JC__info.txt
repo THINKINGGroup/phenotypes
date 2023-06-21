@@ -1,0 +1,5 @@
+Name: Thiazolidinediones_Aurum_JC
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2022-04-11
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [1.000, 15.000, 15mg, 15mg/850mg, 1g, 1mg, 1mg/500mg, 2.000, 200, 2mg, 2mg/1000mg, 2mg/500mg, 30.000, 300, 30mg, 4.000, 400, 45.000, 45mg, 4mg, 4mg/1000mg, 500.000, 500mg, 8.000, 850.000, 850mg, 8mg, actavis, actos, arrow, avandamet, avandia, competact, diabiom, generics, glaxosmithkline, glidipion, glizofar, gram, hydrochloride, laboratories, ltd, maleate, metformin, mg, oral, pioglitazone, rosiglitazone, tablet, tablets, takeda, tillomed, troglitazone, uk]

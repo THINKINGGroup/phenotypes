@@ -1,0 +1,7 @@
+Name: Sulphonylureas_Aurum
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2022-05-04
+Last Modified By: cooperjx@adf.bham.ac.uk
+Last Modified On: 2022-05-04T10:59:49.173040
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [0.6, 1, 1.000, 1.200, 100, 100.000, 100mg, 16.000, 160.000, 160mg, 1mg, 1ml, 2, 2.000, 2.5, 2.500, 250, 250.000, 250mg, 2mg, 3.000, 30.000, 30mg, 3mg, 4.000, 40.000, 40mg, 40mg/5ml, 4mg, 5.000, 500, 500.000, 500mg, 5mg, 5mg/5ml, 5ml, 6.000, 60, 60.000, 600.000, 600micrograms/ml, 60mg, 6mg/5ml, 6mg/ml, 8.000, 80.000, 80mg, 80mg/5ml, accord, actavis, advanz, amaryl, amglidia, amring, ashbourne, aventis, bilxona, bristol, chlorpropamide, consilient, dacadis, daonil, dee, diabetamide, diabinese, diaglyk, diamicron, dimelor, edicil, euglucon, free, glibenclamide, glibenese, gliclazide, glimepiride, glipizide, glydex, health, healthcare, key, laaglyda, laboratories, lamzarin, ltd, m, m/r, medreich, mg, mg/1.000ml, mg/ml, microgram/1.000ml, minodiab, modified, modified-release, mr, mylan, nazdol, niddaryl, oral, pfizer, pharma, pharmaceuticals, plc, pr, release, sanofi, semi, semi-daonil, servier, solution, sugar, suspension, syringe, tablet, tablets, teva, tolazamide, tolbutamide, uk, vamju, vitile, xl, zentiva, zicron]

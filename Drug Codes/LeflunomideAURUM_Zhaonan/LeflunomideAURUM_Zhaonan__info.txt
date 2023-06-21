@@ -1,0 +1,5 @@
+Name: LeflunomideAURUM_Zhaonan
+Created By: zxw519@student.bham.ac.uk
+Created On: 2022-02-28
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [10.000, 100.000, 100mg, 10mg, 15.000, 15mg, 20.000, 20mg, arava, leflunomide, mg, oral, sanofi, tablet, tablets]

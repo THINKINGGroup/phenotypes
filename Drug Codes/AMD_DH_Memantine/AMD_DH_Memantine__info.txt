@@ -1,0 +1,7 @@
+Name: AMD_DH_Memantine
+Created By: d.han@bham.ac.uk
+Created On: 2021-10-26
+Last Modified By: d.han@bham.ac.uk
+Last Modified On: 2021-10-26T13:57:32.899642
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) 
+Keywords: [+10, +15, +20, 10.000, 10mg, 10mg/1ml, 10mg/ml, 20.000, 20mg, 5mg, 5mg/0.5ml, 5mg/10mg/15mg/20mg, actavis, actuation, administration, alliance, alzhok, applicable, applicableroute, consilient, de, distribution, dr, ebixa, europe, free, generics, glenmark, h, health, healthcare, hydrochloride, hydrochloride10mgtabletoral, hydrochloride20mgorodispersible, hydrochloride20mgtabletoral, initiation, laboratories, ltd, lundbeck, lupin, marixino, memantine, mg, mg/1.000ml, nemdatine, niche, oral, orodispersible, pack, pharma, pharmaceuticals, pump, reddy, route, soluble, solution, sugar, tablet, tabletoral, tablets, teva, torrent, treatment, uk, valios, zentiva]

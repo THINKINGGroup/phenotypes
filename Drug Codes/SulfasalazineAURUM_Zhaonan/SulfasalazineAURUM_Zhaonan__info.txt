@@ -1,0 +1,5 @@
+Name: SulfasalazineAURUM_Zhaonan
+Created By: zxw519@student.bham.ac.uk
+Created On: 2022-02-28
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [250mg/5ml, 50.000, 500.000, 500mg, ec, en, en-tabs, free, gastro, gastro-resistant, genesis, ltd, mg, mg/1.000ml, oral, pfizer, pharmaceuticals, resistant, salazopyrin, sugar, sulazine, sulfasalazine, suspension, tablet, tablets, tabs]

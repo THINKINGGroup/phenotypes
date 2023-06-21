@@ -1,0 +1,5 @@
+Name: SABA_PUSHAsthma
+Created By: n.simms-williams@bham.ac.uk
+Created On: 2021-10-27
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [100, 100.000, 100micrograms/dose, 20.000, 200, 95, accuhaler, actuated, aerosol, airsalb, autohaler, boehringer, breath, breath-actuated, breathe, bromide, cfc, combivent, disk, disks, dry, easi, easi-breathe, evohaler, free, glaxosmithkline, ingelheim, inhalation, inhaler, ipratropium, ltd, microgram/1.000dose, micrograms, micrograms/dose, micrograms/metered, micrograms/puff, powder, pressurised, salamol, salbutamol, sandoz, spacehaler, sulfate, teva, uk, ventolin]

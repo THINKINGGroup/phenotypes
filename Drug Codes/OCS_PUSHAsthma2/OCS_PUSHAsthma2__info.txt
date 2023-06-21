@@ -1,0 +1,7 @@
+Name: OCS_PUSHAsthma2
+Created By: n.simms-williams@bham.ac.uk
+Created On: 2021-10-27
+Last Modified By: n.simms-williams@bham.ac.uk
+Last Modified On: 2021-10-28T12:32:16.374066
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [1, 1.000, 10.000, 100.000, 100mg, 10mg, 10mg/ml, 15mg/5ml, 16.000, 16mg, 1mg, 2.000, 2.5, 2.500, 20.000, 20mg, 25.000, 25mg, 2mg, 3.000, 30.000, 30mg, 4.000, 4mg, 5, 5.000, 5mg, 5mg/5ml, 6.65, advanz, alliance, crescent, deltacortril, dilacort, dompe, dose, free, gastro, gastro-resistant, imported, lodotra, ltd, medrone, methylprednisolone, mg, mg/1.000ml, mg/5, ml, modified, modified-release, napp, oral, pevanti, pfizer, pharma, pharmaceuticals, phosphate, pills, prednisolone, prednisone, release, resistant, sodium, soluble, solution, steaglate, sucrose, sugar, suppositories, suppository, tablet, tablets, unit]

@@ -1,0 +1,7 @@
+Name: HydroxychloroquineAURUM_Zhaonan
+Created By: zxw519@student.bham.ac.uk
+Created On: 2022-02-25
+Last Modified By: zxw519@student.bham.ac.uk
+Last Modified On: 2022-03-08T11:21:08.096921
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [100mg/5ml, 20.000, 200.000, 200mg, 200mg/5ml, 300.000, 300mg, 35, 40.000, 400mg/5ml, 80.000, bristol, free, hydroxychloroquine, laboratories, ltd, mg, mg/1.000ml, mg/5, ml, oral, plaquenil, quinoric, sanofi, solution, sugar, sugar-free, sulfate, suspension, tablet, tablets]

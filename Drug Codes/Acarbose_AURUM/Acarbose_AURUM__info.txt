@@ -1,0 +1,5 @@
+Name: Acarbose_AURUM
+Created By: lxt002@student.bham.ac.uk
+Created On: 2022-04-02
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [100.000, 100mg, 50.000, 50mg, acarbose, bayer, glucobay, mg, oral, plc, tablet, tablets]

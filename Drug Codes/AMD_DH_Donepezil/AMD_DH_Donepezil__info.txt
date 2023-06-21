@@ -1,0 +1,7 @@
+Name: AMD_DH_Donepezil
+Created By: d.han@bham.ac.uk
+Created On: 2021-10-26
+Last Modified By: d.han@bham.ac.uk
+Last Modified On: 2021-10-26T14:03:06.441431
+Contains codes for: CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) 
+Keywords: [1.000, 10.000, 10mg, 10mg/5ml, 1mg/1ml, 1mg/ml, 2mg/1ml, 5.000, 5mg, accord, actavis, alliance, aricept, brooks, company, consilient, de, distribution, donepezil, eisai, evess, free, h, health, healthcare, hydrochloride, hydrochloride10mgtabletoral, hydrochloride5mgtabletoral, ltd, macleods, mawdsley, mawdsley-brooks, mg, mg/1.000ml, mylan, oral, orodispersible, pfizer, pharma, pharmaceuticals, phoenix, plc, ranbaxy, solution, sugar, suspension, tablet, tablets, teva, uk, waymade, zentiva]

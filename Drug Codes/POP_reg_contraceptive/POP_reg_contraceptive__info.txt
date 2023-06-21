@@ -1,0 +1,7 @@
+Name: POP_reg_contraceptive
+Created By: r.hotham@bham.ac.uk
+Created On: 2022-11-09
+Last Modified By: r.hotham@bham.ac.uk
+Last Modified On: 2022-11-21T15:50:18.697898
+Contains codes for: IMRD (version: 2021-06-29) CEGEDIM (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) UHB
+Keywords: [14, 168, 28, 30.000, 30microgram, 35, 350.000, 350microgram, 500, 500.000, 500mcg, 500microgram, 75.000, 75mcg, 75microgram, 84, actavis, aizea, alliance, bayer, besins, brooks, care, cerazette, cerelle, cilag, company, consilient, crescent, de, desogestrel, desogestrel75, desomono, desorex, diacetate, distribution, dohme, ethynodiol, etynodiol, feanolla, femulen, h, health, healthcare, j, janssen, janssen-cilag, levonorgestrel, licences, ltd, lupin, m, mawdsley, mawdsley-brooks, mcgill, medihealth, medrx, merck, microgram, micrograms, microgtabletoral, micronor, microval, moonia, morningside, nacrez, neogest, norethisterone, norethisterone350, norgeston, norgestrel, noriday, noriday350, northern, oral, pfizer, pharma, pharmaceuticals, plc, schering, sharp, sigma, somex, stragen, tablet, tablet3, tablet6, tablets, teva, uk, waymade, wyeth, x, zelleta, zentiva]

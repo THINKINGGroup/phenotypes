@@ -1,0 +1,7 @@
+Name: LAMA_PUSHAsthma
+Created By: n.simms-williams@bham.ac.uk
+Created On: 2021-12-09
+Last Modified By: n.simms-williams@bham.ac.uk
+Last Modified On: 2021-12-09T15:02:47.934349
+Contains codes for: CPRD_AURUM (version: 2021-07-19) 
+Keywords: [10.000, 10microgram, 11.8, 11.800, 18.000, 18microgram, 2.5, 2.500, 322micrograms/dose, 375.000, 375micrograms/dose, 396.000, 396micrograms/dose, 44microgram, 55.000, 55microgram, 55micrograms/dose, 65.000, 65micrograms/dose, aclidinium, astrazeneca, boehringer, braltus, breezhaler, bromide, capsules, cartridge, cfc, device, dihydrate, dry, eklira, ellipta, formoterol, free, fumarate, genuair, glaxosmithkline, glycopyrronium, handihaler, incruse, ingelheim, inhalation, inhaler, ltd, microgram, microgram/1.000dose, micrograms/dose, novartis, pharmaceuticals, powder, pressurised, refill, respimat, seebri, solution, spiriva, teva, tiotropium, uk, umeclidinium, zonda]

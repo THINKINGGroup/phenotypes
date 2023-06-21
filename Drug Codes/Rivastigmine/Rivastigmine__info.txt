@@ -1,0 +1,5 @@
+Name: Rivastigmine
+Created By: m.mohammad@bham.ac.uk
+Created On: 2022-09-01
+Contains codes for: IMRD (version: 2021-06-29) CEGEDIM (version: 2021-06-29) CPRD_AURUM (version: 2021-07-19) CPRD_GOLD (version: 2021-02-08) UHB
+Keywords: [1.5, 1.500, 120, 13.3, 13.300, 14, 2.000, 28, 2mg/1ml, 2mg/ml, 3.000, 30, 3mg, 4.5, 4.500, 4.6, 4.600, 56, 6, 6.000, 6mg, 7, 9.5, 9.500, actavis, advanz, alliance, almuriva, alzest, aspire, b.v, brooks, capsule, capsule2, capsule4, capsules, company, consilient, crescent, cst, de, distribution, dowelhurst, dr, eluden, erastig, exelon, focus, free, h, health, healthcare, hydrogen, kerstipon, laboratories, lexon, ltd, mawdsley, mawdsley-brooks, medihealth, mg, mg/1.000ml, mg/24.000hour, mg/24hour, mg/24hours, mg/24hrspatchtop, mgcapsuleoral, ml, mylan, necessity, nimvastid, northern, novartis, oral, originalis, patch, patch5, patches, pharma, pharmaceuticals, plc, prometax, reddys, rivastigmine, rivastigmine1.5, rivastigmine3, rivastigmine4.5, rivastigmine4.6, rosemont, sandoz, sigma, solution, somniton, stephar, sugar, supplies, tartrate, teva, torrent, transdermal, u.k, uk, voleze, waymade, x, zentiva]

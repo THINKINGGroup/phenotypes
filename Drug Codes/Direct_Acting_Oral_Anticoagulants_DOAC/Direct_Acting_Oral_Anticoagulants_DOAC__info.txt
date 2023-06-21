@@ -1,0 +1,5 @@
+Name: Direct_Acting_Oral_Anticoagulants_DOAC
+Created By: i.a.olukunle@bham.ac.uk
+Created On: 2022-11-15
+Contains codes for: IMRD (version: 2021-06-29) CEGEDIM (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) UHB
+Keywords: [1.000, 10, 10.000, 100, 10mg, 110.000, 110mg, 14, 15.000, 150.000, 150mg, 15mg, 1mg/ml, 2.5, 2.500, 20, 20.000, 20mg, 28, 30, 30.000, 30mg, 42, 49, 5.000, 56, 5mg, 60, 60.000, 60mg, 7, 75.000, 75mg, administration, apixaban, apixaban10, apixaban2.5, apixaban5, applicable, b.v, bayer, boehringer, bristol, bristol-myers, brooks, capsule, capsule6, capsules, company, cst, dabigatran, dabigatran110, daiichi, de, edoxaban, edoxaban30, edoxaban60, eliquis, etexilate, free, healthcare, ingelheim, initiation, lixiana, ltd, mawdsley, mawdsley-brooks, mesilate, mg, mg/1.000ml, mgcapsuleoral, mgtablet, mgtabletoral, myers, oral, originalis, pack, pharma, pharmaceuticals, pharmaram, pilsco, plc, pradaxa, rivaroxaban, rivaroxaban10, rivaroxaban15, rivaroxaban20, route, sankyo, squibb, sugar, suspension, tablet, tablet1, tablet10, tablet2, tablet3, tablet4, tablets, tosilate, treatment, uk, waymade, x, xarelto]

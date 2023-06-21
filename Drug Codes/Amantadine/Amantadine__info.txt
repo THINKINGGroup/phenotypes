@@ -1,0 +1,5 @@
+Name: Amantadine
+Created By: k.phillips.1@bham.ac.uk
+Created On: 2021-07-07
+Contains codes for: CEGEDIM (version: 2021-06-29) CPRD_AURUM (version: 2020-08-01) CPRD_GOLD (version: 2021-02-08) IMRD (version: 2021-06-29) UHB
+Keywords: [1, 10.000, 100, 100.000, 100mg, 10mg/1ml, 14, 150, 28, 5, 50mg/5ml, 56, actavis, alliance, amantadine, amantadine100, amantadine50, brooks, capsule, capsule4, capsules, company, de, distribution, free, h, healthcare, hydrochloride, lime, ltd, lysovir, mawdsley, mawdsley-brooks, medihealth, mg, mg/1.000ml, mgcapsuleoral, mgoral, ml, morningside, northern, northumbria, oral, order, pharma, pharmaceuticals, solution, solutionoral, special, sugar, symmetrel, syrup, tablet, tablets, teva, uk, x]
