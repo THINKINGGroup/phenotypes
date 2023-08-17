@@ -1,3 +1,5 @@
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
 # About
 This repository contains code lists created using the DExtER Code Builder tool, developed at the University of Birmingham.
 Code Builder allows you to search for medical codes and drug codes across different medical databases such as SnomedCT, Read codes and HES simultaneously and export the results. Here you can find code lists for app. 150 medical conditions and app. 75 medications.
@@ -26,3 +28,12 @@ Below you can see an explanation for each of the columns of the CSV files, separ
 | `READ_CODE`       | Read Codes are a coded thesaurus of clinical terms that have been used in the NHS since 1985. They provide a standard vocabulary for clinicians to record patient findings and procedures, in health and social care IT systems across primary and secondary care. [Read more about Read Codes](https://digital.nhs.uk/services/terminology-and-classifications/read-codes). | 
 | `SNOMED_CT_CODE`  | SNOMED CT is a structured clinical vocabulary for use in electronic health records. It is the most comprehensive and precise clinical health terminology product in the world. [Read more about SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct). |
 | `DATABASE`        | The database queried. |
+
+## Licence
+You are free to reuse and adapt the contents of this repository, as long as you provide appropriate attribution by citing the creators of this work and noting what adaptations you have made. See the [LICENCE file](/LICENCE) for the full terms.
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
