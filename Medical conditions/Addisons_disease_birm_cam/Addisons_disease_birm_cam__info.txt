@@ -1,5 +1,0 @@
-Name: Addisons_disease_birm_cam
-Created By: cooperjx@adf.bham.ac.uk
-Created On: 2023-04-05
-Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
-Keywords: [addison, addisonian, addisons, adrenal, adrenocortical, autoimmunity, crisis, diabetes, disease, due, glands, hypoadrenalism, hypothyroidism, insufficiency, lymphomatosa, medullary, mellitus, myopathy, myxedema, myxoedema, primary, struma, tuberculosis, tuberculous, unspecified, x]

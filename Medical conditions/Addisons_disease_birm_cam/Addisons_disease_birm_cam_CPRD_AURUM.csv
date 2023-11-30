@@ -1,21 +1,21 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
-"286325014","Tuberculosis of adrenal glands - Addison's disease","A176.00","186270000","CPRD_AURUM"
-"485624014","Addison's disease","C154100","363732003","CPRD_AURUM"
-"417461000006112","[X]Other+unspecified primary adrenocortical insufficiency","Cyu4900","373662000","CPRD_AURUM"
-"682621000006119","Myopathy due to Addison's disease","F395000","34253008","CPRD_AURUM"
-"41677012","Addisonian crisis","C154600","24867002","CPRD_AURUM"
-"460981000006112","Addisonian crisis","C154011","24867002","CPRD_AURUM"
-"3862421000006116","Diabetes mellitus, Addison's disease and myxedema","","83728000","CPRD_AURUM"
-"3862401000006114","Addison's disease with struma lymphomatosa","","83728000","CPRD_AURUM"
-"4741311000006118","Addison's disease due to tuberculosis","","186270000","CPRD_AURUM"
-"3051551000006111","Myopathy in Addison's disease","","34253008","CPRD_AURUM"
-"3051561000006113","Myopathy in Addison disease","","34253008","CPRD_AURUM"
-"12482011000006119","Addisonian crisis","","24867002","CPRD_AURUM"
-"6383841000006110","Primary hypoadrenalism","","373662000","CPRD_AURUM"
-"3862381000006114","Primary hypothyroidism AND adrenocortical insufficiency","","83728000","CPRD_AURUM"
-"3862341000006115","Diabetes mellitus, Addison's disease and myxoedema","","83728000","CPRD_AURUM"
-"6250371000006117","Addison disease","","363732003","CPRD_AURUM"
-"4741321000006114","Tuberculous Addison disease","","186270000","CPRD_AURUM"
-"4741291000006117","Tuberculous Addison's disease","","186270000","CPRD_AURUM"
-"12050681000006115","Addisonian crisis","","766986002","CPRD_AURUM"
-"3747591000006113","Addisons disease due to autoimmunity","","76715008","CPRD_AURUM"
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+286325014,Tuberculosis of adrenal glands - Addison's disease,A176.00,186270000,CPRD_AURUM
+485624014,Addison's disease,C154100,363732003,CPRD_AURUM
+417461000006112,[X]Other+unspecified primary adrenocortical insufficiency,Cyu4900,373662000,CPRD_AURUM
+682621000006119,Myopathy due to Addison's disease,F395000,34253008,CPRD_AURUM
+41677012,Addisonian crisis,C154600,24867002,CPRD_AURUM
+460981000006112,Addisonian crisis,C154011,24867002,CPRD_AURUM
+3862421000006116,"Diabetes mellitus, Addison's disease and myxedema",,83728000,CPRD_AURUM
+3862401000006114,Addison's disease with struma lymphomatosa,,83728000,CPRD_AURUM
+4741311000006118,Addison's disease due to tuberculosis,,186270000,CPRD_AURUM
+3051551000006111,Myopathy in Addison's disease,,34253008,CPRD_AURUM
+3051561000006113,Myopathy in Addison disease,,34253008,CPRD_AURUM
+12482011000006119,Addisonian crisis,,24867002,CPRD_AURUM
+6383841000006110,Primary hypoadrenalism,,373662000,CPRD_AURUM
+3862381000006114,Primary hypothyroidism AND adrenocortical insufficiency,,83728000,CPRD_AURUM
+3862341000006115,"Diabetes mellitus, Addison's disease and myxoedema",,83728000,CPRD_AURUM
+6250371000006117,Addison disease,,363732003,CPRD_AURUM
+4741321000006114,Tuberculous Addison disease,,186270000,CPRD_AURUM
+4741291000006117,Tuberculous Addison's disease,,186270000,CPRD_AURUM
+12050681000006115,Addisonian crisis,,766986002,CPRD_AURUM
+3747591000006113,Addisons disease due to autoimmunity,,76715008,CPRD_AURUM

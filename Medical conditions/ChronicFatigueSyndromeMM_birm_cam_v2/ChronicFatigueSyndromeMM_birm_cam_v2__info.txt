@@ -1,5 +1,0 @@
-Name: ChronicFatigueSyndromeMM_birm_cam_v2
-Created By: e.hathaway@bham.ac.uk
-Created On: 2023-09-20
-Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
-Keywords: [benign, cfs, chronic, encephalitis, encephalomyelitis, encephalopathy, fatigue, mild, moderate, myalgic, postviral, rfc, severe, synd, syndrome]

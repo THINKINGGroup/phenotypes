@@ -1,7 +1,0 @@
-Name: AorticAneurysm_Bham_CAM_v2
-Created By: e.hathaway@bham.ac.uk
-Created On: 2023-09-18
-Last Modified By: e.hathaway@bham.ac.uk
-Last Modified On: 2023-09-20T09:49:44.679568
-Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
-Keywords: [aa, aaa, abdom, abdominal, abnormal, anast, anastom, anastomosis, anatomosis, aneurys, aneurysm, aneurysmal, aorta, aorta/aorta, aortic, aorto, aorto-uniiliac, art, artery, asc, ascend, ascending, bifurc, bifurcation, bypass, dissecting, emerg, emergency, end, endov, endovas, endovascul, endovascular, fem, femoral, graft, h/o, history, iliac, inflammatory, infrarenal, ins, insert, insertion, juxtarenal, late, leaking, mention, nec, nonruptured, nos, operation, operations, os, plastic, quaternary, repair, repl, replace, replacement, rupture, ruptured, scan, screen, screening, segment, site, specified, stent, stenting, straight, suprarenal, syphilitic, thor, thoracic, thoracoabdominal, translum, transluminal, tube, ultrasound, uniiliac, unspecified, using, without, x, y]

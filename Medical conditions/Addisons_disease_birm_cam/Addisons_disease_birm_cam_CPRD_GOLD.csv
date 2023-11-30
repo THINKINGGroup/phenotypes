@@ -1,7 +1,7 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
-"4042","Addisonian crisis","C154011","","CPRD_GOLD"
-"4481","Addison's disease","C154100","","CPRD_GOLD"
-"12227","Addisonian crisis","C154600","","CPRD_GOLD"
-"35760","Tuberculosis of adrenal glands - Addison's disease","A176.00","","CPRD_GOLD"
-"48120","[X]Other+unspecified primary adrenocortical insufficiency","Cyu4900","","CPRD_GOLD"
-"69198","Myopathy due to Addison's disease","F395000","","CPRD_GOLD"
+MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
+4042,Addisonian crisis,C154011,,CPRD_GOLD
+4481,Addison's disease,C154100,,CPRD_GOLD
+12227,Addisonian crisis,C154600,,CPRD_GOLD
+35760,Tuberculosis of adrenal glands - Addison's disease,A176.00,,CPRD_GOLD
+48120,[X]Other+unspecified primary adrenocortical insufficiency,Cyu4900,,CPRD_GOLD
+69198,Myopathy due to Addison's disease,F395000,,CPRD_GOLD

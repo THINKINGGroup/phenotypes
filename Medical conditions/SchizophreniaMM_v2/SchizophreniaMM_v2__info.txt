@@ -1,7 +1,0 @@
-Name: SchizophreniaMM_v2
-Created By: e.hathaway@bham.ac.uk
-Created On: 2023-09-20
-Last Modified By: e.hathaway@bham.ac.uk
-Last Modified On: 2023-10-16T12:29:13.488933
-Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
-Keywords: [acute, affective, alcohol, associated, atypical, behav, bipolar, borderline, bouffee, caffeine, cannabinoids, catalepsy, catatonia, catatonic, cenesthopathic, cerea, childhood, chronic, cocaine, coenesthopathic, complete, continuous, course, cyclic, cycloid, deficit, delirante, delusional, depression, dis, disord, disorder, disorders, disordr, disorganised, disorganized, drug, due, epilepsy, episode, episodic, exacerbation, exacerbations, flexibilatis, h/o, hallucinogens, hebephrenic, history, inc, incomplete, language, latent, like, ment/behav, mental, mixed, mlti, nos, observation, opioids, organic, paranoid, paraphrenic, period, personal, polymorphic, post, post-schizophrenic, prepsychotic, prodromal, prodrome, progressive, pseudoneurotic, pseudopsychopathic, psyc, psychoses, psychosis, psychotc, psychotic, reaction, remission, remittent, residual, resolved, restzustand, sbs, schizo, schizo-affective, schizoaffective, schizophrenia, schizophrenia-like, schizophrenic, schizotypal, seds/hypntcs, short, simple, simplex, solvents, stable, stimulants, stress, subchronic, symptoms, tobacco, uncertain, undifferentiated, unspecified, use, use/oth, v, vol, without, x]

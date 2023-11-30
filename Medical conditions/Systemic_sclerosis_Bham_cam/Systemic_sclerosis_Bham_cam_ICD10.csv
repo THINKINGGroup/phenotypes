@@ -1,6 +1,0 @@
-"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
-"M34","Systemic sclerosis","M34","","ICD10"
-"M340","Progressive systemic sclerosis","M34.0","","ICD10"
-"M342","Systemic sclerosis induced by drugs and chemicals","M34.2","","ICD10"
-"M348","Other forms of systemic sclerosis","M34.8","","ICD10"
-"M349","Systemic sclerosis, unspecified","M34.9","","ICD10"

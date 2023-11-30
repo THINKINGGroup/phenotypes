@@ -1,5 +1,0 @@
-Name: IschaemicStroke_Bham_CAM_v2
-Created By: e.hathaway@bham.ac.uk
-Created On: 2023-09-20
-Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
-Keywords: [anterior, arterial, arteries, artery, artrs, basal, basilar, bilat, brain, brainstem, c.3, carotid, cause, cereb, cerebellar, cerebral, cerebrl, cerebrovascular, class, classification, cva, death, disease, diseases, due, due/unspcf, embolism, embolus, europe, ganglia, generalised, haemorrhagic, hemispheric, imaging, infarct, infarction, infarctn, insufficiency, ischaemic, ischemic, lacunar, lateral, left, medullary, middle, motor, multiple, nonpyogenic, nos, occlus/stenos, occlusion, occlusn, old, palsy, patt, pattern, posterior, precerebr, precerebral, predom, predominant, pure, right, scpe, sensory, sided, steal, stem, sten/cerebrl, stenosis, stroke, structure, subclavian, surveillance, syndrome, syndromes, thrombosis, transformation, unsp, unspecified, vascular, venous, vertebral, vertebro, vertebro-basilar, vertebrobasilar, wallenberg, x]
