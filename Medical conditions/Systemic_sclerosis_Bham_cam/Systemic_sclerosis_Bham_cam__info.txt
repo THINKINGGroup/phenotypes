@@ -1,0 +1,5 @@
+Name: Systemic_sclerosis_Bham_cam
+Created By: e.hathaway@bham.ac.uk
+Created On: 2023-10-17
+Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
+Keywords: [acrosclerosis, acute, calcinosis, chemicals, crest, crisis, cutaneous, disease, drugs, due, dysfunction, dysmotility, esophageal, forms, induced, involvement, limited, lung, myopathy, newborn, oesophageal, phenomenon, progressive, pss, raynaud, raynauds, renal, sclerodactyly, scleroderma, sclerosis, ss, syndrome, systemic, telangiectasia, unspecified, x]

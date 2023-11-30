@@ -1,0 +1,5 @@
+Name: plasmacell_neoplasm_birm_cam_v2
+Created By: cooperjx@adf.bham.ac.uk
+Created On: 2023-10-18
+Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
+Keywords: [alpha, amyloidosis, associated, asymptomatic, behaviour, bone, cell, cells, chain, classification, clinical, co, co-occurrent, disease, diseases, due, enteric, etc, extramedullary, form, g, gamma, heavy, history, icd, icd-o, iga, igd, igg, immunoglobulin, immunoproliferative, indolent, international, kahlers, kappa, kidney, lambda, leukaemia, leukaemias, leukemia, light, m, malignant, marrow, monostotic, morphology, mu, multiple, myeloma, myeloma/plasmacytoma, myelomalacia, myelomatosis, neopl, neoplasm, neoplasms, non, non-secretory, nos, "null", o, occurrent, oncology, osseous, osteoporosis, plasma, plasmacytic, plasmacytoma, plasmacytomas, remission, rfc, secretory, smouldering, solitary, subtype, tumor, tumour, tumours, uncertain]

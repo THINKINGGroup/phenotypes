@@ -1,8 +1,8 @@
-MEDICAL_CODE_ID,DESCRIPTION,READ_CODE,SNOMED_CT_CODE,DATABASE
-A176.00,Tuberculosis of adrenal glands - Addison's disease,A176.00,,IMRD
-C154011,Addisonian crisis,C154011,,IMRD
-C154100,Addison's disease,C154100,,IMRD
-C154600,Addisonian crisis,C154600,,IMRD
-C155000,Adrenal medullary insufficiency,C155000,,IMRD
-Cyu4900,[X]Other+unspecified primary adrenocortical insufficiency,Cyu4900,,IMRD
-F395000,Myopathy due to Addison's disease,F395000,,IMRD
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"A176.00","Tuberculosis of adrenal glands - Addison's disease","A176.00","","IMRD"
+"C154011","Addisonian crisis","C154011","","IMRD"
+"C154100","Addison's disease","C154100","","IMRD"
+"C154600","Addisonian crisis","C154600","","IMRD"
+"C155000","Adrenal medullary insufficiency","C155000","","IMRD"
+"Cyu4900","[X]Other+unspecified primary adrenocortical insufficiency","Cyu4900","","IMRD"
+"F395000","Myopathy due to Addison's disease","F395000","","IMRD"

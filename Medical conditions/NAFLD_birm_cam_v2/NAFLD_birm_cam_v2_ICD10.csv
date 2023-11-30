@@ -1,0 +1,3 @@
+"MEDICAL_CODE_ID","DESCRIPTION","READ_CODE","SNOMED_CT_CODE","DATABASE"
+"K758","Other specified inflammatory liver diseases","K75.8","","ICD10"
+"K760","Fatty (change of) liver, not elsewhere classified","K76.0","","ICD10"

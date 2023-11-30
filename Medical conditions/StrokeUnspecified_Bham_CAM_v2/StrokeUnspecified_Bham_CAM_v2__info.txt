@@ -1,0 +1,5 @@
+Name: StrokeUnspecified_Bham_CAM_v2
+Created By: e.hathaway@bham.ac.uk
+Created On: 2023-09-20
+Contains codes for: IMRD (version: 2021-06-29) CPRD_AURUM (version: 2022-10-10) CPRD_GOLD (version: 2021-02-08) ICD10 (version: 2020-04-01) 
+Keywords: [6, accident, acute, admission, annual, basal, blood, brain, care, cerebellar, cerebral, cerebrovascular, clinic, cva, cva/stroke, ganglion, h/o, haemorrhage, hemisphere, history, infarction, lacunar, last, left, month, personal, review, rfc, right, seen, service, sided, specified, stem, stroke, stroke/cerebrovascular, stroke/cva, syndrome, test, tia, undefined, unit, unspecified, v, year]
